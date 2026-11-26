@@ -1,11 +1,11 @@
 {
- "id": "2026-11-26T17:00",
+ "id": "2026-11-26T18:00",
  "date": {
   "ar": "الخميس 26 نوفمبر 2026",
   "en": "Thursday 26 November 2026"
  },
- "uae": "5:00 PM",
- "cairo": "3:00 PM",
+ "uae": "6:00 PM",
+ "cairo": "4:00 PM",
  "sections": [
   {
    "title": {
@@ -14,39 +14,39 @@
    },
    "items": [
     {
-     "ar": "الرئيس السيسي يستقبل أمير قطر الشيخ تميم بن حمد في مطار القاهرة ويصطحبه إلى قصر الاتحادية حيث أقيمت مراسم استقبال رسمية واجتماع بين الزعيمين.",
+     "ar": "ينتظر أهالي ضحايا حادث دائري الوراق تسلّم جثامين ذويهم، لحين انتهاء الجهات المختصة من تحديد الهوية ومطابقة نتائج تحاليل الحمض النووي.",
      "src_ar": "العربية مصر",
-     "en": "President Sisi received Qatar's Emir Sheikh Tamim bin Hamad at Cairo airport and took him to the Ittihadiya Palace for an official welcome ceremony and a meeting between the two leaders.",
+     "en": "Families of the Warraq ring road accident victims are waiting to receive their relatives' bodies until the authorities finish identification and DNA matching.",
      "src_en": "Al Arabiya Egypt"
     },
     {
-     "ar": "إعلام مصري: 30 جثة من ضحايا حادث الوراق لا تزال مجهولة الهوية بسبب حالتها.",
-     "src_ar": "العربية مصر",
-     "en": "Egyptian media: 30 bodies of the Warraq accident victims are still unidentified because of their condition.",
-     "src_en": "Al Arabiya Egypt"
+     "ar": "وكالة الأنباء الإيطالية أنسا: مقتل عاملين إيطاليين جراء ضربة إيرانية في الكويت.",
+     "src_ar": "الجزيرة",
+     "en": "Italy's ANSA news agency: two Italian workers were killed in an Iranian strike in Kuwait.",
+     "src_en": "Al Jazeera"
     },
     {
-     "ar": "الجيش الكويتي: عدوان إيراني على موقع حيوي أسفر عن إصابة 4 أشخاص، بينهم مواطن وإيطاليان وباكستاني، كما جرى التعامل مع مسيّرات معادية في الأجواء.",
+     "ar": "الكرملين: أجهزة مخابرات روسيا وأوكرانيا ومكتبا مفوضي حقوق الإنسان يضعون اللمسات الأخيرة على قوائم عملية تبادل كبيرة لأسرى الحرب.",
+     "src_ar": "رويترز",
+     "en": "Kremlin: Russian and Ukrainian intelligence services and the two human rights ombudsman offices are finalising lists for a large prisoner-of-war exchange.",
+     "src_en": "Reuters"
+    },
+    {
+     "ar": "خليل الحية: حماس تجري مشاورات مع الفصائل لبحث كيفية التعامل مع الخروقات الإسرائيلية.",
      "src_ar": "العربية",
-     "en": "Kuwaiti army: an Iranian attack on a vital site injured 4 people, a Kuwaiti citizen, two Italians and a Pakistani, and hostile drones in Kuwaiti airspace were dealt with.",
+     "en": "Khalil al-Hayya: Hamas is consulting with the factions on how to respond to Israeli violations.",
      "src_en": "Al Arabiya"
     },
     {
-     "ar": "هيئة بحرية بريطانية: ناقلة نفط متجهة إلى خارج الخليج أصيبت بمقذوف أثناء عبورها مضيق هرمز، على بعد 18 ميلا بحريا شرق خصب في سلطنة عمان.",
-     "src_ar": "الجزيرة",
-     "en": "A British maritime agency says an oil tanker leaving the Gulf was hit by a projectile while crossing the Strait of Hormuz, 18 nautical miles east of Khasab in Oman.",
-     "src_en": "Al Jazeera"
+     "ar": "القناة 12 الإسرائيلية: اتفاق بين آيزنكوت وحزب الديمقراطيين يمنح الحزب 4 وزارات، منها وزارة الأمن القومي لياير غولان.",
+     "src_ar": "سكاي نيوز عربية",
+     "en": "Israel's Channel 12: a deal between Eisenkot and the Democrats party gives the party 4 ministries, including national security for Yair Golan.",
+     "src_en": "Sky News Arabia"
     },
     {
-     "ar": "الجزيرة: إسرائيل تغتال وكيل وزارة التعليم في غزة خالد أبو ندى وزوجته، وحماس تندد بخرق وقف إطلاق النار بينما يتوعد وزير الدفاع الإسرائيلي كاتس قادة الحركة.",
-     "src_ar": "الجزيرة",
-     "en": "Al Jazeera: Israel killed Gaza's education undersecretary Khaled Abu Nada and his wife. Hamas condemned a breach of the ceasefire, and Israeli Defense Minister Katz threatened the movement's leaders.",
-     "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "روسيا وأوكرانيا تجريان عملية تبادل لجثث جنود قُتلوا في المعارك، بحسب عضو في مجلس الدوما نقلت عنه مجموعة آر بي سي الإعلامية.",
+     "ar": "رويترز: عدد حالات الإيبولا في الكونغو يتجاوز 12 ألف حالة وسط صعوبات في احتواء التفشي.",
      "src_ar": "رويترز",
-     "en": "Russia and Ukraine are exchanging the bodies of soldiers killed in fighting, according to a Duma member quoted by Russia's RBC media group.",
+     "en": "Reuters: Congo's Ebola cases exceed 12,000 as responders struggle to contain the outbreak.",
      "src_en": "Reuters"
     }
    ]
@@ -58,37 +58,54 @@
    },
    "items": [
     {
-     "ar": "الجهاز المركزي للإحصاء في مصر: ارتفاع التبادل التجاري بين مصر وقطر 15.9% في أول 9 أشهر من العام، بالتزامن مع زيارة أمير قطر.",
-     "src_ar": "CNBC عربية",
-     "en": "Egypt's statistics agency: trade between Egypt and Qatar rose 15.9% in the first 9 months of the year, as Qatar's emir visits Egypt.",
-     "src_en": "CNBC Arabia"
+     "ar": "رويترز عن مصدرين: أوبك+ سيمدد على الأرجح مستويات إنتاج النفط الحالية خلال اجتماع الأحد حتى الربع الأول من 2027 على الأقل.",
+     "src_ar": "رويترز",
+     "en": "Reuters, citing two sources: OPEC+ will likely extend current oil output levels at its Sunday meeting through at least the first quarter of 2027.",
+     "src_en": "Reuters"
     },
     {
-     "ar": "بنك بي بي في إيه الإسباني يلغي إدراج أسهمه في بورصة لندن بعد 38 عاما.",
-     "src_ar": "العربية Business",
-     "en": "Spain's BBVA is delisting its shares from the London Stock Exchange after 38 years.",
-     "src_en": "Al Arabiya Business",
+     "ar": "محمد بن راشد يفتتح محطة حتا الكهرومائية باستثمارات 1.4 مليار درهم وقدرة إنتاجية 250 ميغاواط.",
+     "src_ar": "مكتب دبي الإعلامي",
+     "en": "Mohammed bin Rashid inaugurates the Hatta hydroelectric station, with AED 1.4 billion in investment and 250 MW of capacity.",
+     "src_en": "Dubai Media Office",
      "img": {
-      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bilbao_-_Torre_del_Banco_BBVA_(29052476710).jpg?width=960",
-      "page": "https://commons.wikimedia.org/wiki/File:Bilbao_-_Torre_del_Banco_BBVA_(29052476710).jpg",
-      "credit": "Fred Romero",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Hatta_Dam_-_UAE.jpg?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:Hatta_Dam_-_UAE.jpg",
+      "credit": "Robert Haandrikman",
       "lic": "CC BY 2.0",
       "lic_url": "https://creativecommons.org/licenses/by/2.0/",
-      "cap_ar": "صورة توضيحية، ليست من الحدث: برج بنك بي بي في إيه في بلباو. قُصّت وصُغّرت. ©",
-      "cap_en": "Illustrative, not from the event: the BBVA tower in Bilbao. Cropped and resized. ©"
+      "cap_ar": "صورة توضيحية، ليست من الحدث: سد حتا. قُصّت وصُغّرت. ©",
+      "cap_en": "Illustrative, not from the event: Hatta Dam. Cropped and resized. ©"
      }
     },
     {
-     "ar": "واشنطن تعتزم فرض رسوم جمركية جديدة على 14 اقتصادا.",
-     "src_ar": "العربية Business",
-     "en": "Washington plans new tariffs on 14 economies.",
-     "src_en": "Al Arabiya Business"
-    },
+     "ar": "4 شركات طيران أوروبية تستأنف رحلاتها إلى مطار دبي خلال نوفمبر.",
+     "src_ar": "الإمارات اليوم",
+     "en": "4 European airlines are resuming flights to Dubai airport in November.",
+     "src_en": "Emarat Al Youm",
+     "img": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Dubai_International_Airport_Terminal_three.JPG?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:Dubai_International_Airport_Terminal_three.JPG",
+      "credit": "VtTN",
+      "lic": "CC BY-SA 3.0",
+      "lic_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "cap_ar": "صورة توضيحية، ليست من الحدث: المبنى 3 في مطار دبي الدولي. قُصّت وصُغّرت. ©",
+      "cap_en": "Illustrative, not from the event: Terminal 3 at Dubai International Airport. Cropped and resized. ©"
+     }
+    }
+   ]
+  },
+  {
+   "title": {
+    "ar": "رياضة",
+    "en": "Sport"
+   },
+   "items": [
     {
-     "ar": "الدولار يستقر تقريبا مع تعافي الأسهم العالمية، قرب أعلى مستوياته هذا العام.",
-     "src_ar": "CNBC عربية",
-     "en": "The dollar is little changed as global stocks recover, near its highest levels this year.",
-     "src_en": "CNBC Arabia"
+     "ar": "الكاف يوافق على طلب الزمالك الوقوف دقيقة صمت قبل مباراة الإفريقي التونسي ترحما على ضحايا حادث دائري الوراق.",
+     "src_ar": "فيل جول",
+     "en": "CAF approves Zamalek's request for a minute of silence before the match against Tunisia's Club Africain in memory of the Warraq ring road accident victims.",
+     "src_en": "FilGoal"
     }
    ]
   }
