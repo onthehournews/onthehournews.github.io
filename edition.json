@@ -1,11 +1,11 @@
 {
- "id": "2026-11-26T21:00",
+ "id": "2026-11-26T22:00",
  "date": {
   "ar": "الخميس 26 نوفمبر 2026",
   "en": "Thursday 26 November 2026"
  },
- "uae": "9:00 PM",
- "cairo": "7:00 PM",
+ "uae": "10:00 PM",
+ "cairo": "8:00 PM",
  "sections": [
   {
    "title": {
@@ -14,34 +14,34 @@
    },
    "items": [
     {
-     "ar": "أسرة فقدت 9 من أقاربها في حادث الطريق الدائري بالوراق أثناء توجههم لحضور حفل زفاف: العثور على 4 مصابين، والبحث مستمر عن 5 آخرين.",
-     "src_ar": "العربية مصر",
-     "en": "A family lost nine relatives in the Ring Road accident in Warraq while heading to a wedding: four injured relatives have been found and the search continues for five others.",
-     "src_en": "Al Arabiya Egypt"
+     "ar": "وزارة الصحة المصرية: ارتفاع عدد ضحايا حريق الوراق بالجيزة إلى 31 وفاة، والنيابة العامة تأمر بحبس قائد السيارة التي اصطدمت بناقلة الوقود.",
+     "src_ar": "الجزيرة وسكاي نيوز عربية",
+     "en": "Egypt's Health Ministry: the death toll from the Warraq fire in Giza rises to 31, and prosecutors order the driver of the car that hit the fuel tanker detained.",
+     "src_en": "Al Jazeera and Sky News Arabia"
     },
     {
-     "ar": "المتحدث باسم القوات المسلحة الإيرانية ينفي مهاجمة موقع حيوي في الكويت، ويقول إن قواته لم تنفذ أي عمليات عسكرية أو هجومية في المنطقة.",
-     "src_ar": "الجزيرة وسكاي نيوز عربية ورويترز",
-     "en": "Iran's armed forces spokesman denies attacking a vital site in Kuwait and says its forces carried out no military or offensive operations in the region.",
-     "src_en": "Al Jazeera, Sky News Arabia and Reuters"
+     "ar": "الخارجية الإيرانية: عراقجي نفى في اتصال مع نظيره الكويتي أن تكون إيران شنت هجوما على الكويت، وأبدى استعداد بلاده لتحقيق مشترك في الحادث.",
+     "src_ar": "العربية ورويترز",
+     "en": "Iran's foreign ministry: in a call with his Kuwaiti counterpart, Araghchi denied Iran attacked Kuwait and said Tehran is ready for a joint investigation into the incident.",
+     "src_en": "Al Arabiya and Reuters"
     },
     {
-     "ar": "وزير الخارجية الإيراني عراقجي: مستعدون لكل الاحتمالات، سواء للحرب أو للدبلوماسية.",
-     "src_ar": "العربية",
-     "en": "Iranian Foreign Minister Araghchi: we are ready for all possibilities, whether war or diplomacy.",
-     "src_en": "Al Arabiya"
-    },
-    {
-     "ar": "وزير الدفاع الإسرائيلي يهدد بإجبار مليون فلسطيني في غزة على النزوح ما لم تنزع حماس سلاحها، رغم اتفاق وقف إطلاق النار.",
-     "src_ar": "الجزيرة وغالف نيوز",
-     "en": "Israel's defence minister threatens to force one million Palestinians in Gaza to leave unless Hamas disarms, despite the ceasefire agreement.",
-     "src_en": "Al Jazeera and Gulf News"
-    },
-    {
-     "ar": "خليل الحية، رئيس المكتب السياسي لحماس: لا يمكن القبول بمعادلة القتل والحصار في ظل اتفاق غزة.",
+     "ar": "السفارة الإيرانية في روما ترفض ادعاءات تورط إيران في هجوم بطائرة مسيرة على قاعدة عسكرية في الكويت أسفر عن مقتل إيطاليين اثنين.",
      "src_ar": "الجزيرة",
-     "en": "Hamas political bureau head Khalil al-Hayya: the equation of killing and siege cannot be accepted under the Gaza agreement.",
+     "en": "Iran's embassy in Rome rejects claims that Iran was involved in a drone attack on a military base in Kuwait that killed two Italians.",
      "src_en": "Al Jazeera"
+    },
+    {
+     "ar": "ترامب والأمين العام لحلف الناتو مارك روته يصدران بيانا مشتركا يحث روسيا على الامتناع عن أي إجراءات، متعمدة أو غير ذلك، من شأنها توسيع نطاق الحرب في أوكرانيا.",
+     "src_ar": "CNBC عربية",
+     "en": "Trump and NATO Secretary General Mark Rutte issue a joint statement urging Russia to avoid any actions, deliberate or otherwise, that could widen the war in Ukraine.",
+     "src_en": "CNBC Arabia"
+    },
+    {
+     "ar": "السويد تستدعي السفير الروسي احتجاجا على خرق موسكو للمجال الجوي البولندي.",
+     "src_ar": "العربية",
+     "en": "Sweden summons the Russian ambassador to protest Moscow's violation of Polish airspace.",
+     "src_en": "Al Arabiya"
     }
    ]
   },
@@ -52,22 +52,28 @@
    },
    "items": [
     {
-     "ar": "العربية: واشنطن تكشف خريطة الرسوم الجمركية المقترحة على 14 اقتصادا، بنسب تصل إلى 35%: فيتنام 35% والهند 25% والصين 20%.",
-     "src_ar": "العربية Business",
-     "en": "Al Arabiya: Washington unveils proposed tariffs on 14 economies of up to 35%, including Vietnam 35%, India 25% and China 20%.",
-     "src_en": "Al Arabiya Business"
+     "ar": "رئيس المجلس الأوروبي: دول منطقة اليورو اتفقت على ترشيح بابلو هيرنانديز دي كوس لرئاسة البنك المركزي الأوروبي.",
+     "src_ar": "CNBC عربية",
+     "en": "European Council president: eurozone states agreed to nominate Pablo Hernández de Cos as head of the European Central Bank.",
+     "src_en": "CNBC Arabia"
     },
     {
-     "ar": "فايننشال تايمز: إنفيديا طلبت من شركائها في التصنيع وقف شحن الخوادم التي تحتوي على رقائقها إلى ماليزيا وسنغافورة وتايلاند وإندونيسيا.",
+     "ar": "رويترز: مالبورو المصنعة، شركة ألتريا الأمريكية، تدرس الاستحواذ على إمبريال براندز في صفقة ضخمة لقطاع التبغ.",
      "src_ar": "رويترز",
-     "en": "The Financial Times reports Nvidia asked its manufacturing partners to stop shipping servers containing its chips to Malaysia, Singapore, Thailand and Indonesia.",
+     "en": "Reuters: Altria, the US maker of Marlboro, is exploring a takeover of Imperial Brands in a Big Tobacco mega deal.",
      "src_en": "Reuters"
     },
     {
-     "ar": "ترامب عبر تروث سوشيال: الأرقام الاقتصادية التي نُشرت قبل الانتخابات تبين أنها مزيفة، بعد تصحيح أصدرته الوكالة الحكومية المعنية.",
-     "src_ar": "CNBC عربية",
-     "en": "Trump on Truth Social: economic figures published before the election turned out to be fake, after the government agency issued a correction.",
-     "src_en": "CNBC Arabia"
+     "ar": "البنك المركزي المصري يبيع أذون خزانة محلية بأقل من المستهدف مع تزايد ضغوط أسعار الفائدة.",
+     "src_ar": "الشرق بلومبرغ",
+     "en": "Egypt's central bank sold local treasury bills below its target as interest rate pressure grows.",
+     "src_en": "Asharq Bloomberg"
+    },
+    {
+     "ar": "صادرات مصر إلى قطر ترتفع بأكثر من 44% في 9 أشهر.",
+     "src_ar": "العربية Business",
+     "en": "Egypt's exports to Qatar jump more than 44% in nine months.",
+     "src_en": "Al Arabiya Business"
     }
    ]
   },
@@ -78,15 +84,9 @@
    },
    "items": [
     {
-     "ar": "الأهلي يقرر استبعاد حمادة السيد من الجهاز الفني، والمقاولون العرب يرحب بعودته للعمل مع الفريق.",
+     "ar": "ليونيل ميسي سيشارك في مباراة اعتزال كارلوس تيفيز يوم 20 ديسمبر على ملعب لا بومبونيرا، ومشاركة كريستيانو رونالدو لم تُحسم بعد.",
      "src_ar": "فيل جول",
-     "en": "Al Ahly decides to remove Hamada El-Sayed from its coaching staff, and Arab Contractors say they welcome his return to work with the team.",
-     "src_en": "FilGoal"
-    },
-    {
-     "ar": "سافينيو يغيب لعدة أسابيع بعد إصابة في أوتار الركبة.",
-     "src_ar": "فيل جول",
-     "en": "Savinho will be out for several weeks after a hamstring injury.",
+     "en": "Lionel Messi will play in Carlos Tevez's farewell match on 20 December at La Bombonera, while Cristiano Ronaldo's participation is not yet decided.",
      "src_en": "FilGoal"
     }
    ]
