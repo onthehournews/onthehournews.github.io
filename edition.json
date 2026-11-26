@@ -1,11 +1,11 @@
 {
- "id": "2026-11-26T09:00",
+ "id": "2026-11-26T14:00",
  "date": {
   "ar": "الخميس 26 نوفمبر 2026",
   "en": "Thursday 26 November 2026"
  },
- "uae": "9:00 AM",
- "cairo": "7:00 AM",
+ "uae": "2:00 PM",
+ "cairo": "12:00 PM",
  "sections": [
   {
    "title": {
@@ -14,28 +14,34 @@
    },
    "items": [
     {
-     "ar": "السودان: مصدر بالجيش السوداني يؤكد خلو ولاية شمال كردفان بالكامل من قوات الدعم السريع، واستمرار التقدم نحو غرب كردفان.",
-     "src_ar": "الجزيرة",
-     "en": "Sudan: A Sudanese army source confirms North Kordofan state is completely clear of the Rapid Support Forces, with the advance toward West Kordofan continuing.",
-     "src_en": "Al Jazeera"
+     "ar": "الحصيلة النهائية لحادث الطريق الدائري بالوراق: 31 وفاة و26 مصابا، بحسب وزارة الصحة المصرية.",
+     "src_ar": "العربية وسكاي نيوز عربية",
+     "en": "Final toll from the Ring Road accident in Warraq: 31 dead and 26 injured, according to Egypt's Health Ministry.",
+     "src_en": "Al Arabiya and Sky News Arabia"
     },
     {
-     "ar": "ميانمار تعلن أنها لن تلتزم ببنود تصفها بـ\"غير المناسبة\" في قرار محكمة العدل الدولية بشأن الإبادة الجماعية.",
-     "src_ar": "فرانس برس",
-     "en": "Myanmar says it will not abide by provisions it calls \"inappropriate\" in the International Court of Justice ruling on genocide.",
-     "src_en": "AFP"
-    },
-    {
-     "ar": "مصادر: أكثر من نصف العاملين الميدانيين في برنامج حكومي أمريكي لرصد المجاعات سيفقدون وظائفهم بحلول نهاية العام بسبب نقص التمويل.",
+     "ar": "الحرس الثوري الإيراني: ناقلتان انفجرتا واشتعلت فيهما النيران بعد اصطدامهما بألغام بحرية شمال ميناء خصب العماني أثناء محاولتهما عبور مضيق هرمز.",
      "src_ar": "رويترز",
-     "en": "Sources: More than half the field staff of a US government famine-monitoring program will lose their jobs by year-end because of a funding shortfall.",
+     "en": "Iran's Revolutionary Guards say two tankers exploded and caught fire after hitting naval mines north of Oman's Khasab port while trying to cross the Strait of Hormuz.",
      "src_en": "Reuters"
     },
     {
-     "ar": "قاضٍ أمريكي يمنع لجنة الاتصالات الفيدرالية من استهداف محطات ABC المملوكة لشركة ديزني.",
+     "ar": "الإمارات تدين بشدة محاولة جماعة الحوثي استهداف عدد من المناطق في السعودية.",
+     "src_ar": "وكالة أنباء الإمارات",
+     "en": "The UAE strongly condemns the Houthi group's attempt to target areas in Saudi Arabia.",
+     "src_en": "Emirates News Agency (WAM)"
+    },
+    {
+     "ar": "الكرملين يتهم أوكرانيا بمحاولة توسيع نطاق الحرب مع روسيا إلى البحر المتوسط وبحر البلطيق، ويصف الخطوة بأنها بالغة الخطورة.",
      "src_ar": "رويترز",
-     "en": "A US judge blocks the Federal Communications Commission from targeting Disney-owned ABC stations.",
+     "en": "The Kremlin accuses Ukraine of trying to widen the war with Russia to the Mediterranean and the Baltic Sea, calling the move extremely dangerous.",
      "src_en": "Reuters"
+    },
+    {
+     "ar": "مصدر طبي فلسطيني: 5 مصابين بنيران مسيّرة إسرائيلية في مشروع بيت لاهيا شمالي قطاع غزة.",
+     "src_ar": "سكاي نيوز عربية",
+     "en": "A Palestinian medical source says 5 people were wounded by Israeli drone fire in the Beit Lahia project area in northern Gaza.",
+     "src_en": "Sky News Arabia"
     }
    ]
   },
@@ -46,40 +52,42 @@
    },
    "items": [
     {
-     "ar": "مصر: أسعار الأرز المصري ترتفع 25% بدعم من تحسّن الطلب.",
+     "ar": "وزير المالية المصري: نستهدف عائدا بنسبة 19.5% على أول إصدار من الصكوك الضريبية، وتنفيذه بنهاية نوفمبر أو مطلع ديسمبر.",
+     "src_ar": "الشرق بلومبرغ",
+     "en": "Egypt's finance minister: we are targeting a 19.5% yield on the first tax sukuk issuance, to be carried out by the end of November or early December.",
+     "src_en": "Asharq Bloomberg"
+    },
+    {
+     "ar": "ارتفاع صادرات قطر من الغاز المسال إلى أعلى مستوى منذ اندلاع حرب إيران.",
      "src_ar": "العربية Business",
-     "en": "Egypt: Egyptian rice prices rise 25% on improved demand.",
+     "en": "Qatar's liquefied natural gas exports rise to their highest level since the Iran war began.",
      "src_en": "Al Arabiya Business"
     },
     {
-     "ar": "الذهب يرتفع 0.4% إلى 3595.96 دولار للأونصة قبيل عطلة عيد الشكر في أمريكا، وتوقعات رفع الفائدة تحدّ من مكاسبه.",
-     "src_ar": "CNBC عربية",
-     "en": "Gold rises 0.4% to $3,595.96 an ounce ahead of the US Thanksgiving holiday, with rate-hike expectations capping its gains.",
-     "src_en": "CNBC Arabia"
-    },
-    {
-     "ar": "النفط يواصل الصعود وخام برنت يرتفع 0.7% إلى 95.33 دولار للبرميل وسط مخاوف بشأن الإمدادات.",
-     "src_ar": "CNBC عربية",
-     "en": "Oil extends its gains, with Brent crude up 0.7% at $95.33 a barrel amid supply concerns.",
-     "src_en": "CNBC Arabia"
-    },
-    {
-     "ar": "مسح للاحتياطي الفيدرالي يُظهر استمرار نمو الاقتصاد الأمريكي مع بقاء التضخم مرتفعاً في الأسابيع الأخيرة.",
-     "src_ar": "رويترز",
-     "en": "A Federal Reserve survey shows the US economy kept growing while inflation stayed elevated in recent weeks.",
-     "src_en": "Reuters"
-    },
-    {
-     "ar": "إيلون ماسك: كل طفل في أمريكا سيحصل على سهمين في سبيس إكس، أحدهما من الشركة والآخر منه شخصياً.",
-     "src_ar": "CNBC عربية",
-     "en": "Elon Musk: Every child in America will receive two SpaceX shares, one from the company and one from him personally.",
-     "src_en": "CNBC Arabia"
-    },
-    {
-     "ar": "أستراليا تقر قانوناً يفرض غرامات كبيرة على شركات التكنولوجيا الكبرى.",
+     "ar": "سهم دبي الإسلامي (DIB) يرتفع أكثر من 8% في التداولات بعد صدور تفاصيل الاستحواذ على مصرف الإمارات الإسلامي.",
      "src_ar": "العربية Business",
-     "en": "Australia passes a law imposing heavy fines on big tech companies.",
+     "en": "Dubai Islamic Bank (DIB) shares gain more than 8% in trading after details of the acquisition of Emirates Islamic were released.",
      "src_en": "Al Arabiya Business"
+    },
+    {
+     "ar": "إنفيديا توقف شحن خوادم الذكاء الاصطناعي إلى 4 دول في جنوب شرق آسيا.",
+     "src_ar": "العربية Business",
+     "en": "Nvidia halts shipments of AI servers to 4 countries in Southeast Asia.",
+     "src_en": "Al Arabiya Business"
+    }
+   ]
+  },
+  {
+   "title": {
+    "ar": "رياضة ومنوعات",
+    "en": "Sport & Variety"
+   },
+   "items": [
+    {
+     "ar": "وزير الشباب والرياضة المصري يقرر إلغاء جميع الأنشطة الاحتفالية تضامنا مع ضحايا حادث دائري الوراق.",
+     "src_ar": "فيل جول",
+     "en": "Egypt's Minister of Youth and Sports cancels all celebratory activities in solidarity with the victims of the Warraq Ring Road accident.",
+     "src_en": "FilGoal"
     }
    ]
   }
