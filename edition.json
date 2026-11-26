@@ -1,11 +1,11 @@
 {
- "id": "2026-11-26T22:00",
+ "id": "2026-11-26T23:00",
  "date": {
   "ar": "الخميس 26 نوفمبر 2026",
   "en": "Thursday 26 November 2026"
  },
- "uae": "10:00 PM",
- "cairo": "8:00 PM",
+ "uae": "11:00 PM",
+ "cairo": "9:00 PM",
  "sections": [
   {
    "title": {
@@ -14,34 +14,34 @@
    },
    "items": [
     {
-     "ar": "وزارة الصحة المصرية: ارتفاع عدد ضحايا حريق الوراق بالجيزة إلى 31 وفاة، والنيابة العامة تأمر بحبس قائد السيارة التي اصطدمت بناقلة الوقود.",
-     "src_ar": "الجزيرة وسكاي نيوز عربية",
-     "en": "Egypt's Health Ministry: the death toll from the Warraq fire in Giza rises to 31, and prosecutors order the driver of the car that hit the fuel tanker detained.",
-     "src_en": "Al Jazeera and Sky News Arabia"
+     "ar": "السيسي يوجه الحكومة بحصر الخسائر التي تعرض لها المتضررون جراء حادث الوراق وتعويضهم بشكل كامل.",
+     "src_ar": "سكاي نيوز عربية",
+     "en": "Sisi directs the government to tally the losses of those affected by the Warraq accident and compensate them in full.",
+     "src_en": "Sky News Arabia"
     },
     {
-     "ar": "الخارجية الإيرانية: عراقجي نفى في اتصال مع نظيره الكويتي أن تكون إيران شنت هجوما على الكويت، وأبدى استعداد بلاده لتحقيق مشترك في الحادث.",
-     "src_ar": "العربية ورويترز",
-     "en": "Iran's foreign ministry: in a call with his Kuwaiti counterpart, Araghchi denied Iran attacked Kuwait and said Tehran is ready for a joint investigation into the incident.",
-     "src_en": "Al Arabiya and Reuters"
+     "ar": "وزارة الطاقة السعودية: اعتداء بمقذوف جوي معاد على مصفاة جازان يسفر عن وفاة أحد العاملين وإصابة آخرين، وتوقف مؤقت لبعض العمليات.",
+     "src_ar": "الجزيرة والعربية وسكاي نيوز عربية",
+     "en": "Saudi Energy Ministry: a hostile aerial projectile attack on the Jazan refinery killed one worker and injured others, and some operations are temporarily halted.",
+     "src_en": "Al Jazeera, Al Arabiya and Sky News Arabia"
     },
     {
-     "ar": "السفارة الإيرانية في روما ترفض ادعاءات تورط إيران في هجوم بطائرة مسيرة على قاعدة عسكرية في الكويت أسفر عن مقتل إيطاليين اثنين.",
+     "ar": "رويترز عن مصدر: مقتل عاملين إيطاليين في ضربة إيرانية في الكويت. والخارجية الإيرانية تقول إن عراقجي أبلغ نظيره الإيطالي أن لا دور لإيران في الحادث.",
+     "src_ar": "رويترز والجزيرة",
+     "en": "Reuters, citing a source: two Italian workers killed in an Iranian strike in Kuwait. Iran's foreign ministry says Araghchi told his Italian counterpart Iran had no role in the incident.",
+     "src_en": "Reuters and Al Jazeera"
+    },
+    {
+     "ar": "الناطق العسكري باسم الحوثيين: 109 غارات جوية وصاروخية استهدفت صنعاء و10 محافظات خلال 24 ساعة.",
      "src_ar": "الجزيرة",
-     "en": "Iran's embassy in Rome rejects claims that Iran was involved in a drone attack on a military base in Kuwait that killed two Italians.",
+     "en": "The Houthi military spokesman: 109 air and missile strikes targeted Sanaa and 10 provinces in 24 hours.",
      "src_en": "Al Jazeera"
     },
     {
-     "ar": "ترامب والأمين العام لحلف الناتو مارك روته يصدران بيانا مشتركا يحث روسيا على الامتناع عن أي إجراءات، متعمدة أو غير ذلك، من شأنها توسيع نطاق الحرب في أوكرانيا.",
-     "src_ar": "CNBC عربية",
-     "en": "Trump and NATO Secretary General Mark Rutte issue a joint statement urging Russia to avoid any actions, deliberate or otherwise, that could widen the war in Ukraine.",
-     "src_en": "CNBC Arabia"
-    },
-    {
-     "ar": "السويد تستدعي السفير الروسي احتجاجا على خرق موسكو للمجال الجوي البولندي.",
-     "src_ar": "العربية",
-     "en": "Sweden summons the Russian ambassador to protest Moscow's violation of Polish airspace.",
-     "src_en": "Al Arabiya"
+     "ar": "المبعوث الأمريكي جاريد كوشنر: نتنياهو وقّع اتفاق غزة لكنه لا يزال يعرقل التوصل إلى تفاهمات، ولا يمكن إنهاء الحرب في القطاع دون التفاوض مع حماس.",
+     "src_ar": "الجزيرة",
+     "en": "US envoy Jared Kushner: Netanyahu signed the Gaza agreement but is still obstructing understandings, and the war in the Strip cannot end without negotiating with Hamas.",
+     "src_en": "Al Jazeera"
     }
    ]
   },
@@ -52,27 +52,21 @@
    },
    "items": [
     {
-     "ar": "رئيس المجلس الأوروبي: دول منطقة اليورو اتفقت على ترشيح بابلو هيرنانديز دي كوس لرئاسة البنك المركزي الأوروبي.",
+     "ar": "العقود الآجلة لخام برنت ترتفع 2.07% عند التسوية إلى 96.57 دولار للبرميل مع استمرار الاضطرابات الجيوسياسية في الشرق الأوسط.",
      "src_ar": "CNBC عربية",
-     "en": "European Council president: eurozone states agreed to nominate Pablo Hernández de Cos as head of the European Central Bank.",
+     "en": "Brent crude futures settle up 2.07% at $96.57 a barrel as geopolitical disruption in the Middle East continues.",
      "src_en": "CNBC Arabia"
     },
     {
-     "ar": "رويترز: مالبورو المصنعة، شركة ألتريا الأمريكية، تدرس الاستحواذ على إمبريال براندز في صفقة ضخمة لقطاع التبغ.",
-     "src_ar": "رويترز",
-     "en": "Reuters: Altria, the US maker of Marlboro, is exploring a takeover of Imperial Brands in a Big Tobacco mega deal.",
-     "src_en": "Reuters"
-    },
-    {
-     "ar": "البنك المركزي المصري يبيع أذون خزانة محلية بأقل من المستهدف مع تزايد ضغوط أسعار الفائدة.",
+     "ar": "حرب المسيّرات في البحر الأسود تهدد قمح مصر، ومعظم القمح المستورد يأتي عبر البحر الأسود، والقاهرة تسابق الزمن لتأمين احتياجاتها عبر طرق أخرى.",
      "src_ar": "الشرق بلومبرغ",
-     "en": "Egypt's central bank sold local treasury bills below its target as interest rate pressure grows.",
+     "en": "The drone war in the Black Sea threatens Egypt's wheat: most imported wheat comes through the Black Sea, and Cairo is racing to secure supplies by other routes.",
      "src_en": "Asharq Bloomberg"
     },
     {
-     "ar": "صادرات مصر إلى قطر ترتفع بأكثر من 44% في 9 أشهر.",
+     "ar": "صافي احتياطيات البنك المركزي التركي يسجل ثاني أكبر انخفاض أسبوعي.",
      "src_ar": "العربية Business",
-     "en": "Egypt's exports to Qatar jump more than 44% in nine months.",
+     "en": "Turkey's central bank net reserves record their second-largest weekly drop.",
      "src_en": "Al Arabiya Business"
     }
    ]
@@ -84,10 +78,16 @@
    },
    "items": [
     {
-     "ar": "ليونيل ميسي سيشارك في مباراة اعتزال كارلوس تيفيز يوم 20 ديسمبر على ملعب لا بومبونيرا، ومشاركة كريستيانو رونالدو لم تُحسم بعد.",
-     "src_ar": "فيل جول",
-     "en": "Lionel Messi will play in Carlos Tevez's farewell match on 20 December at La Bombonera, while Cristiano Ronaldo's participation is not yet decided.",
-     "src_en": "FilGoal"
+     "ar": "ليدز يونايتد يمدد عقد مهاجمه دومينيك كالفرت-لوين حتى عام 2029.",
+     "src_ar": "بي إن سبورتس",
+     "en": "Leeds United extend striker Dominic Calvert-Lewin's contract until 2029.",
+     "src_en": "beIN Sports"
+    },
+    {
+     "ar": "أمين غويري يصل إلى 100 هدف في مسيرته الاحترافية بعد هدفه في مرمى لو مان مع مارسيليا.",
+     "src_ar": "بي إن سبورتس",
+     "en": "Amine Gouiri reaches 100 professional career goals after scoring against Le Mans for Marseille.",
+     "src_en": "beIN Sports"
     }
    ]
   }
