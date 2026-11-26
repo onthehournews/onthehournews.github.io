@@ -1,11 +1,11 @@
 {
- "id": "2026-11-26T15:00",
+ "id": "2026-11-26T16:00",
  "date": {
   "ar": "الخميس 26 نوفمبر 2026",
   "en": "Thursday 26 November 2026"
  },
- "uae": "3:00 PM",
- "cairo": "1:00 PM",
+ "uae": "4:00 PM",
+ "cairo": "2:00 PM",
  "sections": [
   {
    "title": {
@@ -14,40 +14,40 @@
    },
    "items": [
     {
-     "ar": "النيابة العامة المصرية تلقي القبض على المتهم المتسبب في حادث الوراق.",
-     "src_ar": "الإمارات اليوم",
-     "en": "Egypt's Public Prosecution arrests the suspect behind the Warraq accident.",
-     "src_en": "Emarat Al Youm"
+     "ar": "وزير الأوقاف المصري: صلاة الغائب على أرواح ضحايا حادث الوراق بعد صلاة الجمعة غدا، وتغيير موضوع الخطبة للحديث عن التكاتف وقت الأزمات.",
+     "src_ar": "العربية مصر",
+     "en": "Egypt's Minister of Endowments: the funeral prayer in absentia for the Warraq accident victims will be held after Friday prayers tomorrow, and the sermon topic is changed to solidarity in times of crisis.",
+     "src_en": "Al Arabiya Egypt"
     },
     {
-     "ar": "الخارجية الأردنية تعلن العثور على جثمان بحار أردني فُقد إثر هجوم على ناقلة نفط في مضيق هرمز.",
-     "src_ar": "الجزيرة",
-     "en": "Jordan's Foreign Ministry says the body of a Jordanian sailor missing after an attack on an oil tanker in the Strait of Hormuz has been found.",
-     "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "المرشد الإيراني مجتبى خامنئي في بيان مكتوب: يجب تنفيذ شعار \"كل إيراني هو من الباسيج\"، وقوات التعبئة لا تفوت أي فرصة لتوجيه ضربة إلى الأعداء.",
-     "src_ar": "العربية والجزيرة",
-     "en": "Iran's Supreme Leader Mojtaba Khamenei says in a written statement that the slogan \"every Iranian is a Basij\" must be implemented, and that the mobilization forces miss no chance to strike the enemies.",
-     "src_en": "Al Arabiya and Al Jazeera"
-    },
-    {
-     "ar": "مصادر من الحديدة: 5 غارات استهدفت مواقع عسكرية للحوثيين في منطقة الكثيب.",
+     "ar": "آبي أحمد: إثيوبيا لن تطلب الإذن من أحد للاستفادة من النيل، وستحرص على وصول مياه كافية إلى مصر والسودان، وليست لديها نية لاستخدام النيل بمفردها.",
      "src_ar": "العربية",
-     "en": "Sources in Hodeidah: 5 air strikes hit Houthi military sites in the Al-Kathib area.",
+     "en": "Abiy Ahmed: Ethiopia will not ask anyone's permission to benefit from the Nile, will make sure enough water reaches Egypt and Sudan, and has no intention of using the Nile alone.",
      "src_en": "Al Arabiya"
     },
     {
-     "ar": "روسيا تسلم أوكرانيا جثامين 250 عسكريا مقابل استعادة جثامين 22 عسكريا روسيا، بحسب وكالة تاس.",
+     "ar": "القناة 12 الإسرائيلية: نتنياهو يعقد مساء اليوم اجتماعا للمجلس الوزاري المصغر لإجراء مشاورات أمنية بشأن إيران.",
      "src_ar": "سكاي نيوز عربية",
-     "en": "Russia hands Ukraine the bodies of 250 soldiers in exchange for 22 Russian soldiers' bodies, according to TASS.",
+     "en": "Israel's Channel 12: Netanyahu will hold a security cabinet meeting this evening for consultations on Iran.",
      "src_en": "Sky News Arabia"
     },
     {
-     "ar": "مسعفون: 9 فلسطينيين على الأقل قتلوا في غارات إسرائيلية وإطلاق نار خلال الليل في قطاع غزة، بينهم وكيل وزارة التعليم الذي عينته حماس.",
+     "ar": "مصادر العربية: غارات استهدفت مقر قيادة العمليات البحرية للحوثيين في الحديدة، وأخرى دمرت منصة صواريخ حاول الحوثيون نصبها في مديرية المقاطرة بلحج.",
+     "src_ar": "العربية",
+     "en": "Al Arabiya sources: strikes hit the Houthi naval operations command headquarters in Hodeidah, and another strike destroyed a rocket launcher the Houthis tried to set up in Al-Maqatirah district, Lahij.",
+     "src_en": "Al Arabiya"
+    },
+    {
+     "ar": "رئيس الوزراء الأوكراني: روسيا هاجمت خلال الليل سفينتين مدنيتين أجنبيتين تحملان أكثر من 100 ألف طن من الحبوب قرب ميناء أوديسا.",
      "src_ar": "رويترز",
-     "en": "Medics say at least nine Palestinians were killed in Israeli air strikes and shooting overnight in Gaza, including the Hamas-appointed deputy education minister.",
+     "en": "Ukraine's prime minister says Russia attacked two foreign civilian ships carrying more than 100,000 tonnes of grain near the port of Odesa overnight.",
      "src_en": "Reuters"
+    },
+    {
+     "ar": "المبعوث الأمريكي جاريد كوشنر: نتنياهو وقع اتفاق غزة لكنه يصعّب التفاهمات، ولا يمكن إنهاء الحرب دون التفاوض مع حماس.",
+     "src_ar": "الجزيرة",
+     "en": "US envoy Jared Kushner says Netanyahu signed the Gaza agreement but complicates the understandings, and that the war cannot end without negotiating with Hamas.",
+     "src_en": "Al Jazeera"
     }
    ]
   },
@@ -58,46 +58,37 @@
    },
    "items": [
     {
-     "ar": "سهم دبي الإسلامي (DIB) يقفز نحو 10% ويغلق عند أعلى مستوى في 9 أشهر.",
-     "src_ar": "العربية Business",
-     "en": "Dubai Islamic Bank (DIB) shares jump nearly 10%, closing at their highest level in nine months.",
-     "src_en": "Al Arabiya Business",
-     "img": {
-      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Dubai_Islamic_Bank_-_panoramio.jpg?width=960",
-      "page": "https://commons.wikimedia.org/wiki/File:Dubai_Islamic_Bank_-_panoramio.jpg",
-      "credit": "Mahmoud Farrag",
-      "lic": "CC BY 3.0",
-      "lic_url": "https://creativecommons.org/licenses/by/3.0/",
-      "cap_ar": "صورة توضيحية، ليست من الحدث: فرع لبنك دبي الإسلامي في عجمان، 2011. قُصّت وصُغّرت. ©",
-      "cap_en": "Illustrative, not from the event: a Dubai Islamic Bank branch in Ajman, 2011. Cropped and resized. ©"
-     }
-    },
-    {
-     "ar": "تقرير PwC: اقتصادات الخليج تُظهر قدرة على الصمود رغم اضطرابات المنطقة.",
-     "src_ar": "العربية Business",
-     "en": "PwC: Gulf economies show resilience despite regional turmoil.",
-     "src_en": "Al Arabiya Business"
-    },
-    {
-     "ar": "بنك كوريا يرفع سعر الفائدة الأساسي 25 نقطة أساس إلى 3.25% كما كان متوقعا.",
+     "ar": "أسعار النفط تتراجع مع استمرار مخاوف الإمدادات بعد ادعاء إيران إصابة سفن بألغام.",
      "src_ar": "رويترز",
-     "en": "The Bank of Korea raises its base rate by 25 basis points to 3.25%, as expected.",
+     "en": "Oil prices fall as supply concerns linger after Iran claims mine strikes on ships.",
      "src_en": "Reuters"
     },
     {
-     "ar": "ترامب يشهد تدشين مصنع رقائق تابع لشركة TSMC التايوانية في أريزونا.",
+     "ar": "بلومبيرغ: تحالف أوبك+ يتجه لتثبيت حصص الإنتاج دون تغيير لشهر يناير 2027.",
      "src_ar": "العربية Business",
-     "en": "Trump attends the launch of a Taiwanese TSMC chip plant in Arizona.",
+     "en": "Bloomberg: the OPEC+ alliance is heading to keep production quotas unchanged for January 2027.",
      "src_en": "Al Arabiya Business",
      "img": {
-      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/231105-1_TSMC_Fab_21_construction.jpg?width=960",
-      "page": "https://commons.wikimedia.org/wiki/File:231105-1_TSMC_Fab_21_construction.jpg",
-      "credit": "Hunter Trick",
-      "lic": "CC BY-SA 4.0",
-      "lic_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "cap_ar": "صورة توضيحية، ليست من الحدث: إنشاءات مصنع TSMC في فينيكس، 2023. قُصّت وصُغّرت. ©",
-      "cap_en": "Illustrative, not from the event: TSMC's Phoenix fab under construction, 2023. Cropped and resized. ©"
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Vienna_OPEC_Headquarters_(9812748993).jpg?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:Vienna_OPEC_Headquarters_(9812748993).jpg",
+      "credit": "Gary Todd",
+      "lic": "CC0",
+      "lic_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "cap_ar": "صورة توضيحية، ليست من الحدث: مقر أوبك في فيينا. قُصّت وصُغّرت. ©",
+      "cap_en": "Illustrative, not from the event: OPEC headquarters in Vienna. Cropped and resized. ©"
      }
+    },
+    {
+     "ar": "وزير الاستثمار والتجارة الخارجية المصري: خفض الحد الأدنى لتغطية الاكتتاب العام بنسبة 50% لإتاحة الطرح أمام شركات أكثر.",
+     "src_ar": "CNBC عربية",
+     "en": "Egypt's Minister of Investment and Foreign Trade: the minimum public-offering coverage requirement is cut by 50% to open offerings to more companies.",
+     "src_en": "CNBC Arabia"
+    },
+    {
+     "ar": "إيلون ماسك يعلن أن كل طفل في الولايات المتحدة سيحصل على سهمين في سبيس إكس، في هبة تتجاوز قيمتها 18 مليار دولار.",
+     "src_ar": "رويترز",
+     "en": "Elon Musk says every child in the US will receive two shares in SpaceX, a gift worth more than $18 billion.",
+     "src_en": "Reuters"
     }
    ]
   }
