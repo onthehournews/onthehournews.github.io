@@ -1,0 +1,87 @@
+{
+ "id": "2026-11-26T09:00",
+ "date": {
+  "ar": "الخميس 26 نوفمبر 2026",
+  "en": "Thursday 26 November 2026"
+ },
+ "uae": "9:00 AM",
+ "cairo": "7:00 AM",
+ "sections": [
+  {
+   "title": {
+    "ar": "",
+    "en": ""
+   },
+   "items": [
+    {
+     "ar": "السودان: مصدر بالجيش السوداني يؤكد خلو ولاية شمال كردفان بالكامل من قوات الدعم السريع، واستمرار التقدم نحو غرب كردفان.",
+     "src_ar": "الجزيرة",
+     "en": "Sudan: A Sudanese army source confirms North Kordofan state is completely clear of the Rapid Support Forces, with the advance toward West Kordofan continuing.",
+     "src_en": "Al Jazeera"
+    },
+    {
+     "ar": "ميانمار تعلن أنها لن تلتزم ببنود تصفها بـ\"غير المناسبة\" في قرار محكمة العدل الدولية بشأن الإبادة الجماعية.",
+     "src_ar": "فرانس برس",
+     "en": "Myanmar says it will not abide by provisions it calls \"inappropriate\" in the International Court of Justice ruling on genocide.",
+     "src_en": "AFP"
+    },
+    {
+     "ar": "مصادر: أكثر من نصف العاملين الميدانيين في برنامج حكومي أمريكي لرصد المجاعات سيفقدون وظائفهم بحلول نهاية العام بسبب نقص التمويل.",
+     "src_ar": "رويترز",
+     "en": "Sources: More than half the field staff of a US government famine-monitoring program will lose their jobs by year-end because of a funding shortfall.",
+     "src_en": "Reuters"
+    },
+    {
+     "ar": "قاضٍ أمريكي يمنع لجنة الاتصالات الفيدرالية من استهداف محطات ABC المملوكة لشركة ديزني.",
+     "src_ar": "رويترز",
+     "en": "A US judge blocks the Federal Communications Commission from targeting Disney-owned ABC stations.",
+     "src_en": "Reuters"
+    }
+   ]
+  },
+  {
+   "title": {
+    "ar": "اقتصاد",
+    "en": "Economy"
+   },
+   "items": [
+    {
+     "ar": "مصر: أسعار الأرز المصري ترتفع 25% بدعم من تحسّن الطلب.",
+     "src_ar": "العربية Business",
+     "en": "Egypt: Egyptian rice prices rise 25% on improved demand.",
+     "src_en": "Al Arabiya Business"
+    },
+    {
+     "ar": "الذهب يرتفع 0.4% إلى 3595.96 دولار للأونصة قبيل عطلة عيد الشكر في أمريكا، وتوقعات رفع الفائدة تحدّ من مكاسبه.",
+     "src_ar": "CNBC عربية",
+     "en": "Gold rises 0.4% to $3,595.96 an ounce ahead of the US Thanksgiving holiday, with rate-hike expectations capping its gains.",
+     "src_en": "CNBC Arabia"
+    },
+    {
+     "ar": "النفط يواصل الصعود وخام برنت يرتفع 0.7% إلى 95.33 دولار للبرميل وسط مخاوف بشأن الإمدادات.",
+     "src_ar": "CNBC عربية",
+     "en": "Oil extends its gains, with Brent crude up 0.7% at $95.33 a barrel amid supply concerns.",
+     "src_en": "CNBC Arabia"
+    },
+    {
+     "ar": "مسح للاحتياطي الفيدرالي يُظهر استمرار نمو الاقتصاد الأمريكي مع بقاء التضخم مرتفعاً في الأسابيع الأخيرة.",
+     "src_ar": "رويترز",
+     "en": "A Federal Reserve survey shows the US economy kept growing while inflation stayed elevated in recent weeks.",
+     "src_en": "Reuters"
+    },
+    {
+     "ar": "إيلون ماسك: كل طفل في أمريكا سيحصل على سهمين في سبيس إكس، أحدهما من الشركة والآخر منه شخصياً.",
+     "src_ar": "CNBC عربية",
+     "en": "Elon Musk: Every child in America will receive two SpaceX shares, one from the company and one from him personally.",
+     "src_en": "CNBC Arabia"
+    },
+    {
+     "ar": "أستراليا تقر قانوناً يفرض غرامات كبيرة على شركات التكنولوجيا الكبرى.",
+     "src_ar": "العربية Business",
+     "en": "Australia passes a law imposing heavy fines on big tech companies.",
+     "src_en": "Al Arabiya Business"
+    }
+   ]
+  }
+ ]
+}

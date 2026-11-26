@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>On The Hour News | أخبار كل ساعة</title>
+<meta name="description" content="أهم الأخبار في نشرة واحدة قصيرة كل ساعة، والمصدر تحت كل خبر. The top stories in one short digest every hour.">
+<meta property="og:title" content="On The Hour News | أخبار كل ساعة">
+<meta property="og:description" content="أهم الأخبار في نشرة واحدة قصيرة كل ساعة، والمصدر تحت كل خبر.">
+<meta name="theme-color" content="#14285c">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+/* Layout idea: indigo masthead led by the channel name with the two clocks as small chips, then one narrow reading column where each section is a single white panel of ruled rows. Navy masthead over a single committed indigo palette. */
+:root {
+  --bg: #f3f2fb;
+  --surface: #ffffff;
+  --ink: #17143a;
+  --muted: #655f8c;
+  --line: #e4e2f3;
+  --accent: #4b3bdb;
+  --accent-soft: #ecebfc;
+  --on-accent: #ffffff;
+  --mast-bg: #14285c;
+  --mast-ink: #ffffff;
+  --font: "Readex Pro", "Segoe UI", Tahoma, sans-serif;
+  color-scheme: light;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font);
+  font-size: 16.5px;
+  line-height: 1.8;
+}
+html[lang="en"] body { line-height: 1.6; }
+.wrap { max-width: 700px; margin: 0 auto; padding: 0 18px; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+
+.masthead { background: var(--mast-bg); color: var(--mast-ink); border-radius: 0 0 28px 28px; transition: background-color .2s, color .2s; }
+.masthead .wrap { padding-top: 24px; padding-bottom: 26px; display: flex; flex-direction: column; gap: 16px; }
+.top { display: flex; align-items: flex-start; justify-content: space-between; gap: 16px; }
+.brand { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.brand-sub { font-size: 13px; font-weight: 400; letter-spacing: 0.1em; opacity: 0.8; }
+h1 { margin: 0; font-weight: 700; font-size: clamp(30px, 8vw, 44px); line-height: 1.3; letter-spacing: -0.01em; text-wrap: balance; }
+.tagline { margin: 0; font-size: 15px; font-weight: 300; opacity: 0.9; }
+.lang { display: flex; flex: none; direction: ltr; padding: 3px; gap: 2px; border-radius: 999px; background: color-mix(in srgb, var(--mast-ink) 14%, transparent); }
+.lang a { padding: 4px 13px; border-radius: 999px; font-size: 13px; font-weight: 500; line-height: 1.6; color: var(--mast-ink); text-decoration: none; }
+.lang a[aria-current="true"] { background: var(--mast-ink); color: var(--mast-bg); }
+.lang a:focus-visible { outline-color: var(--mast-ink); }
+.clocks { display: flex; flex-wrap: wrap; gap: 8px; }
+.clock { display: flex; align-items: baseline; gap: 8px; padding: 6px 14px; border-radius: 999px; background: color-mix(in srgb, var(--mast-ink) 14%, transparent); }
+.clock b { font-weight: 400; font-size: 13px; opacity: 0.85; }
+.clock span { font-weight: 600; font-size: 16px; font-variant-numeric: tabular-nums; direction: ltr; }
+
+.notify { margin-top: 16px; padding: 12px 16px; border-radius: 16px; background: var(--surface); border: 1px solid var(--line); display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px 14px; }
+.notify[hidden] { display: none; }
+.notify p { margin: 0; flex: 1 1 220px; font-size: 14px; color: var(--muted); }
+.notify button { font: inherit; font-size: 14px; font-weight: 600; padding: 7px 18px; border-radius: 999px; border: 1px solid var(--accent); background: var(--surface); color: var(--accent); cursor: pointer; white-space: nowrap; }
+.notify button:hover { background: var(--accent-soft); }
+.notify.on p { color: var(--accent); }
+.fresh { margin-top: 12px; padding: 8px 16px; border-radius: 999px; background: var(--accent); color: var(--on-accent); font-size: 14px; font-weight: 500; text-align: center; }
+.fresh[hidden] { display: none; }
+.empty { margin-top: 20px; color: var(--muted); }
+.edition { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 6px 16px; padding: 18px 4px 0; color: var(--muted); font-size: 13.5px; }
+.section-title { display: flex; align-items: center; gap: 12px; margin: 26px 4px 10px; font-weight: 600; font-size: 19px; color: var(--accent); }
+.section-title::after { content: ""; flex: 1; height: 1px; background: var(--line); }
+.items { list-style: none; margin: 0; padding: 4px 20px; display: flex; flex-direction: column; background: var(--surface); border: 1px solid var(--line); border-radius: 18px; }
+.items li { padding: 16px 0; display: flex; flex-direction: column; align-items: flex-start; gap: 8px; }
+.items li + li { border-top: 1px solid var(--line); }
+.items p { margin: 0; font-weight: 500; text-wrap: pretty; }
+.items .src { padding: 1px 11px; border-radius: 999px; background: var(--accent-soft); color: var(--accent); font-size: 12.5px; font-weight: 500; }
+
+.follow { margin-top: 30px; padding: 20px; border-radius: 18px; background: var(--surface); border: 1px solid var(--line); display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 14px; }
+.follow p { margin: 0; flex: 1 1 240px; font-size: 15.5px; }
+.follow a { padding: 9px 22px; border-radius: 999px; background: var(--accent); color: var(--on-accent); font-weight: 600; font-size: 15px; text-decoration: none; white-space: nowrap; }
+.follow a:hover { filter: brightness(1.1); }
+footer { padding: 22px 4px 48px; color: var(--muted); font-size: 13px; font-weight: 300; line-height: 1.7; }
+</style>
+</head>
+<body>
+<header class="masthead">
+  <div class="wrap">
+    <div class="top">
+      <div class="brand">
+        <span class="brand-sub" id="brand-sub"></span>
+        <h1 id="brand-main"></h1>
+      </div>
+      <nav class="lang" aria-label="Language">
+        <a href="#ar" id="lang-ar" lang="ar">عربي</a>
+        <a href="#en" id="lang-en" lang="en">English</a>
+      </nav>
+    </div>
+    <p class="tagline" id="tagline"></p>
+    <div class="clocks">
+      <div class="clock"><b id="l-uae"></b><span id="t-uae"></span></div>
+      <div class="clock"><b id="l-cairo"></b><span id="t-cairo"></span></div>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="notify" id="notify" hidden><p id="notify-text"></p><button type="button" id="notify-btn"></button></div>
+  <div class="fresh" id="fresh" hidden role="status"></div>
+  <div class="edition"><span id="edition-date"></span><span id="edition-count"></span></div>
+  <div id="digest"></div>
+
+  <div class="follow">
+    <p id="follow-text"></p>
+    <a href="https://whatsapp.com/channel/0029VbEa6AQFHWpxMUfSaT2M" id="follow-btn"></a>
+  </div>
+  <footer id="footer"></footer>
+</main>
+
+<script>
+// The edition lives in edition.json next to this page. The hourly update replaces that file only.
+let EDITION = null;
+let freshShown = false;
+const POLL_MS = 120000;
+
+const UI = {
+  ar: {
+    dir: "rtl",
+    brandSub: "On The Hour News",
+    brandMain: "أخبار كل ساعة",
+    tagline: "أهم الأخبار في نشرة واحدة قصيرة كل ساعة، والمصدر تحت كل خبر.",
+    uae: "الإمارات", cairo: "القاهرة",
+    count: n => n + " أخبار في النشرة دي",
+    notifyAsk: "سيب الصفحة مفتوحة وهيجيلك إشعار على الجهاز مع كل نشرة جديدة.",
+    notifyBtn: "فعّل الإشعارات",
+    notifyOn: "الإشعارات شغالة. سيب الصفحة مفتوحة وهيجيلك إشعار مع كل نشرة جديدة.",
+    notifyBlocked: "الإشعارات مقفولة من إعدادات المتصفح للموقع ده. افتحها من علامة القفل جنب عنوان الموقع.",
+    fresh: "نشرة جديدة نزلت دلوقتي",
+    notifTitle: "أخبار كل ساعة",
+    empty: "مفيش نشرة متاحة دلوقتي. جرّب تاني بعد شوية.",
+    followText: "النشرة بتنزل كل ساعة على قناة واتساب. تابع القناة عشان توصلك أول بأول.",
+    followBtn: "تابع القناة على واتساب",
+    footer: "النشرة بتتجمع وتتكتب آليًا بواسطة Claude AI من مصادر إخبارية موثوقة، واسم المصدر مكتوب تحت كل خبر. القناة لسه في مرحلة تجريبية."
+  },
+  en: {
+    dir: "ltr",
+    brandSub: "أخبار كل ساعة",
+    brandMain: "On The Hour News",
+    tagline: "The top stories in one short digest every hour, with the source under each item.",
+    uae: "UAE", cairo: "Cairo",
+    count: n => n + " stories in this edition",
+    notifyAsk: "Keep this page open and get a desktop notification with every new edition.",
+    notifyBtn: "Turn on notifications",
+    notifyOn: "Notifications are on. Keep this page open to get one with every new edition.",
+    notifyBlocked: "Notifications are blocked for this site in your browser. Allow them from the lock icon next to the address.",
+    fresh: "A new edition just landed",
+    notifTitle: "On The Hour News",
+    empty: "No edition is available right now. Try again in a little while.",
+    followText: "The digest is posted every hour, in Arabic, on the WhatsApp channel. Follow it to get each edition as it lands.",
+    followBtn: "Follow on WhatsApp",
+    footer: "This digest is collected and written automatically by Claude AI from trusted news sources, and the English text is a translation of the Arabic edition. The source is named under each item. The channel is still in beta."
+  }
+};
+
+const lang = () => (location.hash === "#en" ? "en" : "ar");
+const $ = id => document.getElementById(id);
+const el = (tag, cls, text) => {
+  const n = document.createElement(tag);
+  if (cls) n.className = cls;
+  if (text != null) n.textContent = text;
+  return n;
+};
+const store = {
+  get(k) { try { return localStorage.getItem(k); } catch (e) { return null; } },
+  set(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
+};
+
+function renderNotify() {
+  const t = UI[lang()];
+  const box = $("notify");
+  if (!("Notification" in window)) { box.hidden = true; return; }
+  box.hidden = false;
+  const p = Notification.permission;
+  box.classList.toggle("on", p === "granted");
+  $("notify-text").textContent = p === "granted" ? t.notifyOn : p === "denied" ? t.notifyBlocked : t.notifyAsk;
+  $("notify-btn").textContent = t.notifyBtn;
+  $("notify-btn").hidden = p !== "default";
+}
+
+function render() {
+  const l = lang();
+  const t = UI[l];
+  document.documentElement.lang = l;
+  document.documentElement.dir = t.dir;
+  $("lang-ar").setAttribute("aria-current", String(l === "ar"));
+  $("lang-en").setAttribute("aria-current", String(l === "en"));
+  $("brand-sub").textContent = t.brandSub;
+  $("brand-main").textContent = t.brandMain;
+  $("tagline").textContent = t.tagline;
+  $("l-uae").textContent = t.uae;
+  $("l-cairo").textContent = t.cairo;
+  $("follow-text").textContent = t.followText;
+  $("follow-btn").textContent = t.followBtn;
+  $("footer").textContent = t.footer;
+  $("fresh").textContent = t.fresh;
+  $("fresh").hidden = !freshShown;
+  renderNotify();
+
+  const root = $("digest");
+  root.textContent = "";
+  if (!EDITION) {
+    $("t-uae").textContent = "";
+    $("t-cairo").textContent = "";
+    $("edition-date").textContent = "";
+    $("edition-count").textContent = "";
+    if (EDITION === false) root.appendChild(el("p", "empty", t.empty));
+    return;
+  }
+  $("t-uae").textContent = EDITION.uae;
+  $("t-cairo").textContent = EDITION.cairo;
+  $("edition-date").textContent = EDITION.date[l];
+  const total = EDITION.sections.reduce((n, s) => n + s.items.length, 0);
+  $("edition-count").textContent = t.count(total);
+  EDITION.sections.forEach((s, i) => {
+    if (!s.items.length) return;
+    const title = s.title && s.title[l];
+    if (title) root.appendChild(el("h2", "section-title", title));
+    const ul = el("ul", "items");
+    if (!title && i === 0) ul.style.marginTop = "14px";
+    s.items.forEach(it => {
+      const li = el("li");
+      li.appendChild(el("p", null, l === "en" ? it.en : it.ar));
+      li.appendChild(el("span", "src", l === "en" ? it.src_en : it.src_ar));
+      ul.appendChild(li);
+    });
+    root.appendChild(ul);
+  });
+}
+
+function announce(ed) {
+  freshShown = true;
+  if (document.hidden) document.title = "● " + document.title.replace(/^● /, "");
+  if (!("Notification" in window) || Notification.permission !== "granted") return;
+  const l = lang();
+  const heads = [];
+  ed.sections.forEach(s => s.items.forEach(it => heads.push(l === "en" ? it.en : it.ar)));
+  const body = heads.slice(0, 2).join("\n");
+  try {
+    const n = new Notification(UI[l].notifTitle + " · " + (l === "en" ? ed.uae : ed.cairo), { body: body, tag: "oth-edition", lang: l, dir: UI[l].dir });
+    n.onclick = () => { window.focus(); n.close(); };
+  } catch (e) {}
+}
+
+async function load(first) {
+  try {
+    const r = await fetch("edition.json?t=" + Date.now(), { cache: "no-store" });
+    if (!r.ok) throw new Error("HTTP " + r.status);
+    const ed = await r.json();
+    if (!ed || !ed.id || !Array.isArray(ed.sections)) throw new Error("bad edition");
+    const changed = !EDITION || EDITION.id !== ed.id;
+    if (!changed) return;
+    const seen = store.get("oth-last-id");
+    EDITION = ed;
+    if (!first && seen !== ed.id) announce(ed);
+    store.set("oth-last-id", ed.id);
+    render();
+  } catch (e) {
+    if (first) { EDITION = false; render(); }
+  }
+}
+
+$("notify-btn").addEventListener("click", async () => {
+  try { await Notification.requestPermission(); } catch (e) {}
+  renderNotify();
+});
+document.addEventListener("visibilitychange", () => {
+  if (!document.hidden) { document.title = document.title.replace(/^● /, ""); load(false); }
+});
+window.addEventListener("hashchange", render);
+render();
+load(true);
+setInterval(() => load(false), POLL_MS);
+</script>
+</body>
+</html>
