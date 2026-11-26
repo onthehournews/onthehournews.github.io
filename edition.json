@@ -1,11 +1,11 @@
 {
- "id": "2026-11-26T19:00",
+ "id": "2026-11-26T20:00",
  "date": {
   "ar": "الخميس 26 نوفمبر 2026",
   "en": "Thursday 26 November 2026"
  },
- "uae": "7:00 PM",
- "cairo": "5:00 PM",
+ "uae": "8:00 PM",
+ "cairo": "6:00 PM",
  "sections": [
   {
    "title": {
@@ -14,40 +14,75 @@
    },
    "items": [
     {
-     "ar": "الحكومة المصرية تعلن حزمة دعم لمصابي وأسر ضحايا حادث دائري الوراق تشمل تعويضات مالية وسيارات بديلة وشهادات استثمار.",
+     "ar": "محافظة الجيزة: النتائج الأولية للاختبارات الفنية لعينات الطريق جاءت مطمئنة بشأن الحالة الإنشائية للطريق الدائري ومحور تحيا مصر عقب حادث الوراق.",
      "src_ar": "العربية مصر",
-     "en": "Egypt's government announces a support package for the injured and the families of the Warraq ring road accident victims, including financial compensation, replacement cars and investment certificates.",
+     "en": "Giza governorate: preliminary technical tests on road samples came back reassuring on the structural condition of the Ring Road and the Tahya Misr axis after the Warraq accident.",
      "src_en": "Al Arabiya Egypt"
     },
     {
-     "ar": "الخارجية السعودية: المملكة تدين العدوان الإيراني على الكويت وتحمّل إيران عواقب استمرار اعتداءاتها، وتطالبها بالوقف الفوري لها.",
-     "src_ar": "العربية",
-     "en": "Saudi Foreign Ministry: the Kingdom condemns the Iranian attack on Kuwait, holds Iran responsible for the consequences of continued attacks, and demands that it stop immediately.",
-     "src_en": "Al Arabiya"
+     "ar": "المستشار تركي آل الشيخ يتبرع بـ30 مليون جنيه لأسر ضحايا حادث الوراق في مصر.",
+     "src_ar": "العربية مصر",
+     "en": "Turki Al-Sheikh donates 30 million Egyptian pounds to the families of the Warraq accident victims in Egypt.",
+     "src_en": "Al Arabiya Egypt"
     },
     {
-     "ar": "قوات التحالف في اليمن: مصفاة جازان في السعودية تعرضت لاعتداء من الحوثيين، واستهداف المدنيين سيقابله رد عسكري حازم.",
-     "src_ar": "CNBC عربية",
-     "en": "Coalition forces in Yemen: the Jazan refinery in Saudi Arabia was attacked by the Houthis, and targeting civilians will be met with a firm military response.",
-     "src_en": "CNBC Arabia"
+     "ar": "بحرية الحرس الثوري الإيراني تعلن انفجار ناقلتي نفط في مضيق هرمز شمال ميناء خصب، وتقول إن إحداهما كانت تحمل أكثر من مليوني برميل من النفط الخام.",
+     "src_ar": "الجزيرة",
+     "en": "Iran's Revolutionary Guard navy says two oil tankers exploded in the Strait of Hormuz north of Khasab port, and that one was carrying more than 2 million barrels of crude oil.",
+     "src_en": "Al Jazeera"
     },
     {
-     "ar": "وزير الخارجية الألماني: ألمانيا تدعم أوكرانيا وحقها في الدفاع عن النفس، لكن يجب ألا يمتد الصراع مع روسيا إلى مناطق أخرى.",
-     "src_ar": "رويترز",
-     "en": "German Foreign Minister: Germany supports Ukraine and its right to self-defence, but the conflict with Russia must not spread to other areas.",
-     "src_en": "Reuters"
-    },
-    {
-     "ar": "ترامب: أود أن أرى الرئيس بوتين يتراجع عن كل أشكال العدوان العسكري ضد الأراضي في جميع أنحاء أوروبا.",
+     "ar": "الإمارات تدين بشدة الهجوم الإيراني على الكويت وتعتبره انتهاكا صارخا لسيادتها وتهديدا لأمنها واستقرارها.",
      "src_ar": "سكاي نيوز عربية",
-     "en": "Trump: I would like to see President Putin pull back from all forms of military aggression against territory across Europe.",
+     "en": "The UAE strongly condemns the Iranian attack on Kuwait, calling it a flagrant violation of Kuwait's sovereignty and a threat to its security and stability.",
      "src_en": "Sky News Arabia"
     },
     {
-     "ar": "محكمة كينية: الحكومة خالفت أجزاء من الدستور بالسماح ببناء منشأة حجر صحي للإيبولا مدعومة أمريكيا في قاعدة جوية عسكرية بوسط كينيا.",
+     "ar": "القوات المسلحة اليمنية: تحييد 117 من قيادات وعناصر ميليشيا الحوثي.",
+     "src_ar": "العربية",
+     "en": "Yemeni armed forces: 117 Houthi militia leaders and fighters neutralised.",
+     "src_en": "Al Arabiya"
+    },
+    {
+     "ar": "رئيس حكومة إقليم كردستان العراق: نرفض القرارات الأخيرة ونعتبرها غير دستورية، ونرفض تقويض كيان الإقليم بذريعة مكافحة الفساد.",
+     "src_ar": "العربية",
+     "en": "Iraqi Kurdistan's prime minister: we reject the latest decisions as unconstitutional and refuse to undermine the region's entity under the pretext of fighting corruption.",
+     "src_en": "Al Arabiya"
+    }
+   ]
+  },
+  {
+   "title": {
+    "ar": "اقتصاد",
+    "en": "Economy"
+   },
+   "items": [
+    {
+     "ar": "رويترز: الإسباني بابلو هرنانديز دي كوس في طريقه ليُختار رئيسا قادما للبنك المركزي الأوروبي.",
      "src_ar": "رويترز",
-     "en": "A Kenyan court ruled the government breached parts of the constitution by allowing a US-backed Ebola quarantine facility to be built at a military air base in central Kenya.",
+     "en": "Reuters: Spain's Pablo Hernández de Cos is set to be chosen as the next head of the European Central Bank.",
+     "src_en": "Reuters",
+     "img": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Pablo_Hernandez_de_Cos_-_official_portrait_2025.jpg?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:Pablo_Hernandez_de_Cos_-_official_portrait_2025.jpg",
+      "credit": "Chospo",
+      "lic": "CC0",
+      "lic_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "cap_ar": "صورة توضيحية، ليست من الحدث: بابلو هرنانديز دي كوس. قُصّت وصُغّرت. ©",
+      "cap_en": "Illustrative, not from the event: Pablo Hernández de Cos. Cropped and resized. ©"
+     }
+    },
+    {
+     "ar": "رويترز عن مصرفيين: وحدة أداني الرئيسية تدرس طرح سندات للاكتتاب العام في ديسمبر.",
+     "src_ar": "رويترز",
+     "en": "Reuters, citing bankers: India's Adani flagship unit is considering a public bond sale in December.",
      "src_en": "Reuters"
+    },
+    {
+     "ar": "ألمانيا والنمسا تدعوان إلى ملكية أوروبية لتطبيق تيك توك.",
+     "src_ar": "العربية Business",
+     "en": "Germany and Austria call for European ownership of the TikTok app.",
+     "src_en": "Al Arabiya Business"
     }
    ]
   },
@@ -58,15 +93,9 @@
    },
    "items": [
     {
-     "ar": "بريطانيا تتأهل إلى نصف نهائي كأس ديفيس للتنس بفوزها على ألمانيا بنتيجة 2-1.",
-     "src_ar": "بي إن سبورتس",
-     "en": "Britain reach the Davis Cup tennis semi-finals after beating Germany 2-1.",
-     "src_en": "beIN Sports"
-    },
-    {
-     "ar": "هالاند: هناك شيء لا يسير بشكل صحيح، وكل ما أريده هو تقديم مستويات جيدة.",
+     "ar": "عمر مرموش ينعى ضحايا حادث الطريق الدائري.",
      "src_ar": "فيل جول",
-     "en": "Haaland: something is not going right, and all I want is to deliver good performances.",
+     "en": "Omar Marmoush offers condolences for the victims of the ring road accident.",
      "src_en": "FilGoal"
     }
    ]
