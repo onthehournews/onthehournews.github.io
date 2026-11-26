@@ -1,11 +1,11 @@
 {
- "id": "2026-11-26T14:00",
+ "id": "2026-11-26T15:00",
  "date": {
   "ar": "الخميس 26 نوفمبر 2026",
   "en": "Thursday 26 November 2026"
  },
- "uae": "2:00 PM",
- "cairo": "12:00 PM",
+ "uae": "3:00 PM",
+ "cairo": "1:00 PM",
  "sections": [
   {
    "title": {
@@ -14,34 +14,40 @@
    },
    "items": [
     {
-     "ar": "الحصيلة النهائية لحادث الطريق الدائري بالوراق: 31 وفاة و26 مصابا، بحسب وزارة الصحة المصرية.",
-     "src_ar": "العربية وسكاي نيوز عربية",
-     "en": "Final toll from the Ring Road accident in Warraq: 31 dead and 26 injured, according to Egypt's Health Ministry.",
-     "src_en": "Al Arabiya and Sky News Arabia"
+     "ar": "النيابة العامة المصرية تلقي القبض على المتهم المتسبب في حادث الوراق.",
+     "src_ar": "الإمارات اليوم",
+     "en": "Egypt's Public Prosecution arrests the suspect behind the Warraq accident.",
+     "src_en": "Emarat Al Youm"
     },
     {
-     "ar": "الحرس الثوري الإيراني: ناقلتان انفجرتا واشتعلت فيهما النيران بعد اصطدامهما بألغام بحرية شمال ميناء خصب العماني أثناء محاولتهما عبور مضيق هرمز.",
-     "src_ar": "رويترز",
-     "en": "Iran's Revolutionary Guards say two tankers exploded and caught fire after hitting naval mines north of Oman's Khasab port while trying to cross the Strait of Hormuz.",
-     "src_en": "Reuters"
+     "ar": "الخارجية الأردنية تعلن العثور على جثمان بحار أردني فُقد إثر هجوم على ناقلة نفط في مضيق هرمز.",
+     "src_ar": "الجزيرة",
+     "en": "Jordan's Foreign Ministry says the body of a Jordanian sailor missing after an attack on an oil tanker in the Strait of Hormuz has been found.",
+     "src_en": "Al Jazeera"
     },
     {
-     "ar": "الإمارات تدين بشدة محاولة جماعة الحوثي استهداف عدد من المناطق في السعودية.",
-     "src_ar": "وكالة أنباء الإمارات",
-     "en": "The UAE strongly condemns the Houthi group's attempt to target areas in Saudi Arabia.",
-     "src_en": "Emirates News Agency (WAM)"
+     "ar": "المرشد الإيراني مجتبى خامنئي في بيان مكتوب: يجب تنفيذ شعار \"كل إيراني هو من الباسيج\"، وقوات التعبئة لا تفوت أي فرصة لتوجيه ضربة إلى الأعداء.",
+     "src_ar": "العربية والجزيرة",
+     "en": "Iran's Supreme Leader Mojtaba Khamenei says in a written statement that the slogan \"every Iranian is a Basij\" must be implemented, and that the mobilization forces miss no chance to strike the enemies.",
+     "src_en": "Al Arabiya and Al Jazeera"
     },
     {
-     "ar": "الكرملين يتهم أوكرانيا بمحاولة توسيع نطاق الحرب مع روسيا إلى البحر المتوسط وبحر البلطيق، ويصف الخطوة بأنها بالغة الخطورة.",
-     "src_ar": "رويترز",
-     "en": "The Kremlin accuses Ukraine of trying to widen the war with Russia to the Mediterranean and the Baltic Sea, calling the move extremely dangerous.",
-     "src_en": "Reuters"
+     "ar": "مصادر من الحديدة: 5 غارات استهدفت مواقع عسكرية للحوثيين في منطقة الكثيب.",
+     "src_ar": "العربية",
+     "en": "Sources in Hodeidah: 5 air strikes hit Houthi military sites in the Al-Kathib area.",
+     "src_en": "Al Arabiya"
     },
     {
-     "ar": "مصدر طبي فلسطيني: 5 مصابين بنيران مسيّرة إسرائيلية في مشروع بيت لاهيا شمالي قطاع غزة.",
+     "ar": "روسيا تسلم أوكرانيا جثامين 250 عسكريا مقابل استعادة جثامين 22 عسكريا روسيا، بحسب وكالة تاس.",
      "src_ar": "سكاي نيوز عربية",
-     "en": "A Palestinian medical source says 5 people were wounded by Israeli drone fire in the Beit Lahia project area in northern Gaza.",
+     "en": "Russia hands Ukraine the bodies of 250 soldiers in exchange for 22 Russian soldiers' bodies, according to TASS.",
      "src_en": "Sky News Arabia"
+    },
+    {
+     "ar": "مسعفون: 9 فلسطينيين على الأقل قتلوا في غارات إسرائيلية وإطلاق نار خلال الليل في قطاع غزة، بينهم وكيل وزارة التعليم الذي عينته حماس.",
+     "src_ar": "رويترز",
+     "en": "Medics say at least nine Palestinians were killed in Israeli air strikes and shooting overnight in Gaza, including the Hamas-appointed deputy education minister.",
+     "src_en": "Reuters"
     }
    ]
   },
@@ -52,42 +58,28 @@
    },
    "items": [
     {
-     "ar": "وزير المالية المصري: نستهدف عائدا بنسبة 19.5% على أول إصدار من الصكوك الضريبية، وتنفيذه بنهاية نوفمبر أو مطلع ديسمبر.",
-     "src_ar": "الشرق بلومبرغ",
-     "en": "Egypt's finance minister: we are targeting a 19.5% yield on the first tax sukuk issuance, to be carried out by the end of November or early December.",
-     "src_en": "Asharq Bloomberg"
-    },
-    {
-     "ar": "ارتفاع صادرات قطر من الغاز المسال إلى أعلى مستوى منذ اندلاع حرب إيران.",
+     "ar": "سهم دبي الإسلامي (DIB) يقفز نحو 10% ويغلق عند أعلى مستوى في 9 أشهر.",
      "src_ar": "العربية Business",
-     "en": "Qatar's liquefied natural gas exports rise to their highest level since the Iran war began.",
+     "en": "Dubai Islamic Bank (DIB) shares jump nearly 10%, closing at their highest level in nine months.",
      "src_en": "Al Arabiya Business"
     },
     {
-     "ar": "سهم دبي الإسلامي (DIB) يرتفع أكثر من 8% في التداولات بعد صدور تفاصيل الاستحواذ على مصرف الإمارات الإسلامي.",
-     "src_ar": "العربية Business",
-     "en": "Dubai Islamic Bank (DIB) shares gain more than 8% in trading after details of the acquisition of Emirates Islamic were released.",
-     "src_en": "Al Arabiya Business"
+     "ar": "المصرف المركزي السوري يخفض القيمة الرسمية لليرة أمام الدولار إلى 135 ليرة جديدة لتوحيد الأسعار الرسمية والموازية.",
+     "src_ar": "الجزيرة",
+     "en": "Syria's central bank cuts the official lira rate to 135 new lira per dollar to unify the official and parallel rates.",
+     "src_en": "Al Jazeera"
     },
     {
-     "ar": "إنفيديا توقف شحن خوادم الذكاء الاصطناعي إلى 4 دول في جنوب شرق آسيا.",
-     "src_ar": "العربية Business",
-     "en": "Nvidia halts shipments of AI servers to 4 countries in Southeast Asia.",
-     "src_en": "Al Arabiya Business"
-    }
-   ]
-  },
-  {
-   "title": {
-    "ar": "رياضة ومنوعات",
-    "en": "Sport & Variety"
-   },
-   "items": [
+     "ar": "بنك كوريا يرفع سعر الفائدة الأساسي 25 نقطة أساس إلى 3.25% كما كان متوقعا.",
+     "src_ar": "رويترز",
+     "en": "The Bank of Korea raises its base rate by 25 basis points to 3.25%, as expected.",
+     "src_en": "Reuters"
+    },
     {
-     "ar": "وزير الشباب والرياضة المصري يقرر إلغاء جميع الأنشطة الاحتفالية تضامنا مع ضحايا حادث دائري الوراق.",
-     "src_ar": "فيل جول",
-     "en": "Egypt's Minister of Youth and Sports cancels all celebratory activities in solidarity with the victims of the Warraq Ring Road accident.",
-     "src_en": "FilGoal"
+     "ar": "ترامب يشهد تدشين مصنع رقائق تابع لشركة TSMC التايوانية في أريزونا.",
+     "src_ar": "العربية Business",
+     "en": "Trump attends the launch of a Taiwanese TSMC chip plant in Arizona.",
+     "src_en": "Al Arabiya Business"
     }
    ]
   }
