@@ -1,11 +1,11 @@
 {
- "id": "2026-11-26T18:00",
+ "id": "2026-11-26T19:00",
  "date": {
   "ar": "الخميس 26 نوفمبر 2026",
   "en": "Thursday 26 November 2026"
  },
- "uae": "6:00 PM",
- "cairo": "4:00 PM",
+ "uae": "7:00 PM",
+ "cairo": "5:00 PM",
  "sections": [
   {
    "title": {
@@ -14,84 +14,40 @@
    },
    "items": [
     {
-     "ar": "ينتظر أهالي ضحايا حادث دائري الوراق تسلّم جثامين ذويهم، لحين انتهاء الجهات المختصة من تحديد الهوية ومطابقة نتائج تحاليل الحمض النووي.",
+     "ar": "الحكومة المصرية تعلن حزمة دعم لمصابي وأسر ضحايا حادث دائري الوراق تشمل تعويضات مالية وسيارات بديلة وشهادات استثمار.",
      "src_ar": "العربية مصر",
-     "en": "Families of the Warraq ring road accident victims are waiting to receive their relatives' bodies until the authorities finish identification and DNA matching.",
+     "en": "Egypt's government announces a support package for the injured and the families of the Warraq ring road accident victims, including financial compensation, replacement cars and investment certificates.",
      "src_en": "Al Arabiya Egypt"
     },
     {
-     "ar": "وكالة الأنباء الإيطالية أنسا: مقتل عاملين إيطاليين جراء ضربة إيرانية في الكويت.",
-     "src_ar": "الجزيرة",
-     "en": "Italy's ANSA news agency: two Italian workers were killed in an Iranian strike in Kuwait.",
-     "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "الكرملين: أجهزة مخابرات روسيا وأوكرانيا ومكتبا مفوضي حقوق الإنسان يضعون اللمسات الأخيرة على قوائم عملية تبادل كبيرة لأسرى الحرب.",
-     "src_ar": "رويترز",
-     "en": "Kremlin: Russian and Ukrainian intelligence services and the two human rights ombudsman offices are finalising lists for a large prisoner-of-war exchange.",
-     "src_en": "Reuters"
-    },
-    {
-     "ar": "خليل الحية: حماس تجري مشاورات مع الفصائل لبحث كيفية التعامل مع الخروقات الإسرائيلية.",
+     "ar": "الخارجية السعودية: المملكة تدين العدوان الإيراني على الكويت وتحمّل إيران عواقب استمرار اعتداءاتها، وتطالبها بالوقف الفوري لها.",
      "src_ar": "العربية",
-     "en": "Khalil al-Hayya: Hamas is consulting with the factions on how to respond to Israeli violations.",
+     "en": "Saudi Foreign Ministry: the Kingdom condemns the Iranian attack on Kuwait, holds Iran responsible for the consequences of continued attacks, and demands that it stop immediately.",
      "src_en": "Al Arabiya"
     },
     {
-     "ar": "القناة 12 الإسرائيلية: اتفاق بين آيزنكوت وحزب الديمقراطيين يمنح الحزب 4 وزارات، منها وزارة الأمن القومي لياير غولان.",
+     "ar": "قوات التحالف في اليمن: مصفاة جازان في السعودية تعرضت لاعتداء من الحوثيين، واستهداف المدنيين سيقابله رد عسكري حازم.",
+     "src_ar": "CNBC عربية",
+     "en": "Coalition forces in Yemen: the Jazan refinery in Saudi Arabia was attacked by the Houthis, and targeting civilians will be met with a firm military response.",
+     "src_en": "CNBC Arabia"
+    },
+    {
+     "ar": "وزير الخارجية الألماني: ألمانيا تدعم أوكرانيا وحقها في الدفاع عن النفس، لكن يجب ألا يمتد الصراع مع روسيا إلى مناطق أخرى.",
+     "src_ar": "رويترز",
+     "en": "German Foreign Minister: Germany supports Ukraine and its right to self-defence, but the conflict with Russia must not spread to other areas.",
+     "src_en": "Reuters"
+    },
+    {
+     "ar": "ترامب: أود أن أرى الرئيس بوتين يتراجع عن كل أشكال العدوان العسكري ضد الأراضي في جميع أنحاء أوروبا.",
      "src_ar": "سكاي نيوز عربية",
-     "en": "Israel's Channel 12: a deal between Eisenkot and the Democrats party gives the party 4 ministries, including national security for Yair Golan.",
+     "en": "Trump: I would like to see President Putin pull back from all forms of military aggression against territory across Europe.",
      "src_en": "Sky News Arabia"
     },
     {
-     "ar": "رويترز: عدد حالات الإيبولا في الكونغو يتجاوز 12 ألف حالة وسط صعوبات في احتواء التفشي.",
+     "ar": "محكمة كينية: الحكومة خالفت أجزاء من الدستور بالسماح ببناء منشأة حجر صحي للإيبولا مدعومة أمريكيا في قاعدة جوية عسكرية بوسط كينيا.",
      "src_ar": "رويترز",
-     "en": "Reuters: Congo's Ebola cases exceed 12,000 as responders struggle to contain the outbreak.",
+     "en": "A Kenyan court ruled the government breached parts of the constitution by allowing a US-backed Ebola quarantine facility to be built at a military air base in central Kenya.",
      "src_en": "Reuters"
-    }
-   ]
-  },
-  {
-   "title": {
-    "ar": "اقتصاد",
-    "en": "Economy"
-   },
-   "items": [
-    {
-     "ar": "رويترز عن مصدرين: أوبك+ سيمدد على الأرجح مستويات إنتاج النفط الحالية خلال اجتماع الأحد حتى الربع الأول من 2027 على الأقل.",
-     "src_ar": "رويترز",
-     "en": "Reuters, citing two sources: OPEC+ will likely extend current oil output levels at its Sunday meeting through at least the first quarter of 2027.",
-     "src_en": "Reuters"
-    },
-    {
-     "ar": "محمد بن راشد يفتتح محطة حتا الكهرومائية باستثمارات 1.4 مليار درهم وقدرة إنتاجية 250 ميغاواط.",
-     "src_ar": "مكتب دبي الإعلامي",
-     "en": "Mohammed bin Rashid inaugurates the Hatta hydroelectric station, with AED 1.4 billion in investment and 250 MW of capacity.",
-     "src_en": "Dubai Media Office",
-     "img": {
-      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Hatta_Dam_-_UAE.jpg?width=960",
-      "page": "https://commons.wikimedia.org/wiki/File:Hatta_Dam_-_UAE.jpg",
-      "credit": "Robert Haandrikman",
-      "lic": "CC BY 2.0",
-      "lic_url": "https://creativecommons.org/licenses/by/2.0/",
-      "cap_ar": "صورة توضيحية، ليست من الحدث: سد حتا. قُصّت وصُغّرت. ©",
-      "cap_en": "Illustrative, not from the event: Hatta Dam. Cropped and resized. ©"
-     }
-    },
-    {
-     "ar": "4 شركات طيران أوروبية تستأنف رحلاتها إلى مطار دبي خلال نوفمبر.",
-     "src_ar": "الإمارات اليوم",
-     "en": "4 European airlines are resuming flights to Dubai airport in November.",
-     "src_en": "Emarat Al Youm",
-     "img": {
-      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Dubai_International_Airport_Terminal_three.JPG?width=960",
-      "page": "https://commons.wikimedia.org/wiki/File:Dubai_International_Airport_Terminal_three.JPG",
-      "credit": "VtTN",
-      "lic": "CC BY-SA 3.0",
-      "lic_url": "https://creativecommons.org/licenses/by-sa/3.0/",
-      "cap_ar": "صورة توضيحية، ليست من الحدث: المبنى 3 في مطار دبي الدولي. قُصّت وصُغّرت. ©",
-      "cap_en": "Illustrative, not from the event: Terminal 3 at Dubai International Airport. Cropped and resized. ©"
-     }
     }
    ]
   },
@@ -102,9 +58,15 @@
    },
    "items": [
     {
-     "ar": "الكاف يوافق على طلب الزمالك الوقوف دقيقة صمت قبل مباراة الإفريقي التونسي ترحما على ضحايا حادث دائري الوراق.",
+     "ar": "بريطانيا تتأهل إلى نصف نهائي كأس ديفيس للتنس بفوزها على ألمانيا بنتيجة 2-1.",
+     "src_ar": "بي إن سبورتس",
+     "en": "Britain reach the Davis Cup tennis semi-finals after beating Germany 2-1.",
+     "src_en": "beIN Sports"
+    },
+    {
+     "ar": "هالاند: هناك شيء لا يسير بشكل صحيح، وكل ما أريده هو تقديم مستويات جيدة.",
      "src_ar": "فيل جول",
-     "en": "CAF approves Zamalek's request for a minute of silence before the match against Tunisia's Club Africain in memory of the Warraq ring road accident victims.",
+     "en": "Haaland: something is not going right, and all I want is to deliver good performances.",
      "src_en": "FilGoal"
     }
    ]
