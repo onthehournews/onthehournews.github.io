@@ -1,11 +1,11 @@
 {
- "id": "2026-11-27T00:00",
+ "id": "2026-11-27T01:00",
  "date": {
   "ar": "الجمعة 27 نوفمبر 2026",
   "en": "Friday 27 November 2026"
  },
- "uae": "12:00 AM",
- "cairo": "10:00 PM",
+ "uae": "1:00 AM",
+ "cairo": "11:00 PM",
  "sections": [
   {
    "title": {
@@ -14,40 +14,40 @@
    },
    "items": [
     {
-     "ar": "تبرعات بـ3.5 مليون دولار لدعم ضحايا حريق الوراق في مصر، وسط تكاتف حكومي وشعبي.",
+     "ar": "الصحة المصرية: لم يتم التعرف على هوية ضحايا حادث الوراق حتى الآن، وتم سحب عينات DNA للتعرف عليهم.",
+     "src_ar": "العربية",
+     "en": "Egypt's Health Ministry: the victims of the Warraq accident have not yet been identified, and DNA samples have been taken to identify them.",
+     "src_en": "Al Arabiya"
+    },
+    {
+     "ar": "وزارة الداخلية المصرية تنشر تسجيلا من كاميرات المراقبة للحظات الأولى من حادث الوراق: سيارة ملاكي اصطدمت بالشاحنة فانقلبت.",
      "src_ar": "العربية مصر",
-     "en": "Donations of $3.5 million for the victims of the Warraq fire in Egypt, as the government and the public rally together.",
+     "en": "Egypt's Interior Ministry releases CCTV footage of the first moments of the Warraq accident: a private car hit the truck and it overturned.",
      "src_en": "Al Arabiya Egypt"
     },
     {
-     "ar": "التحالف بقيادة السعودية: دمرنا 50 هدفا عسكريا مشروعا للحوثيين في محافظات صنعاء والحديدة وصعدة.",
-     "src_ar": "العربية وسكاي نيوز عربية",
-     "en": "The Saudi-led coalition says it destroyed 50 legitimate military targets of the Houthis in Sanaa, Hodeidah and Saada provinces.",
-     "src_en": "Al Arabiya and Sky News Arabia"
+     "ar": "المستشار تركي آل الشيخ يتبرع بـ13 مليون جنيه إضافية لمصابي حادث الوراق، بعد تبرعه بـ30 مليونا لأسر الضحايا.",
+     "src_ar": "العربية مصر",
+     "en": "Turki Al-Sheikh donates a further 13 million Egyptian pounds to those injured in the Warraq accident, after donating 30 million to the victims' families.",
+     "src_en": "Al Arabiya Egypt"
     },
     {
-     "ar": "وزير الخارجية الإيراني عراقجي: الحادث في الكويت مريب ويبدو تدبيرا مسبقا للحرب، ونحن مستعدون للتعاون مع الكويت وإيطاليا لتحديد أسبابه.",
+     "ar": "جامعة الدول العربية تدين بشدة الاعتداء الإيراني الذي استهدف مواقع حيوية في الكويت وأسفر عن ضحايا ومصابين، وتعتبره انتهاكا لسيادة الكويت.",
+     "src_ar": "العربية مصر",
+     "en": "The Arab League strongly condemns the Iranian attack on vital sites in Kuwait that caused deaths and injuries, calling it a violation of Kuwait's sovereignty.",
+     "src_en": "Al Arabiya Egypt"
+    },
+    {
+     "ar": "مخاوف استخباراتية أمريكية من مخطط إيراني محتمل لاستهداف مسؤولين في واشنطن، وطهران تنفي.",
      "src_ar": "الجزيرة",
-     "en": "Iranian Foreign Minister Araghchi: the incident in Kuwait is suspicious and looks like a pretext prepared for war, and we are ready to cooperate with Kuwait and Italy to determine its causes.",
+     "en": "US intelligence officials fear a possible Iranian plot to target officials in Washington, and Tehran denies it.",
      "src_en": "Al Jazeera"
     },
     {
-     "ar": "عراقجي: إسرائيل تختلق أكاذيب بهدف جر الولايات المتحدة إلى الحرب مرة أخرى.",
-     "src_ar": "الجزيرة",
-     "en": "Araghchi: Israel is fabricating lies to drag the United States into war again.",
-     "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "الجيش الإسرائيلي: نفذنا هجوما جويا في عين التينة في لبنان استهدف عشرات الصواريخ ومنصات الإطلاق التابعة لحزب الله.",
-     "src_ar": "الجزيرة",
-     "en": "The Israeli army says it carried out an air strike in Ain Tineh, Lebanon, targeting dozens of Hezbollah rockets and launchers.",
-     "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "رئيس بلدية كييف: القوات الروسية تقصف العاصمة بصواريخ باليستية وإصابة سبعة أشخاص.",
-     "src_ar": "رويترز",
-     "en": "Kyiv's mayor says Russian forces hit the capital with ballistic missiles, wounding seven people.",
-     "src_en": "Reuters"
+     "ar": "وزير خارجية أوكرانيا: لا نية لدينا لتوسيع رقعة الحرب إلى ليبيا.",
+     "src_ar": "العربية",
+     "en": "Ukraine's foreign minister: we have no intention of widening the war to Libya.",
+     "src_en": "Al Arabiya"
     }
    ]
   },
@@ -58,22 +58,22 @@
    },
    "items": [
     {
-     "ar": "بينانس ترفع تعليق السحب بعد سرقة عملات مشفرة بقيمة 6.3 مليار دولار.",
-     "src_ar": "العربية Business",
-     "en": "Binance lifts its withdrawal suspension after a theft of crypto assets worth $6.3 billion.",
-     "src_en": "Al Arabiya Business"
+     "ar": "بنك إنجلترا سيخفض متطلبات رأس المال للبنوك التي تركز أعمالها على السوق البريطانية.",
+     "src_ar": "رويترز",
+     "en": "The Bank of England will cut capital requirements for lenders focused on the UK market.",
+     "src_en": "Reuters"
     },
     {
-     "ar": "البنك المركزي التركي يعلّق مشترياته من الذهب المنتج محليا حتى إشعار آخر.",
-     "src_ar": "CNBC عربية عن رويترز",
-     "en": "Turkey's central bank suspends its purchases of locally produced gold until further notice, according to Reuters.",
+     "ar": "بلومبرغ: شركة SAP تدرس خفض 10 آلاف وظيفة على الأقل ضمن إعادة هيكلة بسبب الذكاء الاصطناعي.",
+     "src_ar": "رويترز",
+     "en": "Bloomberg reports SAP is considering at least 10,000 job cuts in an AI restructuring.",
+     "src_en": "Reuters"
+    },
+    {
+     "ar": "إس آند بي تؤكد التصنيف الائتماني للكويت عند AA-، وتتوقع نموا بـ13% في 2027.",
+     "src_ar": "CNBC عربية",
+     "en": "S&P affirms Kuwait's credit rating at AA- and expects growth of 13% in 2027.",
      "src_en": "CNBC Arabia"
-    },
-    {
-     "ar": "بتكوين تتجاوز 60 ألف دولار مع صعود الأصول عالية المخاطر.",
-     "src_ar": "الشرق بلومبرغ",
-     "en": "Bitcoin rises above $60,000 as high-risk assets climb.",
-     "src_en": "Asharq Bloomberg"
     }
    ]
   },
@@ -84,10 +84,10 @@
    },
    "items": [
     {
-     "ar": "توقف مباراة بشكتاش التركي وهبوعيل بئر السبع الإسرائيلي في جورجيا مؤقتا بعد أحداث شغب في المدرجات وتدخل قوات الأمن.",
-     "src_ar": "الجزيرة",
-     "en": "The match between Turkey's Besiktas and Israel's Hapoel Be'er Sheva in Georgia was halted temporarily after unrest in the stands, and security forces stepped in.",
-     "src_en": "Al Jazeera"
+     "ar": "الاتحاد الألماني: إيقاف لاعبة المنتخب لاورا فرايجانج 16 شهرا لثلاث مخالفات تتعلق بعدم الإبلاغ عن مكان وجودها، ما يستبعدها من كأس العالم للسيدات.",
+     "src_ar": "رويترز",
+     "en": "The German football federation suspends national team player Laura Freigang for 16 months over three violations for failing to report her whereabouts, ruling her out of next year's Women's World Cup.",
+     "src_en": "Reuters"
     }
    ]
   }
