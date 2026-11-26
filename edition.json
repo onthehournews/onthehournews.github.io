@@ -1,11 +1,11 @@
 {
- "id": "2026-11-26T23:00",
+ "id": "2026-11-27T00:00",
  "date": {
-  "ar": "الخميس 26 نوفمبر 2026",
-  "en": "Thursday 26 November 2026"
+  "ar": "الجمعة 27 نوفمبر 2026",
+  "en": "Friday 27 November 2026"
  },
- "uae": "11:00 PM",
- "cairo": "9:00 PM",
+ "uae": "12:00 AM",
+ "cairo": "10:00 PM",
  "sections": [
   {
    "title": {
@@ -14,34 +14,40 @@
    },
    "items": [
     {
-     "ar": "السيسي يوجه الحكومة بحصر الخسائر التي تعرض لها المتضررون جراء حادث الوراق وتعويضهم بشكل كامل.",
-     "src_ar": "سكاي نيوز عربية",
-     "en": "Sisi directs the government to tally the losses of those affected by the Warraq accident and compensate them in full.",
-     "src_en": "Sky News Arabia"
+     "ar": "تبرعات بـ3.5 مليون دولار لدعم ضحايا حريق الوراق في مصر، وسط تكاتف حكومي وشعبي.",
+     "src_ar": "العربية مصر",
+     "en": "Donations of $3.5 million for the victims of the Warraq fire in Egypt, as the government and the public rally together.",
+     "src_en": "Al Arabiya Egypt"
     },
     {
-     "ar": "وزارة الطاقة السعودية: اعتداء بمقذوف جوي معاد على مصفاة جازان يسفر عن وفاة أحد العاملين وإصابة آخرين، وتوقف مؤقت لبعض العمليات.",
-     "src_ar": "الجزيرة والعربية وسكاي نيوز عربية",
-     "en": "Saudi Energy Ministry: a hostile aerial projectile attack on the Jazan refinery killed one worker and injured others, and some operations are temporarily halted.",
-     "src_en": "Al Jazeera, Al Arabiya and Sky News Arabia"
+     "ar": "التحالف بقيادة السعودية: دمرنا 50 هدفا عسكريا مشروعا للحوثيين في محافظات صنعاء والحديدة وصعدة.",
+     "src_ar": "العربية وسكاي نيوز عربية",
+     "en": "The Saudi-led coalition says it destroyed 50 legitimate military targets of the Houthis in Sanaa, Hodeidah and Saada provinces.",
+     "src_en": "Al Arabiya and Sky News Arabia"
     },
     {
-     "ar": "رويترز عن مصدر: مقتل عاملين إيطاليين في ضربة إيرانية في الكويت. والخارجية الإيرانية تقول إن عراقجي أبلغ نظيره الإيطالي أن لا دور لإيران في الحادث.",
-     "src_ar": "رويترز والجزيرة",
-     "en": "Reuters, citing a source: two Italian workers killed in an Iranian strike in Kuwait. Iran's foreign ministry says Araghchi told his Italian counterpart Iran had no role in the incident.",
-     "src_en": "Reuters and Al Jazeera"
-    },
-    {
-     "ar": "الناطق العسكري باسم الحوثيين: 109 غارات جوية وصاروخية استهدفت صنعاء و10 محافظات خلال 24 ساعة.",
+     "ar": "وزير الخارجية الإيراني عراقجي: الحادث في الكويت مريب ويبدو تدبيرا مسبقا للحرب، ونحن مستعدون للتعاون مع الكويت وإيطاليا لتحديد أسبابه.",
      "src_ar": "الجزيرة",
-     "en": "The Houthi military spokesman: 109 air and missile strikes targeted Sanaa and 10 provinces in 24 hours.",
+     "en": "Iranian Foreign Minister Araghchi: the incident in Kuwait is suspicious and looks like a pretext prepared for war, and we are ready to cooperate with Kuwait and Italy to determine its causes.",
      "src_en": "Al Jazeera"
     },
     {
-     "ar": "المبعوث الأمريكي جاريد كوشنر: نتنياهو وقّع اتفاق غزة لكنه لا يزال يعرقل التوصل إلى تفاهمات، ولا يمكن إنهاء الحرب في القطاع دون التفاوض مع حماس.",
+     "ar": "عراقجي: إسرائيل تختلق أكاذيب بهدف جر الولايات المتحدة إلى الحرب مرة أخرى.",
      "src_ar": "الجزيرة",
-     "en": "US envoy Jared Kushner: Netanyahu signed the Gaza agreement but is still obstructing understandings, and the war in the Strip cannot end without negotiating with Hamas.",
+     "en": "Araghchi: Israel is fabricating lies to drag the United States into war again.",
      "src_en": "Al Jazeera"
+    },
+    {
+     "ar": "الجيش الإسرائيلي: نفذنا هجوما جويا في عين التينة في لبنان استهدف عشرات الصواريخ ومنصات الإطلاق التابعة لحزب الله.",
+     "src_ar": "الجزيرة",
+     "en": "The Israeli army says it carried out an air strike in Ain Tineh, Lebanon, targeting dozens of Hezbollah rockets and launchers.",
+     "src_en": "Al Jazeera"
+    },
+    {
+     "ar": "رئيس بلدية كييف: القوات الروسية تقصف العاصمة بصواريخ باليستية وإصابة سبعة أشخاص.",
+     "src_ar": "رويترز",
+     "en": "Kyiv's mayor says Russian forces hit the capital with ballistic missiles, wounding seven people.",
+     "src_en": "Reuters"
     }
    ]
   },
@@ -52,22 +58,22 @@
    },
    "items": [
     {
-     "ar": "العقود الآجلة لخام برنت ترتفع 2.07% عند التسوية إلى 96.57 دولار للبرميل مع استمرار الاضطرابات الجيوسياسية في الشرق الأوسط.",
-     "src_ar": "CNBC عربية",
-     "en": "Brent crude futures settle up 2.07% at $96.57 a barrel as geopolitical disruption in the Middle East continues.",
+     "ar": "بينانس ترفع تعليق السحب بعد سرقة عملات مشفرة بقيمة 6.3 مليار دولار.",
+     "src_ar": "العربية Business",
+     "en": "Binance lifts its withdrawal suspension after a theft of crypto assets worth $6.3 billion.",
+     "src_en": "Al Arabiya Business"
+    },
+    {
+     "ar": "البنك المركزي التركي يعلّق مشترياته من الذهب المنتج محليا حتى إشعار آخر.",
+     "src_ar": "CNBC عربية عن رويترز",
+     "en": "Turkey's central bank suspends its purchases of locally produced gold until further notice, according to Reuters.",
      "src_en": "CNBC Arabia"
     },
     {
-     "ar": "حرب المسيّرات في البحر الأسود تهدد قمح مصر، ومعظم القمح المستورد يأتي عبر البحر الأسود، والقاهرة تسابق الزمن لتأمين احتياجاتها عبر طرق أخرى.",
+     "ar": "بتكوين تتجاوز 60 ألف دولار مع صعود الأصول عالية المخاطر.",
      "src_ar": "الشرق بلومبرغ",
-     "en": "The drone war in the Black Sea threatens Egypt's wheat: most imported wheat comes through the Black Sea, and Cairo is racing to secure supplies by other routes.",
+     "en": "Bitcoin rises above $60,000 as high-risk assets climb.",
      "src_en": "Asharq Bloomberg"
-    },
-    {
-     "ar": "صافي احتياطيات البنك المركزي التركي يسجل ثاني أكبر انخفاض أسبوعي.",
-     "src_ar": "العربية Business",
-     "en": "Turkey's central bank net reserves record their second-largest weekly drop.",
-     "src_en": "Al Arabiya Business"
     }
    ]
   },
@@ -78,16 +84,10 @@
    },
    "items": [
     {
-     "ar": "ليدز يونايتد يمدد عقد مهاجمه دومينيك كالفرت-لوين حتى عام 2029.",
-     "src_ar": "بي إن سبورتس",
-     "en": "Leeds United extend striker Dominic Calvert-Lewin's contract until 2029.",
-     "src_en": "beIN Sports"
-    },
-    {
-     "ar": "أمين غويري يصل إلى 100 هدف في مسيرته الاحترافية بعد هدفه في مرمى لو مان مع مارسيليا.",
-     "src_ar": "بي إن سبورتس",
-     "en": "Amine Gouiri reaches 100 professional career goals after scoring against Le Mans for Marseille.",
-     "src_en": "beIN Sports"
+     "ar": "توقف مباراة بشكتاش التركي وهبوعيل بئر السبع الإسرائيلي في جورجيا مؤقتا بعد أحداث شغب في المدرجات وتدخل قوات الأمن.",
+     "src_ar": "الجزيرة",
+     "en": "The match between Turkey's Besiktas and Israel's Hapoel Be'er Sheva in Georgia was halted temporarily after unrest in the stands, and security forces stepped in.",
+     "src_en": "Al Jazeera"
     }
    ]
   }
