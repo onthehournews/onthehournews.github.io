@@ -1,11 +1,11 @@
 {
- "id": "2026-11-27T02:00",
+ "id": "2026-11-27T03:00",
  "date": {
   "ar": "الجمعة 27 نوفمبر 2026",
   "en": "Friday 27 November 2026"
  },
- "uae": "2:00 AM",
- "cairo": "12:00 AM",
+ "uae": "3:00 AM",
+ "cairo": "1:00 AM",
  "sections": [
   {
    "title": {
@@ -14,40 +14,40 @@
    },
    "items": [
     {
-     "ar": "الداخلية المصرية تنشر فيديو يوضح كيف وقعت كارثة الوراق: سائق سيارة حاول تخطي شاحنة المواد البترولية من اليمين. والنيابة العامة: المتهم أقر بارتكاب الواقعة وصدر أمر بحبسه.",
+     "ar": "وزير الاستثمار والتجارة الخارجية المصري يوجه الغرف التجارية بتقديم دعم بقيمة 25 مليون جنيه لأسر ضحايا حادث الوراق، وبيت الزكاة والصدقات يخصص 10 ملايين جنيه لدعم عاجل للأسر.",
      "src_ar": "العربية مصر",
-     "en": "Egypt's Interior Ministry releases a video showing how the Warraq disaster happened: a car driver tried to overtake the fuel truck on the right. Prosecutors say the suspect admitted the collision and ordered him detained.",
+     "en": "Egypt's investment and foreign trade minister directs the chambers of commerce to provide 25 million Egyptian pounds in support for the Warraq accident victims' families, and the Zakat and Charity House allocates 10 million pounds in urgent aid.",
      "src_en": "Al Arabiya Egypt"
     },
     {
-     "ar": "التحالف: اعتراض وتدمير طائرة مسيرة أطلقتها ميليشيا الحوثي باتجاه المنطقة الجنوبية في السعودية.",
-     "src_ar": "الجزيرة والعربية وسكاي نيوز عربية",
-     "en": "The coalition says it intercepted and destroyed a drone launched by the Houthi militia toward southern Saudi Arabia.",
-     "src_en": "Al Jazeera, Al Arabiya and Sky News Arabia"
+     "ar": "ترامب: ننفذ أعظم حصار بحري في التاريخ.",
+     "src_ar": "العربية وسكاي نيوز عربية",
+     "en": "Trump: we are carrying out the greatest naval blockade in history.",
+     "src_en": "Al Arabiya and Sky News Arabia"
     },
     {
-     "ar": "الوكالة الدولية للطاقة الذرية: نتواصل مع موسكو وكييف بشأن محطة زابوروجيا النووية بعد انقطاع الكهرباء عنها.",
+     "ar": "ترامب: نحاول أن نمنح إيران فرصة للتوصل إلى اتفاق لننقذ الأرواح، ولست متأكدا أنها ستغتنمها. وإيران لن تمتلك سلاحا نوويا.",
+     "src_ar": "العربية والجزيرة",
+     "en": "Trump: we are trying to give Iran a chance to reach a deal to save lives, and I am not sure it will take it. Iran will not have a nuclear weapon.",
+     "src_en": "Al Arabiya and Al Jazeera"
+    },
+    {
+     "ar": "الدفاع المدني السعودي: إطلاق إنذار مبكر للتحذير من خطر في مدينة أبها ومحافظة خميس مشيط.",
      "src_ar": "الجزيرة",
-     "en": "The International Atomic Energy Agency: we are in contact with Moscow and Kyiv about the Zaporizhzhia nuclear plant after it lost power.",
+     "en": "Saudi civil defence: an early warning is issued for danger in the city of Abha and Khamis Mushait governorate.",
      "src_en": "Al Jazeera"
     },
     {
-     "ar": "الجيش الفرنسي: نهدف إلى تزويد الجيش الأوكراني بمزيد من القدرات لردع روسيا.",
-     "src_ar": "العربية",
-     "en": "The French military says it aims to give the Ukrainian army more capabilities to deter Russia.",
-     "src_en": "Al Arabiya"
-    },
-    {
-     "ar": "مستوطنون إسرائيليون متطرفون يهدمون أساسات منزلين لعائلة فلسطينية في الضفة الغربية، في تحد لأمر محكمة إسرائيلية.",
+     "ar": "زيلينسكي: لدينا معلومات بأن روسيا تخطط لشن هجوم جديد واسع النطاق على أوكرانيا في الأيام المقبلة.",
      "src_ar": "رويترز",
-     "en": "Extremist Israeli settlers demolish the foundations of two homes belonging to a Palestinian family in the West Bank, defying an Israeli court order.",
+     "en": "Zelensky: we have information that Russia is planning a new large-scale attack on Ukraine in the coming days.",
      "src_en": "Reuters"
     },
     {
-     "ar": "أكثر من 750 ألف أمريكي يواجهون انقطاعا في الكهرباء خلال عيد الشكر مع استمرار العواصف العنيفة في عدة ولايات.",
-     "src_ar": "CNBC عربية",
-     "en": "More than 750,000 Americans face power outages over Thanksgiving as severe storms continue across several states.",
-     "src_en": "CNBC Arabia"
+     "ar": "ماكرون: الاتحاد الأوروبي سيرتكب خطأ استراتيجيا إذا خفض ميزانيته، ولن أوقع على اتفاق غير متوازن.",
+     "src_ar": "رويترز",
+     "en": "Macron: the European Union would make a strategic mistake if it cut its budget, and he will not sign an unbalanced deal.",
+     "src_en": "Reuters"
     }
    ]
   },
@@ -58,16 +58,16 @@
    },
    "items": [
     {
-     "ar": "العربية: ناقلات النفط الداخلة إلى الخليج تتراجع 40% مع تصاعد الهجمات في هرمز، وتحذيرات من أن العالم لا يسعّر خطر حرب جديدة مع إيران بالشكل الكافي.",
-     "src_ar": "العربية Business",
-     "en": "Al Arabiya: oil tankers entering the Gulf are down 40% as attacks in Hormuz escalate, with warnings that the world is not pricing the risk of a new war with Iran enough.",
-     "src_en": "Al Arabiya Business"
+     "ar": "البنك المركزي التركي يعلق مؤقتا مزادات إعادة الشراء (ريبو) لأجل أسبوع.",
+     "src_ar": "رويترز",
+     "en": "Turkey's central bank temporarily suspends its one-week repo auctions.",
+     "src_en": "Reuters"
     },
     {
-     "ar": "رويترز عن مصادر: أوبك+ ستمدد على الأرجح أهداف إنتاج النفط للربع الأول مع استمرار الخلافات حول الطاقات الإنتاجية.",
-     "src_ar": "رويترز",
-     "en": "Reuters, citing sources: OPEC+ is likely to roll over oil output targets for the first quarter as capacity disputes persist.",
-     "src_en": "Reuters"
+     "ar": "حجم تداول عقود مخاطر الائتمان للشركات الأمريكية يصل إلى 9.6 تريليون دولار منذ بداية 2026، متجاوزا الرقم القياسي لعام 2025.",
+     "src_ar": "CNBC عربية",
+     "en": "Trading volume in US corporate credit default swaps reaches $9.6 trillion since the start of 2026, already above the 2025 record.",
+     "src_en": "CNBC Arabia"
     }
    ]
   },
@@ -78,16 +78,16 @@
    },
    "items": [
     {
-     "ar": "محمد صلاح يسجل هدف التعادل ويقود طرابزون سبور للفوز 2-1 على مضيفه تسيسكا صوفيا في دوري المؤتمر الأوروبي.",
-     "src_ar": "فيل جول وبي إن سبورتس",
-     "en": "Mohamed Salah scores the equaliser as Trabzonspor win 2-1 away at CSKA Sofia in the Conference League.",
-     "src_en": "FilGoal and beIN Sports"
+     "ar": "الحكومة المغربية: نحترم قرار محكمة التحكيم الرياضي بفوز السنغال بأمم إفريقيا 2025.",
+     "src_ar": "الإمارات اليوم",
+     "en": "The Moroccan government: we respect the Court of Arbitration for Sport decision awarding the 2025 Africa Cup of Nations to Senegal.",
+     "src_en": "Emarat Al Youm"
     },
     {
-     "ar": "بشكتاش يفوز 2-1 على هبوعيل بئر السبع في الدوري الأوروبي بعد توقف المباراة 30 دقيقة إثر مواجهات في المدرجات.",
-     "src_ar": "فيل جول والجزيرة",
-     "en": "Besiktas beat Hapoel Be'er Sheva 2-1 in the Europa League after the match was halted for 30 minutes over clashes in the stands.",
-     "src_en": "FilGoal and Al Jazeera"
+     "ar": "المنتخب السعودي لكرة السلة يحقق فوزا تاريخيا على نظيره الصيني في التصفيات الآسيوية لكأس العالم قطر 2027.",
+     "src_ar": "بي إن سبورتس",
+     "en": "Saudi Arabia's basketball team records a historic win over China in the Asian qualifiers for the 2027 World Cup in Qatar.",
+     "src_en": "beIN Sports"
     }
    ]
   }
