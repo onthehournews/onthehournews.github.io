@@ -1,11 +1,11 @@
 {
- "id": "2026-11-26T16:00",
+ "id": "2026-11-26T17:00",
  "date": {
   "ar": "الخميس 26 نوفمبر 2026",
   "en": "Thursday 26 November 2026"
  },
- "uae": "4:00 PM",
- "cairo": "2:00 PM",
+ "uae": "5:00 PM",
+ "cairo": "3:00 PM",
  "sections": [
   {
    "title": {
@@ -14,40 +14,40 @@
    },
    "items": [
     {
-     "ar": "وزير الأوقاف المصري: صلاة الغائب على أرواح ضحايا حادث الوراق بعد صلاة الجمعة غدا، وتغيير موضوع الخطبة للحديث عن التكاتف وقت الأزمات.",
+     "ar": "الرئيس السيسي يستقبل أمير قطر الشيخ تميم بن حمد في مطار القاهرة ويصطحبه إلى قصر الاتحادية حيث أقيمت مراسم استقبال رسمية واجتماع بين الزعيمين.",
      "src_ar": "العربية مصر",
-     "en": "Egypt's Minister of Endowments: the funeral prayer in absentia for the Warraq accident victims will be held after Friday prayers tomorrow, and the sermon topic is changed to solidarity in times of crisis.",
+     "en": "President Sisi received Qatar's Emir Sheikh Tamim bin Hamad at Cairo airport and took him to the Ittihadiya Palace for an official welcome ceremony and a meeting between the two leaders.",
      "src_en": "Al Arabiya Egypt"
     },
     {
-     "ar": "آبي أحمد: إثيوبيا لن تطلب الإذن من أحد للاستفادة من النيل، وستحرص على وصول مياه كافية إلى مصر والسودان، وليست لديها نية لاستخدام النيل بمفردها.",
+     "ar": "إعلام مصري: 30 جثة من ضحايا حادث الوراق لا تزال مجهولة الهوية بسبب حالتها.",
+     "src_ar": "العربية مصر",
+     "en": "Egyptian media: 30 bodies of the Warraq accident victims are still unidentified because of their condition.",
+     "src_en": "Al Arabiya Egypt"
+    },
+    {
+     "ar": "الجيش الكويتي: عدوان إيراني على موقع حيوي أسفر عن إصابة 4 أشخاص، بينهم مواطن وإيطاليان وباكستاني، كما جرى التعامل مع مسيّرات معادية في الأجواء.",
      "src_ar": "العربية",
-     "en": "Abiy Ahmed: Ethiopia will not ask anyone's permission to benefit from the Nile, will make sure enough water reaches Egypt and Sudan, and has no intention of using the Nile alone.",
+     "en": "Kuwaiti army: an Iranian attack on a vital site injured 4 people, a Kuwaiti citizen, two Italians and a Pakistani, and hostile drones in Kuwaiti airspace were dealt with.",
      "src_en": "Al Arabiya"
     },
     {
-     "ar": "القناة 12 الإسرائيلية: نتنياهو يعقد مساء اليوم اجتماعا للمجلس الوزاري المصغر لإجراء مشاورات أمنية بشأن إيران.",
-     "src_ar": "سكاي نيوز عربية",
-     "en": "Israel's Channel 12: Netanyahu will hold a security cabinet meeting this evening for consultations on Iran.",
-     "src_en": "Sky News Arabia"
-    },
-    {
-     "ar": "مصادر العربية: غارات استهدفت مقر قيادة العمليات البحرية للحوثيين في الحديدة، وأخرى دمرت منصة صواريخ حاول الحوثيون نصبها في مديرية المقاطرة بلحج.",
-     "src_ar": "العربية",
-     "en": "Al Arabiya sources: strikes hit the Houthi naval operations command headquarters in Hodeidah, and another strike destroyed a rocket launcher the Houthis tried to set up in Al-Maqatirah district, Lahij.",
-     "src_en": "Al Arabiya"
-    },
-    {
-     "ar": "رئيس الوزراء الأوكراني: روسيا هاجمت خلال الليل سفينتين مدنيتين أجنبيتين تحملان أكثر من 100 ألف طن من الحبوب قرب ميناء أوديسا.",
-     "src_ar": "رويترز",
-     "en": "Ukraine's prime minister says Russia attacked two foreign civilian ships carrying more than 100,000 tonnes of grain near the port of Odesa overnight.",
-     "src_en": "Reuters"
-    },
-    {
-     "ar": "المبعوث الأمريكي جاريد كوشنر: نتنياهو وقع اتفاق غزة لكنه يصعّب التفاهمات، ولا يمكن إنهاء الحرب دون التفاوض مع حماس.",
+     "ar": "هيئة بحرية بريطانية: ناقلة نفط متجهة إلى خارج الخليج أصيبت بمقذوف أثناء عبورها مضيق هرمز، على بعد 18 ميلا بحريا شرق خصب في سلطنة عمان.",
      "src_ar": "الجزيرة",
-     "en": "US envoy Jared Kushner says Netanyahu signed the Gaza agreement but complicates the understandings, and that the war cannot end without negotiating with Hamas.",
+     "en": "A British maritime agency says an oil tanker leaving the Gulf was hit by a projectile while crossing the Strait of Hormuz, 18 nautical miles east of Khasab in Oman.",
      "src_en": "Al Jazeera"
+    },
+    {
+     "ar": "الجزيرة: إسرائيل تغتال وكيل وزارة التعليم في غزة خالد أبو ندى وزوجته، وحماس تندد بخرق وقف إطلاق النار بينما يتوعد وزير الدفاع الإسرائيلي كاتس قادة الحركة.",
+     "src_ar": "الجزيرة",
+     "en": "Al Jazeera: Israel killed Gaza's education undersecretary Khaled Abu Nada and his wife. Hamas condemned a breach of the ceasefire, and Israeli Defense Minister Katz threatened the movement's leaders.",
+     "src_en": "Al Jazeera"
+    },
+    {
+     "ar": "روسيا وأوكرانيا تجريان عملية تبادل لجثث جنود قُتلوا في المعارك، بحسب عضو في مجلس الدوما نقلت عنه مجموعة آر بي سي الإعلامية.",
+     "src_ar": "رويترز",
+     "en": "Russia and Ukraine are exchanging the bodies of soldiers killed in fighting, according to a Duma member quoted by Russia's RBC media group.",
+     "src_en": "Reuters"
     }
    ]
   },
@@ -58,37 +58,37 @@
    },
    "items": [
     {
-     "ar": "أسعار النفط تتراجع مع استمرار مخاوف الإمدادات بعد ادعاء إيران إصابة سفن بألغام.",
-     "src_ar": "رويترز",
-     "en": "Oil prices fall as supply concerns linger after Iran claims mine strikes on ships.",
-     "src_en": "Reuters"
-    },
-    {
-     "ar": "بلومبيرغ: تحالف أوبك+ يتجه لتثبيت حصص الإنتاج دون تغيير لشهر يناير 2027.",
-     "src_ar": "العربية Business",
-     "en": "Bloomberg: the OPEC+ alliance is heading to keep production quotas unchanged for January 2027.",
-     "src_en": "Al Arabiya Business",
-     "img": {
-      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Vienna_OPEC_Headquarters_(9812748993).jpg?width=960",
-      "page": "https://commons.wikimedia.org/wiki/File:Vienna_OPEC_Headquarters_(9812748993).jpg",
-      "credit": "Gary Todd",
-      "lic": "CC0",
-      "lic_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "cap_ar": "صورة توضيحية، ليست من الحدث: مقر أوبك في فيينا. قُصّت وصُغّرت. ©",
-      "cap_en": "Illustrative, not from the event: OPEC headquarters in Vienna. Cropped and resized. ©"
-     }
-    },
-    {
-     "ar": "وزير الاستثمار والتجارة الخارجية المصري: خفض الحد الأدنى لتغطية الاكتتاب العام بنسبة 50% لإتاحة الطرح أمام شركات أكثر.",
+     "ar": "الجهاز المركزي للإحصاء في مصر: ارتفاع التبادل التجاري بين مصر وقطر 15.9% في أول 9 أشهر من العام، بالتزامن مع زيارة أمير قطر.",
      "src_ar": "CNBC عربية",
-     "en": "Egypt's Minister of Investment and Foreign Trade: the minimum public-offering coverage requirement is cut by 50% to open offerings to more companies.",
+     "en": "Egypt's statistics agency: trade between Egypt and Qatar rose 15.9% in the first 9 months of the year, as Qatar's emir visits Egypt.",
      "src_en": "CNBC Arabia"
     },
     {
-     "ar": "إيلون ماسك يعلن أن كل طفل في الولايات المتحدة سيحصل على سهمين في سبيس إكس، في هبة تتجاوز قيمتها 18 مليار دولار.",
-     "src_ar": "رويترز",
-     "en": "Elon Musk says every child in the US will receive two shares in SpaceX, a gift worth more than $18 billion.",
-     "src_en": "Reuters"
+     "ar": "بنك بي بي في إيه الإسباني يلغي إدراج أسهمه في بورصة لندن بعد 38 عاما.",
+     "src_ar": "العربية Business",
+     "en": "Spain's BBVA is delisting its shares from the London Stock Exchange after 38 years.",
+     "src_en": "Al Arabiya Business",
+     "img": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Bilbao_-_Torre_del_Banco_BBVA_(29052476710).jpg?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:Bilbao_-_Torre_del_Banco_BBVA_(29052476710).jpg",
+      "credit": "Fred Romero",
+      "lic": "CC BY 2.0",
+      "lic_url": "https://creativecommons.org/licenses/by/2.0/",
+      "cap_ar": "صورة توضيحية، ليست من الحدث: برج بنك بي بي في إيه في بلباو. قُصّت وصُغّرت. ©",
+      "cap_en": "Illustrative, not from the event: the BBVA tower in Bilbao. Cropped and resized. ©"
+     }
+    },
+    {
+     "ar": "واشنطن تعتزم فرض رسوم جمركية جديدة على 14 اقتصادا.",
+     "src_ar": "العربية Business",
+     "en": "Washington plans new tariffs on 14 economies.",
+     "src_en": "Al Arabiya Business"
+    },
+    {
+     "ar": "الدولار يستقر تقريبا مع تعافي الأسهم العالمية، قرب أعلى مستوياته هذا العام.",
+     "src_ar": "CNBC عربية",
+     "en": "The dollar is little changed as global stocks recover, near its highest levels this year.",
+     "src_en": "CNBC Arabia"
     }
    ]
   }
