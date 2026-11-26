@@ -1,11 +1,11 @@
 {
- "id": "2026-11-27T01:00",
+ "id": "2026-11-27T02:00",
  "date": {
   "ar": "الجمعة 27 نوفمبر 2026",
   "en": "Friday 27 November 2026"
  },
- "uae": "1:00 AM",
- "cairo": "11:00 PM",
+ "uae": "2:00 AM",
+ "cairo": "12:00 AM",
  "sections": [
   {
    "title": {
@@ -14,40 +14,40 @@
    },
    "items": [
     {
-     "ar": "الصحة المصرية: لم يتم التعرف على هوية ضحايا حادث الوراق حتى الآن، وتم سحب عينات DNA للتعرف عليهم.",
-     "src_ar": "العربية",
-     "en": "Egypt's Health Ministry: the victims of the Warraq accident have not yet been identified, and DNA samples have been taken to identify them.",
-     "src_en": "Al Arabiya"
-    },
-    {
-     "ar": "وزارة الداخلية المصرية تنشر تسجيلا من كاميرات المراقبة للحظات الأولى من حادث الوراق: سيارة ملاكي اصطدمت بالشاحنة فانقلبت.",
+     "ar": "الداخلية المصرية تنشر فيديو يوضح كيف وقعت كارثة الوراق: سائق سيارة حاول تخطي شاحنة المواد البترولية من اليمين. والنيابة العامة: المتهم أقر بارتكاب الواقعة وصدر أمر بحبسه.",
      "src_ar": "العربية مصر",
-     "en": "Egypt's Interior Ministry releases CCTV footage of the first moments of the Warraq accident: a private car hit the truck and it overturned.",
+     "en": "Egypt's Interior Ministry releases a video showing how the Warraq disaster happened: a car driver tried to overtake the fuel truck on the right. Prosecutors say the suspect admitted the collision and ordered him detained.",
      "src_en": "Al Arabiya Egypt"
     },
     {
-     "ar": "المستشار تركي آل الشيخ يتبرع بـ13 مليون جنيه إضافية لمصابي حادث الوراق، بعد تبرعه بـ30 مليونا لأسر الضحايا.",
-     "src_ar": "العربية مصر",
-     "en": "Turki Al-Sheikh donates a further 13 million Egyptian pounds to those injured in the Warraq accident, after donating 30 million to the victims' families.",
-     "src_en": "Al Arabiya Egypt"
+     "ar": "التحالف: اعتراض وتدمير طائرة مسيرة أطلقتها ميليشيا الحوثي باتجاه المنطقة الجنوبية في السعودية.",
+     "src_ar": "الجزيرة والعربية وسكاي نيوز عربية",
+     "en": "The coalition says it intercepted and destroyed a drone launched by the Houthi militia toward southern Saudi Arabia.",
+     "src_en": "Al Jazeera, Al Arabiya and Sky News Arabia"
     },
     {
-     "ar": "جامعة الدول العربية تدين بشدة الاعتداء الإيراني الذي استهدف مواقع حيوية في الكويت وأسفر عن ضحايا ومصابين، وتعتبره انتهاكا لسيادة الكويت.",
-     "src_ar": "العربية مصر",
-     "en": "The Arab League strongly condemns the Iranian attack on vital sites in Kuwait that caused deaths and injuries, calling it a violation of Kuwait's sovereignty.",
-     "src_en": "Al Arabiya Egypt"
-    },
-    {
-     "ar": "مخاوف استخباراتية أمريكية من مخطط إيراني محتمل لاستهداف مسؤولين في واشنطن، وطهران تنفي.",
+     "ar": "الوكالة الدولية للطاقة الذرية: نتواصل مع موسكو وكييف بشأن محطة زابوروجيا النووية بعد انقطاع الكهرباء عنها.",
      "src_ar": "الجزيرة",
-     "en": "US intelligence officials fear a possible Iranian plot to target officials in Washington, and Tehran denies it.",
+     "en": "The International Atomic Energy Agency: we are in contact with Moscow and Kyiv about the Zaporizhzhia nuclear plant after it lost power.",
      "src_en": "Al Jazeera"
     },
     {
-     "ar": "وزير خارجية أوكرانيا: لا نية لدينا لتوسيع رقعة الحرب إلى ليبيا.",
+     "ar": "الجيش الفرنسي: نهدف إلى تزويد الجيش الأوكراني بمزيد من القدرات لردع روسيا.",
      "src_ar": "العربية",
-     "en": "Ukraine's foreign minister: we have no intention of widening the war to Libya.",
+     "en": "The French military says it aims to give the Ukrainian army more capabilities to deter Russia.",
      "src_en": "Al Arabiya"
+    },
+    {
+     "ar": "مستوطنون إسرائيليون متطرفون يهدمون أساسات منزلين لعائلة فلسطينية في الضفة الغربية، في تحد لأمر محكمة إسرائيلية.",
+     "src_ar": "رويترز",
+     "en": "Extremist Israeli settlers demolish the foundations of two homes belonging to a Palestinian family in the West Bank, defying an Israeli court order.",
+     "src_en": "Reuters"
+    },
+    {
+     "ar": "أكثر من 750 ألف أمريكي يواجهون انقطاعا في الكهرباء خلال عيد الشكر مع استمرار العواصف العنيفة في عدة ولايات.",
+     "src_ar": "CNBC عربية",
+     "en": "More than 750,000 Americans face power outages over Thanksgiving as severe storms continue across several states.",
+     "src_en": "CNBC Arabia"
     }
    ]
   },
@@ -58,22 +58,16 @@
    },
    "items": [
     {
-     "ar": "بنك إنجلترا سيخفض متطلبات رأس المال للبنوك التي تركز أعمالها على السوق البريطانية.",
-     "src_ar": "رويترز",
-     "en": "The Bank of England will cut capital requirements for lenders focused on the UK market.",
-     "src_en": "Reuters"
+     "ar": "العربية: ناقلات النفط الداخلة إلى الخليج تتراجع 40% مع تصاعد الهجمات في هرمز، وتحذيرات من أن العالم لا يسعّر خطر حرب جديدة مع إيران بالشكل الكافي.",
+     "src_ar": "العربية Business",
+     "en": "Al Arabiya: oil tankers entering the Gulf are down 40% as attacks in Hormuz escalate, with warnings that the world is not pricing the risk of a new war with Iran enough.",
+     "src_en": "Al Arabiya Business"
     },
     {
-     "ar": "بلومبرغ: شركة SAP تدرس خفض 10 آلاف وظيفة على الأقل ضمن إعادة هيكلة بسبب الذكاء الاصطناعي.",
+     "ar": "رويترز عن مصادر: أوبك+ ستمدد على الأرجح أهداف إنتاج النفط للربع الأول مع استمرار الخلافات حول الطاقات الإنتاجية.",
      "src_ar": "رويترز",
-     "en": "Bloomberg reports SAP is considering at least 10,000 job cuts in an AI restructuring.",
+     "en": "Reuters, citing sources: OPEC+ is likely to roll over oil output targets for the first quarter as capacity disputes persist.",
      "src_en": "Reuters"
-    },
-    {
-     "ar": "إس آند بي تؤكد التصنيف الائتماني للكويت عند AA-، وتتوقع نموا بـ13% في 2027.",
-     "src_ar": "CNBC عربية",
-     "en": "S&P affirms Kuwait's credit rating at AA- and expects growth of 13% in 2027.",
-     "src_en": "CNBC Arabia"
     }
    ]
   },
@@ -84,10 +78,16 @@
    },
    "items": [
     {
-     "ar": "الاتحاد الألماني: إيقاف لاعبة المنتخب لاورا فرايجانج 16 شهرا لثلاث مخالفات تتعلق بعدم الإبلاغ عن مكان وجودها، ما يستبعدها من كأس العالم للسيدات.",
-     "src_ar": "رويترز",
-     "en": "The German football federation suspends national team player Laura Freigang for 16 months over three violations for failing to report her whereabouts, ruling her out of next year's Women's World Cup.",
-     "src_en": "Reuters"
+     "ar": "محمد صلاح يسجل هدف التعادل ويقود طرابزون سبور للفوز 2-1 على مضيفه تسيسكا صوفيا في دوري المؤتمر الأوروبي.",
+     "src_ar": "فيل جول وبي إن سبورتس",
+     "en": "Mohamed Salah scores the equaliser as Trabzonspor win 2-1 away at CSKA Sofia in the Conference League.",
+     "src_en": "FilGoal and beIN Sports"
+    },
+    {
+     "ar": "بشكتاش يفوز 2-1 على هبوعيل بئر السبع في الدوري الأوروبي بعد توقف المباراة 30 دقيقة إثر مواجهات في المدرجات.",
+     "src_ar": "فيل جول والجزيرة",
+     "en": "Besiktas beat Hapoel Be'er Sheva 2-1 in the Europa League after the match was halted for 30 minutes over clashes in the stands.",
+     "src_en": "FilGoal and Al Jazeera"
     }
    ]
   }
