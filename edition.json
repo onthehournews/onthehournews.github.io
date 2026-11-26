@@ -1,11 +1,11 @@
 {
- "id": "2026-11-26T20:00",
+ "id": "2026-11-26T21:00",
  "date": {
   "ar": "الخميس 26 نوفمبر 2026",
   "en": "Thursday 26 November 2026"
  },
- "uae": "8:00 PM",
- "cairo": "6:00 PM",
+ "uae": "9:00 PM",
+ "cairo": "7:00 PM",
  "sections": [
   {
    "title": {
@@ -14,40 +14,34 @@
    },
    "items": [
     {
-     "ar": "محافظة الجيزة: النتائج الأولية للاختبارات الفنية لعينات الطريق جاءت مطمئنة بشأن الحالة الإنشائية للطريق الدائري ومحور تحيا مصر عقب حادث الوراق.",
+     "ar": "أسرة فقدت 9 من أقاربها في حادث الطريق الدائري بالوراق أثناء توجههم لحضور حفل زفاف: العثور على 4 مصابين، والبحث مستمر عن 5 آخرين.",
      "src_ar": "العربية مصر",
-     "en": "Giza governorate: preliminary technical tests on road samples came back reassuring on the structural condition of the Ring Road and the Tahya Misr axis after the Warraq accident.",
+     "en": "A family lost nine relatives in the Ring Road accident in Warraq while heading to a wedding: four injured relatives have been found and the search continues for five others.",
      "src_en": "Al Arabiya Egypt"
     },
     {
-     "ar": "المستشار تركي آل الشيخ يتبرع بـ30 مليون جنيه لأسر ضحايا حادث الوراق في مصر.",
-     "src_ar": "العربية مصر",
-     "en": "Turki Al-Sheikh donates 30 million Egyptian pounds to the families of the Warraq accident victims in Egypt.",
-     "src_en": "Al Arabiya Egypt"
+     "ar": "المتحدث باسم القوات المسلحة الإيرانية ينفي مهاجمة موقع حيوي في الكويت، ويقول إن قواته لم تنفذ أي عمليات عسكرية أو هجومية في المنطقة.",
+     "src_ar": "الجزيرة وسكاي نيوز عربية ورويترز",
+     "en": "Iran's armed forces spokesman denies attacking a vital site in Kuwait and says its forces carried out no military or offensive operations in the region.",
+     "src_en": "Al Jazeera, Sky News Arabia and Reuters"
     },
     {
-     "ar": "بحرية الحرس الثوري الإيراني تعلن انفجار ناقلتي نفط في مضيق هرمز شمال ميناء خصب، وتقول إن إحداهما كانت تحمل أكثر من مليوني برميل من النفط الخام.",
+     "ar": "وزير الخارجية الإيراني عراقجي: مستعدون لكل الاحتمالات، سواء للحرب أو للدبلوماسية.",
+     "src_ar": "العربية",
+     "en": "Iranian Foreign Minister Araghchi: we are ready for all possibilities, whether war or diplomacy.",
+     "src_en": "Al Arabiya"
+    },
+    {
+     "ar": "وزير الدفاع الإسرائيلي يهدد بإجبار مليون فلسطيني في غزة على النزوح ما لم تنزع حماس سلاحها، رغم اتفاق وقف إطلاق النار.",
+     "src_ar": "الجزيرة وغالف نيوز",
+     "en": "Israel's defence minister threatens to force one million Palestinians in Gaza to leave unless Hamas disarms, despite the ceasefire agreement.",
+     "src_en": "Al Jazeera and Gulf News"
+    },
+    {
+     "ar": "خليل الحية، رئيس المكتب السياسي لحماس: لا يمكن القبول بمعادلة القتل والحصار في ظل اتفاق غزة.",
      "src_ar": "الجزيرة",
-     "en": "Iran's Revolutionary Guard navy says two oil tankers exploded in the Strait of Hormuz north of Khasab port, and that one was carrying more than 2 million barrels of crude oil.",
+     "en": "Hamas political bureau head Khalil al-Hayya: the equation of killing and siege cannot be accepted under the Gaza agreement.",
      "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "الإمارات تدين بشدة الهجوم الإيراني على الكويت وتعتبره انتهاكا صارخا لسيادتها وتهديدا لأمنها واستقرارها.",
-     "src_ar": "سكاي نيوز عربية",
-     "en": "The UAE strongly condemns the Iranian attack on Kuwait, calling it a flagrant violation of Kuwait's sovereignty and a threat to its security and stability.",
-     "src_en": "Sky News Arabia"
-    },
-    {
-     "ar": "القوات المسلحة اليمنية: تحييد 117 من قيادات وعناصر ميليشيا الحوثي.",
-     "src_ar": "العربية",
-     "en": "Yemeni armed forces: 117 Houthi militia leaders and fighters neutralised.",
-     "src_en": "Al Arabiya"
-    },
-    {
-     "ar": "رئيس حكومة إقليم كردستان العراق: نرفض القرارات الأخيرة ونعتبرها غير دستورية، ونرفض تقويض كيان الإقليم بذريعة مكافحة الفساد.",
-     "src_ar": "العربية",
-     "en": "Iraqi Kurdistan's prime minister: we reject the latest decisions as unconstitutional and refuse to undermine the region's entity under the pretext of fighting corruption.",
-     "src_en": "Al Arabiya"
     }
    ]
   },
@@ -58,22 +52,22 @@
    },
    "items": [
     {
-     "ar": "رويترز: الإسباني بابلو هرنانديز دي كوس في طريقه ليُختار رئيسا قادما للبنك المركزي الأوروبي.",
-     "src_ar": "رويترز",
-     "en": "Reuters: Spain's Pablo Hernández de Cos is set to be chosen as the next head of the European Central Bank.",
-     "src_en": "Reuters"
-    },
-    {
-     "ar": "رويترز عن مصرفيين: وحدة أداني الرئيسية تدرس طرح سندات للاكتتاب العام في ديسمبر.",
-     "src_ar": "رويترز",
-     "en": "Reuters, citing bankers: India's Adani flagship unit is considering a public bond sale in December.",
-     "src_en": "Reuters"
-    },
-    {
-     "ar": "ألمانيا والنمسا تدعوان إلى ملكية أوروبية لتطبيق تيك توك.",
+     "ar": "العربية: واشنطن تكشف خريطة الرسوم الجمركية المقترحة على 14 اقتصادا، بنسب تصل إلى 35%: فيتنام 35% والهند 25% والصين 20%.",
      "src_ar": "العربية Business",
-     "en": "Germany and Austria call for European ownership of the TikTok app.",
+     "en": "Al Arabiya: Washington unveils proposed tariffs on 14 economies of up to 35%, including Vietnam 35%, India 25% and China 20%.",
      "src_en": "Al Arabiya Business"
+    },
+    {
+     "ar": "فايننشال تايمز: إنفيديا طلبت من شركائها في التصنيع وقف شحن الخوادم التي تحتوي على رقائقها إلى ماليزيا وسنغافورة وتايلاند وإندونيسيا.",
+     "src_ar": "رويترز",
+     "en": "The Financial Times reports Nvidia asked its manufacturing partners to stop shipping servers containing its chips to Malaysia, Singapore, Thailand and Indonesia.",
+     "src_en": "Reuters"
+    },
+    {
+     "ar": "ترامب عبر تروث سوشيال: الأرقام الاقتصادية التي نُشرت قبل الانتخابات تبين أنها مزيفة، بعد تصحيح أصدرته الوكالة الحكومية المعنية.",
+     "src_ar": "CNBC عربية",
+     "en": "Trump on Truth Social: economic figures published before the election turned out to be fake, after the government agency issued a correction.",
+     "src_en": "CNBC Arabia"
     }
    ]
   },
@@ -84,9 +78,15 @@
    },
    "items": [
     {
-     "ar": "عمر مرموش ينعى ضحايا حادث الطريق الدائري.",
+     "ar": "الأهلي يقرر استبعاد حمادة السيد من الجهاز الفني، والمقاولون العرب يرحب بعودته للعمل مع الفريق.",
      "src_ar": "فيل جول",
-     "en": "Omar Marmoush offers condolences for the victims of the ring road accident.",
+     "en": "Al Ahly decides to remove Hamada El-Sayed from its coaching staff, and Arab Contractors say they welcome his return to work with the team.",
+     "src_en": "FilGoal"
+    },
+    {
+     "ar": "سافينيو يغيب لعدة أسابيع بعد إصابة في أوتار الركبة.",
+     "src_ar": "فيل جول",
+     "en": "Savinho will be out for several weeks after a hamstring injury.",
      "src_en": "FilGoal"
     }
    ]
