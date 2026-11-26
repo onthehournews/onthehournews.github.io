@@ -17,7 +17,16 @@
      "ar": "النيابة العامة المصرية تلقي القبض على المتهم المتسبب في حادث الوراق.",
      "src_ar": "الإمارات اليوم",
      "en": "Egypt's Public Prosecution arrests the suspect behind the Warraq accident.",
-     "src_en": "Emarat Al Youm"
+     "src_en": "Emarat Al Youm",
+     "img": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Cairo_Ring_Road_in_Giza,_Egypt.jpg?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:Cairo_Ring_Road_in_Giza,_Egypt.jpg",
+      "credit": "Quintin Soloviev",
+      "lic": "CC BY 4.0",
+      "lic_url": "https://creativecommons.org/licenses/by/4.0/",
+      "cap_ar": "صورة توضيحية، ليست من الحدث: الطريق الدائري بالجيزة. قُصّت وصُغّرت. ©",
+      "cap_en": "Illustrative, not from the event: the Ring Road in Giza. Cropped and resized. ©"
+     }
     },
     {
      "ar": "الخارجية الأردنية تعلن العثور على جثمان بحار أردني فُقد إثر هجوم على ناقلة نفط في مضيق هرمز.",
@@ -61,7 +70,16 @@
      "ar": "سهم دبي الإسلامي (DIB) يقفز نحو 10% ويغلق عند أعلى مستوى في 9 أشهر.",
      "src_ar": "العربية Business",
      "en": "Dubai Islamic Bank (DIB) shares jump nearly 10%, closing at their highest level in nine months.",
-     "src_en": "Al Arabiya Business"
+     "src_en": "Al Arabiya Business",
+     "img": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Dubai_Islamic_Bank_-_panoramio.jpg?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:Dubai_Islamic_Bank_-_panoramio.jpg",
+      "credit": "Mahmoud Farrag",
+      "lic": "CC BY 3.0",
+      "lic_url": "https://creativecommons.org/licenses/by/3.0/",
+      "cap_ar": "صورة توضيحية، ليست من الحدث: فرع لبنك دبي الإسلامي في عجمان، 2011. قُصّت وصُغّرت. ©",
+      "cap_en": "Illustrative, not from the event: a Dubai Islamic Bank branch in Ajman, 2011. Cropped and resized. ©"
+     }
     },
     {
      "ar": "تقرير PwC: اقتصادات الخليج تُظهر قدرة على الصمود رغم اضطرابات المنطقة.",
@@ -79,7 +97,16 @@
      "ar": "ترامب يشهد تدشين مصنع رقائق تابع لشركة TSMC التايوانية في أريزونا.",
      "src_ar": "العربية Business",
      "en": "Trump attends the launch of a Taiwanese TSMC chip plant in Arizona.",
-     "src_en": "Al Arabiya Business"
+     "src_en": "Al Arabiya Business",
+     "img": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/231105-1_TSMC_Fab_21_construction.jpg?width=960",
+      "page": "https://commons.wikimedia.org/wiki/File:231105-1_TSMC_Fab_21_construction.jpg",
+      "credit": "Hunter Trick",
+      "lic": "CC BY-SA 4.0",
+      "lic_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "cap_ar": "صورة توضيحية، ليست من الحدث: إنشاءات مصنع TSMC في فينيكس، 2023. قُصّت وصُغّرت. ©",
+      "cap_en": "Illustrative, not from the event: TSMC's Phoenix fab under construction, 2023. Cropped and resized. ©"
+     }
     }
    ]
   }
