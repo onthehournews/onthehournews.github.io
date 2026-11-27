@@ -1,11 +1,11 @@
 {
- "id": "2026-11-27T20:00",
+ "id": "2026-11-27T21:00",
  "date": {
   "ar": "الجمعة 27 نوفمبر 2026",
   "en": "Friday 27 November 2026"
  },
- "uae": "8:00 PM",
- "cairo": "6:00 PM",
+ "uae": "9:00 PM",
+ "cairo": "7:00 PM",
  "sections": [
   {
    "title": {
@@ -14,34 +14,40 @@
    },
    "items": [
     {
-     "ar": "مستشار المرشد الإيراني مجتبى خامنئي: لن نفتح مضيق هرمز ولن نسمح باستمرار الحصار.",
+     "ar": "القيادة المركزية الأميركية: عطلنا أمس في خليج عمان سفينة تجارية ترفع علم بالاو حاولت خرق الحصار بعد مغادرتها ميناء بندر عباس، وأصابت إحدى طائراتنا مؤخرتها وعطلت محركها.",
      "src_ar": "العربية والجزيرة",
-     "en": "An adviser to Iran's supreme leader Mojtaba Khamenei says Iran will not open the Strait of Hormuz and will not allow the blockade to continue.",
+     "en": "US Central Command says it disabled a Palau-flagged commercial ship in the Gulf of Oman yesterday that tried to breach the blockade after leaving Bandar Abbas, with one of its aircraft hitting the stern and disabling the engine.",
      "src_en": "Al Arabiya and Al Jazeera"
     },
     {
-     "ar": "خروج إحدى عربات القطار رقم 935 VIP عن القضبان في محطة أولاد عمرو بقنا خلال رحلته من الأقصر إلى القاهرة، دون إصابات.",
-     "src_ar": "العربية",
-     "en": "One carriage of VIP train 935 derails at Awlad Amr station in Qena on its way from Luxor to Cairo, with no injuries.",
-     "src_en": "Al Arabiya"
+     "ar": "ترامب يؤكد بحث الملف الإيراني مع نتنياهو ومنح طهران فرصة للاتفاق، ويتوعد باستهداف موقع جبل الفأس النووي إذا أقدمت طهران على أي خطوة.",
+     "src_ar": "الجزيرة",
+     "en": "Trump says he discussed the Iran file with Netanyahu and is giving Tehran a chance to reach a deal, and threatens to strike the Pickaxe Mountain nuclear site if Tehran takes any step.",
+     "src_en": "Al Jazeera"
     },
     {
-     "ar": "الرئيس اللبناني: اقترحنا استمرار اليونيفيل في مهامها خلال فترة الانسحاب حتى التوافق على قوة بديلة لتفادي الفراغ.",
+     "ar": "الأمم المتحدة: إذا لم يصدر قرار قبل انتهاء المهلة ستسحب قواتها من لبنان. ورئيس الحكومة نواف سلام: مقترح فرنسي جديد قد يتيح مواصلة عمل اليونيفيل.",
      "src_ar": "العربية وسكاي نيوز عربية",
-     "en": "Lebanon's president says Lebanon proposed that UNIFIL continue its tasks during the withdrawal period until a replacement force is agreed, to avoid a vacuum.",
+     "en": "The UN says it will withdraw its forces from Lebanon if no decision is made before the deadline. Prime Minister Nawaf Salam says a new French proposal could allow UNIFIL to keep working.",
      "src_en": "Al Arabiya and Sky News Arabia"
     },
     {
-     "ar": "وزير الخارجية الأوكراني: كييف قدمت لحلفائها مقترحا لوقف إطلاق النار في البحر الأسود بهدف تسهيل صادرات المواد الغذائية.",
+     "ar": "الخارجية الروسية تتهم لاتفيا بإتاحة مجالها الجوي لعبور مسيّرات أوكرانية لتنفيذ هجمات ضد أهداف روسية.",
      "src_ar": "سكاي نيوز عربية",
-     "en": "Ukraine's foreign minister says Kyiv has presented its allies with a proposal for a Black Sea ceasefire to ease food exports.",
+     "en": "Russia's foreign ministry accuses Latvia of letting Ukrainian drones cross its airspace to attack Russian targets.",
      "src_en": "Sky News Arabia"
     },
     {
-     "ar": "المحكمة العليا في كندا تؤيد حظر كيبيك الرموز الدينية على موظفي القطاع العام.",
+     "ar": "إستونيا ستغلق جميع معابرها الحدودية مع روسيا في الأول من ديسمبر.",
      "src_ar": "رويترز",
-     "en": "Canada's Supreme Court upholds Quebec's ban on religious symbols for public servants.",
+     "en": "Estonia will close all its border crossings with Russia on December 1.",
      "src_en": "Reuters"
+    },
+    {
+     "ar": "تركيا تستدعي السفير الجورجي بعد أحداث مباراة بشكتاش وهبوعيل بئر السبع في باتومي، التي شهدت استخدام الشرطة الجورجية القوة ورذاذ الفلفل ضد مشجعي بشكتاش.",
+     "src_ar": "الجزيرة",
+     "en": "Turkey summons Georgia's ambassador after the Besiktas v Hapoel Beer Sheva match in Batumi, where Georgian police used force and pepper spray against Besiktas fans.",
+     "src_en": "Al Jazeera"
     }
    ]
   },
@@ -52,36 +58,28 @@
    },
    "items": [
     {
-     "ar": "خسائر أسبوعية بقيمة 103 مليارات جنيه لأسهم بورصة مصر.",
+     "ar": "وول ستريت ترتفع بدعم أسهم الذكاء الاصطناعي، وناسداك يقفز 1.6%.",
      "src_ar": "العربية بزنس",
-     "en": "Egypt's stock exchange shares lose 103 billion pounds in value over the week.",
+     "en": "Wall Street rises on AI stocks, with the Nasdaq jumping 1.6%.",
      "src_en": "Al Arabiya Business"
     },
     {
-     "ar": "شركة نورس أتلانتيك تتقدم بطلب إفلاس وتوقف رحلاتها مع تأثر شركات الطيران بحرب إيران.",
-     "src_ar": "رويترز",
-     "en": "Norse Atlantic files for bankruptcy and halts flights as the Iran war hits airlines.",
-     "src_en": "Reuters"
+     "ar": "سهم أنثروبيك يقفز أكثر من 9% ويتجاوز سعر الطرح البالغ 83 دولارا ليتداول عند 90 دولارا.",
+     "src_ar": "العربية بزنس",
+     "en": "Anthropic shares jump more than 9% above their $83 offering price to trade at $90.",
+     "src_en": "Al Arabiya Business"
     },
     {
-     "ar": "صناديق البيتكوين تسجل سحوبات تتجاوز 5 مليارات دولار في نوفمبر.",
+     "ar": "أدوبي أناليتكس: المستهلكون أنفقوا نحو 7.1 مليار دولار عبر الإنترنت في يوم عيد الشكر، بزيادة 10.4% عن العام الماضي.",
      "src_ar": "سي إن بي سي عربية",
-     "en": "Bitcoin funds record outflows of more than $5 billion in November.",
+     "en": "Adobe Analytics says consumers spent about $7.1 billion online on Thanksgiving Day, up 10.4% from last year.",
      "src_en": "CNBC Arabia"
-    }
-   ]
-  },
-  {
-   "title": {
-    "ar": "رياضة",
-    "en": "Sport"
-   },
-   "items": [
+    },
     {
-     "ar": "اختراق سيبراني يستهدف الفيفا.",
-     "src_ar": "الجزيرة",
-     "en": "A cyberattack targets FIFA.",
-     "src_en": "Al Jazeera"
+     "ar": "علامات أزياء عالمية تنقل طلباتها من بنغلاديش إلى الهند وسط الاضطرابات، بحسب سبق لرويترز.",
+     "src_ar": "رويترز",
+     "en": "Global fashion brands shift orders from Bangladesh to India amid unrest, in a Reuters exclusive.",
+     "src_en": "Reuters"
     }
    ]
   }
