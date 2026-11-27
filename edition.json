@@ -1,11 +1,11 @@
 {
- "id": "2026-11-28T00:00",
+ "id": "2026-11-28T01:00",
  "date": {
   "ar": "السبت 28 نوفمبر 2026",
   "en": "Saturday 28 November 2026"
  },
- "uae": "12:00 AM",
- "cairo": "10:00 PM",
+ "uae": "1:00 AM",
+ "cairo": "11:00 PM",
  "sections": [
   {
    "title": {
@@ -14,34 +14,28 @@
    },
    "items": [
     {
-     "ar": "أمين المنظمة البحرية الدولية: المنظمة مستعدة لمساعدة البحارة المتأثرين بمضيق هرمز عبر آلية تعاون تشرك عمان وإيران والأطراف المعنية.",
+     "ar": "وزارة التضامن الاجتماعي المصرية: إجمالي التبرعات المقدمة لدعم أسر ضحايا ومصابي حادث الوراق تجاوز 360 مليون جنيه.",
+     "src_ar": "العربية مصر",
+     "en": "Egypt's Ministry of Social Solidarity says donations to support the families of those killed and injured in the Warraq crash have passed 360 million pounds.",
+     "src_en": "Al Arabiya Egypt"
+    },
+    {
+     "ar": "هيئة السكك الحديدية المصرية: عودة حركة القطارات على خط نجع حمادي - الأقصر بالسرعة المقررة بعد رفع العربة التي خرجت عن القضبان في القطار رقم 935.",
+     "src_ar": "العربية مصر",
+     "en": "Egypt's national railway authority says trains are running again at normal speed on the Nag Hammadi-Luxor line after the derailed carriage of train 935 was lifted.",
+     "src_en": "Al Arabiya Egypt"
+    },
+    {
+     "ar": "جيروزاليم بوست عن مصادر: نتنياهو يدرس إعلان استعداده لتولي رئاسة الوزراء بعد آيزنكوت ضمن حكومة وحدة وطنية، وقد يعلن موقفه خلال عطلة نهاية الأسبوع.",
      "src_ar": "الجزيرة",
-     "en": "The head of the International Maritime Organization says it is ready to help seafarers affected by the Strait of Hormuz through a cooperation mechanism involving Oman, Iran and other parties.",
+     "en": "The Jerusalem Post, citing sources, reports that Netanyahu is considering announcing he is ready to serve as prime minister after Eisenkot within a national unity government, and may declare his position over the weekend.",
      "src_en": "Al Jazeera"
     },
     {
-     "ar": "هيئة الطوارئ الأوكرانية: حرائق في منازل ومنشآت بمقاطعة خاركيف جراء هجمات روسية بالمسيرات، وإصابة 11 شخصا بينهم 3 أطفال.",
-     "src_ar": "الجزيرة",
-     "en": "Ukraine's emergency service says Russian drone attacks set homes and facilities on fire in the Kharkiv region and injured 11 people, including three children.",
-     "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "رئيس المجلس الرئاسي الليبي يبلغ رئيس الاتحاد الأفريقي بتأجيل القمة الأفريقية التركية المقررة في طرابلس.",
+     "ar": "مصدر أمني لسكاي نيوز عربية: مقتل وإصابة العشرات من الجنود في هجوم لتنظيم داعش استهدف ثكنة عسكرية جنوب غربي النيجر.",
      "src_ar": "سكاي نيوز عربية",
-     "en": "The head of Libya's Presidential Council tells the African Union chair that the Africa-Turkey summit planned for Tripoli has been postponed.",
+     "en": "A security source tells Sky News Arabia that dozens of soldiers were killed or wounded in an ISIS attack on a military barracks in southwestern Niger.",
      "src_en": "Sky News Arabia"
-    },
-    {
-     "ar": "الحكومة العراقية: نتطلع إلى الحوار المرتقب مع إقليم كردستان في الأول من ديسمبر، ولا سلاح خارج سلطة الدولة ولا تهريب للنفط أو الأموال.",
-     "src_ar": "سكاي نيوز عربية",
-     "en": "Iraq's government says it looks forward to the planned dialogue with the Kurdistan Region on December 1, and that there will be no weapons outside state authority and no smuggling of oil or money.",
-     "src_en": "Sky News Arabia"
-    },
-    {
-     "ar": "ترامب يعلن دعمه جهود رئيس الوزراء العراقي علي الزيدي لوقف تهريب النفط وحصر السلاح، وسط رفض كردي لإدارة بغداد منافذ الإقليم.",
-     "src_ar": "الجزيرة",
-     "en": "Trump says he backs Iraqi Prime Minister Ali al-Zaidi's efforts to stop oil smuggling and restrict weapons, amid Kurdish rejection of Baghdad running the region's crossings.",
-     "src_en": "Al Jazeera"
     }
    ]
   },
@@ -52,22 +46,28 @@
    },
    "items": [
     {
-     "ar": "مصر لتأمينات الحياة: تحديد السعر النهائي للطرح عند 12.8 جنيه للسهم وتغطية الطرح الخاص 3.42 مرة، بحسب مصادر.",
-     "src_ar": "الشرق بلومبرغ",
-     "en": "Egypt Life Insurance sets the final offer price at 12.8 pounds per share, with the private placement covered 3.42 times, sources tell Asharq Bloomberg.",
-     "src_en": "Asharq Bloomberg"
+     "ar": "الصين والبرازيل تتصدران جبهة الرفض الدولية للرسوم الجمركية الأميركية الجديدة التي تستهدف 14 شريكا تجاريا.",
+     "src_ar": "الجزيرة",
+     "en": "China and Brazil lead international opposition to the new US tariffs targeting 14 trading partners.",
+     "src_en": "Al Jazeera"
     },
     {
-     "ar": "العقود الآجلة للخام الأميركي تنخفض 0.72% عند التسوية إلى 83.08 دولار للبرميل مع ارتفاع مخزونات النفط الخام.",
-     "src_ar": "سي إن بي سي عربية",
-     "en": "US crude futures settle down 0.72% at $83.08 a barrel as crude stocks rise.",
-     "src_en": "CNBC Arabia"
+     "ar": "سعر الذهب يقفز نحو 2% ليبلغ 3653 دولارا للأونصة.",
+     "src_ar": "الجزيرة",
+     "en": "Gold jumps about 2% to $3,653 an ounce.",
+     "src_en": "Al Jazeera"
     },
     {
-     "ar": "هيئة المنافسة في تشيلي تطلب غرامة بقيمة 80 مليون دولار على آبل بسبب نظام iOS.",
+     "ar": "ورثة جورجيو أرماني يدرسون شراء جزء صغير من حصة 15% المعروضة للبيع وفق وصية المؤسس، بحسب مصدرين لرويترز.",
      "src_ar": "رويترز",
-     "en": "Chile's antitrust authority seeks an $80 million fine against Apple over iOS.",
+     "en": "Giorgio Armani's heirs are weighing buying a small part of the 15% stake put up for sale under the founder's will, two sources tell Reuters.",
      "src_en": "Reuters"
+    },
+    {
+     "ar": "وزير الخزانة الأميركي بيسنت يحذر من أن المبالغة في رفع الفائدة قد تتحول إلى خطأ نقدي يهدد الاقتصاد.",
+     "src_ar": "العربية بزنس",
+     "en": "US Treasury Secretary Bessent warns that raising interest rates too far could become a monetary mistake that threatens the economy.",
+     "src_en": "Al Arabiya Business"
     }
    ]
   },
@@ -78,15 +78,9 @@
    },
    "items": [
     {
-     "ar": "الاتحاد السكندري يفوز على الأهلي 96-84 في إياب نهائي دوري المرتبط لكرة السلة، وتُحسم البطولة في مباراة فاصلة.",
-     "src_ar": "العربية",
-     "en": "Ittihad Alexandria beat Al Ahly 96-84 in the second leg of the basketball league final, and the title will be decided in a deciding game.",
-     "src_en": "Al Arabiya"
-    },
-    {
-     "ar": "مصطفى محمد يسجل أول أهدافه مع كونيا سبور من ركلة جزاء في الوقت القاتل ليفوز فريقه 2-1 على ألانيا سبور.",
+     "ar": "مصدر من الاتحاد السكندري لفيلجول: سنرفض لعب المباراة يوم الإثنين وسنطلب تأجيلها أسبوعا كاملا.",
      "src_ar": "فيلجول",
-     "en": "Mostafa Mohamed scores his first goal for Konyaspor, a stoppage-time penalty that gives his side a 2-1 win over Alanyaspor.",
+     "en": "A source at Ittihad Alexandria tells FilGoal the club will refuse to play the game on Monday and will ask for a one-week postponement.",
      "src_en": "FilGoal"
     }
    ]
