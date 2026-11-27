@@ -1,11 +1,11 @@
 {
- "id": "2026-11-27T18:00",
+ "id": "2026-11-27T19:00",
  "date": {
   "ar": "الجمعة 27 نوفمبر 2026",
   "en": "Friday 27 November 2026"
  },
- "uae": "6:00 PM",
- "cairo": "4:00 PM",
+ "uae": "7:00 PM",
+ "cairo": "5:00 PM",
  "sections": [
   {
    "title": {
@@ -14,40 +14,34 @@
    },
    "items": [
     {
-     "ar": "وزارة الصحة المصرية: تحديد هوية 27 من ضحايا حادث الدائري في الوراق بنتائج تحاليل البصمة الوراثية، وجار استصدار تصاريح الدفن بالتنسيق مع النيابة العامة.",
-     "src_ar": "العربية مصر",
-     "en": "Egypt's Health Ministry says 27 of the victims of the Warraq ring road accident have been identified through DNA tests, and burial permits are being issued in coordination with the public prosecution.",
-     "src_en": "Al Arabiya Egypt"
-    },
-    {
-     "ar": "لجنة الأمن القومي بالبرلمان الإيراني: أي مقترح من الوسطاء لا يتوافق مع شروطنا مرفوض.",
+     "ar": "قائد القوات البحرية للحرس الثوري الإيراني: ساعة الصفر لكسر الحصار البحري باتت قريبة.",
      "src_ar": "العربية",
-     "en": "Iran's parliamentary national security committee says any proposal from mediators that does not meet Tehran's conditions is rejected.",
+     "en": "The commander of Iran's Revolutionary Guard navy says the zero hour to break the naval blockade is near.",
      "src_en": "Al Arabiya"
     },
     {
-     "ar": "عميد في استخبارات قوات الدعم السريع في وسط دارفور يعلن انشقاقه واستعداده للقتال مع الجيش السوداني، ويتهم أسرة دقلو باستغلال القبائل لخدمة مصالحها.",
+     "ar": "الخارجية الكويتية تستدعي السفير الإيراني وتسلمه مذكرة احتجاج على استمرار الهجمات الإيرانية، وآخرها هجوم بالمسيرات أمس.",
+     "src_ar": "العربية وسكاي نيوز عربية",
+     "en": "Kuwait's foreign ministry summons Iran's ambassador and hands him a protest note over continued Iranian attacks, the latest a drone attack yesterday.",
+     "src_en": "Al Arabiya and Sky News Arabia"
+    },
+    {
+     "ar": "المنظمة البحرية الدولية: نحو 300 سفينة وقرابة 6 آلاف بحار عالقون في مضيق هرمز منذ بدء الحرب، ولا مخرج قريبا من الأزمة.",
      "src_ar": "العربية",
-     "en": "A brigadier general in the Rapid Support Forces' intelligence in Central Darfur announces his defection and readiness to fight alongside the Sudanese army, accusing the Dagalo family of exploiting tribes to serve its interests.",
+     "en": "The International Maritime Organization says about 300 ships and nearly 6,000 seafarers have been stuck in the Strait of Hormuz since the war began, and it sees no early way out of the crisis.",
      "src_en": "Al Arabiya"
     },
     {
-     "ar": "أوكرانيا: مقتل شخصين وإصابة 17 في هجمات روسية، واعتراض 110 مسيرات من أصل 155 أطلقتها موسكو.",
-     "src_ar": "الجزيرة",
-     "en": "Ukraine says Russian attacks killed two people and injured 17, and that 110 of 155 drones launched by Moscow were intercepted.",
-     "src_en": "Al Jazeera"
+     "ar": "مقتل شخص وإصابة آخرين في غارة إسرائيلية استهدفت مركبة في جباليا النزلة شمالي قطاع غزة.",
+     "src_ar": "سكاي نيوز عربية",
+     "en": "One person is killed and several wounded in an Israeli strike on a vehicle in Jabalia al-Nazla, northern Gaza.",
+     "src_en": "Sky News Arabia"
     },
     {
-     "ar": "الأمم المتحدة تتوقع تراجع نمو التجارة البحرية العالمية إلى صفر هذا العام بسبب اضطرابات الملاحة، وتحذر من شبه توقف تدفق النفط والغاز عبر مضيق هرمز.",
+     "ar": "السلطات اليمنية في تعز: مقتل 11 مدنيا وإصابة آخرين في قصف للحوثيين على مدينة التربة.",
      "src_ar": "الجزيرة",
-     "en": "The UN expects global maritime trade growth to fall to zero this year because of shipping disruption, and warns of a near halt in oil and gas flows through the Strait of Hormuz.",
+     "en": "Yemeni government authorities in Taiz say 11 civilians were killed and others wounded in Houthi shelling of the city of al-Turba.",
      "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "مفوضية الأمم المتحدة للاجئين: نحو نصف مراكز إيواء النساء والفتيات النازحات واللاجئات في أكثر من 10 دول أغلقت أبوابها منذ بداية العام الماضي بسبب خفض التمويل.",
-     "src_ar": "رويترز",
-     "en": "The UN refugee agency says nearly half of the shelters for displaced and refugee women and girls in more than 10 countries have closed since the start of last year because of funding cuts.",
-     "src_en": "Reuters"
     }
    ]
   },
@@ -58,28 +52,42 @@
    },
    "items": [
     {
-     "ar": "إنفيديا تعيد مؤسسها جنسن هوانغ إلى رئاستها بعد 11 يوما من استقالته، وتسترد في يوم واحد معظم خسائرها.",
-     "src_ar": "الجزيرة",
-     "en": "Nvidia brings its founder Jensen Huang back as chair 11 days after his resignation, recovering most of its losses in a single day.",
-     "src_en": "Al Jazeera"
+     "ar": "الذهب يخسر نحو 9% في أسبوع، وأسوأ أداء أسبوعي منذ مارس، والأونصة قرب 3500 دولار.",
+     "src_ar": "العربية بزنس",
+     "en": "Gold loses about 9% in a week, its worst weekly performance since March, with the ounce near $3,500.",
+     "src_en": "Al Arabiya Business"
     },
     {
-     "ar": "أسعار المستهلكين في فرنسا ترتفع في نوفمبر بوتيرة أبطأ من المتوقع، بحسب بيانات أولية.",
-     "src_ar": "رويترز",
-     "en": "French consumer prices rose more slowly than expected in November, according to preliminary data.",
-     "src_en": "Reuters"
-    },
-    {
-     "ar": "معدل التضخم السنوي في إسبانيا يتباطأ إلى 4.1% في نوفمبر من 4.9% في أكتوبر، بحسب التقديرات الأولية.",
+     "ar": "العجز التجاري الأميركي في السلع يتسع إلى 149.5 مليار دولار في أكتوبر، بزيادة 10.7% عن الشهر السابق، وهي رابع زيادة شهرية متتالية.",
      "src_ar": "سي إن بي سي عربية",
-     "en": "Spain's annual inflation rate slows to 4.1% in November from 4.9% in October, according to preliminary estimates.",
+     "en": "The US goods trade deficit widens to $149.5 billion in October, up 10.7% from the previous month, the fourth monthly increase in a row.",
      "src_en": "CNBC Arabia"
     },
     {
-     "ar": "النحاس يقفز 6.5% ويسجل أكبر مكاسب يومية في 10 أشهر.",
+     "ar": "تركيا تجدد عقد استيراد الغاز الطبيعي من إيران خمس سنوات إضافية حتى 2032، مع إبقاء الكمية ومعادلة التسعير.",
+     "src_ar": "الجزيرة",
+     "en": "Turkey renews its natural gas import contract with Iran for five more years until 2032, keeping the volume and pricing formula unchanged.",
+     "src_en": "Al Jazeera"
+    },
+    {
+     "ar": "البرلمان الألماني يقر ميزانية 2027 البالغة 556 مليار يورو، مع زيادة في الإنفاق الدفاعي واستثمارات ضخمة.",
      "src_ar": "العربية بزنس",
-     "en": "Copper jumps 6.5%, its biggest daily gain in 10 months.",
+     "en": "Germany's parliament passes the 2027 budget of 556 billion euros, with higher defence spending and large investments.",
      "src_en": "Al Arabiya Business"
+    }
+   ]
+  },
+  {
+   "title": {
+    "ar": "رياضة",
+    "en": "Sport"
+   },
+   "items": [
+    {
+     "ar": "بايرن ميونيخ يعلن غياب جمال موسيالا بسبب إصابة في فخذه الأيمن.",
+     "src_ar": "بي إن سبورتس",
+     "en": "Bayern Munich announce Jamal Musiala will be out with a right thigh injury.",
+     "src_en": "beIN Sports"
     }
    ]
   }
