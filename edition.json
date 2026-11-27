@@ -1,11 +1,11 @@
 {
- "id": "2026-11-27T09:00",
+ "id": "2026-11-27T10:00",
  "date": {
   "ar": "الجمعة 27 نوفمبر 2026",
   "en": "Friday 27 November 2026"
  },
- "uae": "9:00 AM",
- "cairo": "7:00 AM",
+ "uae": "10:00 AM",
+ "cairo": "8:00 AM",
  "sections": [
   {
    "title": {
@@ -14,45 +14,21 @@
    },
    "items": [
     {
-     "ar": "سلطنة عمان تدين الاعتداءات على الكويت وتؤكد تضامنها معها ورفضها المساس بسيادتها وأمنها، وتجدد دعوتها إلى وقف جميع الأعمال العسكرية في المنطقة وتغليب لغة الحوار والمساعي الدبلوماسية.",
-     "src_ar": "تلفزيون سلطنة عمان",
-     "en": "Oman condemns the attacks on Kuwait, affirms its solidarity and rejects any violation of Kuwait's sovereignty and security, and renews its call to stop all military action in the region and give priority to dialogue and diplomacy.",
-     "src_en": "Oman TV news"
+     "ar": "روسيا: قصفنا سفينة أوكرانية كانت تحمل شحنة عسكرية في البحر الأسود.",
+     "src_ar": "وزارة الدفاع الروسية عبر العربية وسكاي نيوز عربية",
+     "en": "Russia says it struck a Ukrainian ship carrying military cargo in the Black Sea.",
+     "src_en": "Russian defence ministry via Al Arabiya and Sky News Arabia"
     },
     {
-     "ar": "إعلام أوكراني: مسيرات هاجمت مصنعا ومحطة لتوليد الكهرباء في تولا جنوب موسكو.",
-     "src_ar": "العربية",
-     "en": "Ukrainian media: drones attacked a factory and a power station in Tula, south of Moscow.",
-     "src_en": "Al Arabiya"
-    },
-    {
-     "ar": "أهالي المناطق الشرقية وسط قطاع غزة: نطالب بالخبز والماء والخيمة، ويقولون إن المؤسسات الدولية ترفض تقديم المساعدات لهم.",
-     "src_ar": "الجزيرة",
-     "en": "Residents of eastern central Gaza say they are demanding bread, water and a tent, and that international organisations are refusing to give them aid.",
-     "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "إصابة ثلاثة أشخاص في حريق بعد انفجار في مصفاة نفطية بضواحي بانكوك، وشركة بانغتشاك تؤكد السيطرة عليه وإخلاء محيط المصفاة احترازيا.",
-     "src_ar": "الجزيرة",
-     "en": "Three people are injured in a fire after an explosion at an oil refinery on the outskirts of Bangkok, and the operator Bangchak says it is under control and the surrounding area has been evacuated as a precaution.",
-     "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "محكمة إندونيسية تحكم بالسجن 9 سنوات على رئيس مؤسسة تدير حضانة أطفال في قضية إساءة معاملة أطفال أثارت غضبا واسعا.",
+     "ar": "الصين تجري تدريبا لإنزال برمائي يمتد أسابيع في المقاطعة المقابلة لتايوان، ويختبر طريقة جديدة لإنزال القوات بربط سفن مدنية في جسر عائم مؤقت، بحسب صور أقمار صناعية وتقرير بحثي.",
      "src_ar": "رويترز",
-     "en": "An Indonesian court sentences the head of a foundation running a daycare centre to nine years in prison in a high-profile child-abuse case that sparked national outrage.",
+     "en": "China is staging a weeks-long amphibious landing drill in the province facing Taiwan, testing a new way to land troops by linking civilian vessels into a makeshift floating bridge, satellite images and a research report show.",
      "src_en": "Reuters"
     },
     {
-     "ar": "نيوزيلندا: الائتلاف الحاكم أخفق بفارق ضئيل في الفوز بأغلبية برلمانية، ورئيس الوزراء لوكسون يحتاج إلى دعم حزب الفرصة للبقاء في الحكم، بحسب النتائج النهائية.",
-     "src_ar": "رويترز",
-     "en": "New Zealand's ruling coalition narrowly missed winning a parliamentary majority, final results show, and Prime Minister Luxon needs the support of the Opportunity Party to stay in office.",
-     "src_en": "Reuters"
-    },
-    {
-     "ar": "مسرور بارزاني يعلن رفضه استهداف كيان إقليم كردستان بذريعة مكافحة الفساد، ويؤكد استعداد الحزبين الديمقراطي والاتحاد الوطني للمشاركة في اجتماع بغداد المرتقب.",
+     "ar": "ترامب: سلاح الجو الأمريكي نفذ أكثر من 2000 طلعة جوية على مدى أكثر من 12 ألف ساعة في الشرق الأوسط.",
      "src_ar": "الجزيرة",
-     "en": "Masrour Barzani rejects targeting the Kurdistan Region's entity under the pretext of fighting corruption, and says the KDP and PUK are ready to attend the expected Baghdad meeting.",
+     "en": "Trump says the US Air Force has flown more than 2,000 sorties over more than 12,000 hours in the Middle East.",
      "src_en": "Al Jazeera"
     }
    ]
@@ -64,22 +40,34 @@
    },
    "items": [
     {
-     "ar": "خام برنت يحوم قرب أعلى مستوياته في شهر عند 96.51 دولار للبرميل وسط مخاوف بشأن صادرات النفط من الشرق الأوسط، والخام الأمريكي يرتفع 2.4% إلى 85.74 دولار.",
+     "ar": "محمد بن راشد يعلن ترسية عقود جديدة بقيمة 56.5 مليار درهم ضمن مشروع تطوير مطار آل مكتوم الدولي، لترتفع القيمة الإجمالية للعقود إلى أكثر من 80 مليار درهم.",
      "src_ar": "CNBC عربية",
-     "en": "Brent crude hovers near a one-month high at $96.51 a barrel amid fears over Middle East oil exports, and US crude rises 2.4% to $85.74.",
+     "en": "Sheikh Mohammed bin Rashid announces new contracts worth AED 56.5 billion for the Al Maktoum International Airport development, bringing total awarded contracts to more than AED 80 billion.",
      "src_en": "CNBC Arabia"
     },
     {
-     "ar": "أرباح الشركات الصناعية في الصين تقفز 20.1% في أكتوبر على أساس سنوي، أسرع وتيرة منذ مايو، وترتفع 16% في الأشهر العشرة الأولى من 2026.",
+     "ar": "مصرف أبوظبي الإسلامي يصدر صكوكا دائمة من الشق الأول لرأس المال بقيمة 500 مليون دولار بمعدل ربح 7%، وطلبات الاكتتاب تجاوزت حجم الإصدار أكثر من ثلاث مرات.",
      "src_ar": "CNBC عربية",
-     "en": "Profits at China's industrial firms jump 20.1% in October from a year earlier, the fastest pace since May, and are up 16% in the first ten months of 2026.",
+     "en": "Abu Dhabi Islamic Bank issues $500 million of perpetual Additional Tier 1 sukuk at a 7% profit rate, with orders more than three times the size of the issue.",
      "src_en": "CNBC Arabia"
     },
     {
-     "ar": "تركيا تهدف إلى تلبية متطلبات إم إس سي آي بحلول ديسمبر بعد أزمة الصناديق، بحسب وزير المالية شيمشك.",
+     "ar": "صندوق النقد الدولي يتوقع انكماش اقتصاد قطر 14.5% في 2026.",
+     "src_ar": "CNBC عربية",
+     "en": "The IMF expects Qatar's economy to contract 14.5% in 2026.",
+     "src_en": "CNBC Arabia"
+    },
+    {
+     "ar": "فنزويلا تسعى للحصول على قروض مرحلية من وزارة الخزانة الأمريكية وقطر، كل على حدة، لتسوية متأخرات مستحقة لبنكين إقليميين للتنمية، بحسب أربعة مصادر.",
      "src_ar": "رويترز",
-     "en": "Turkey aims to meet MSCI requirements by December after the funds crisis, Finance Minister Simsek says.",
+     "en": "Venezuela is seeking bridge loans from the US Treasury and from Qatar, separately, to clear arrears owed to two regional development banks, according to four sources.",
      "src_en": "Reuters"
+    },
+    {
+     "ar": "سبيس إكس تحصل على الموافقة لإطلاق مليون قمر اصطناعي.",
+     "src_ar": "الإمارات اليوم",
+     "en": "SpaceX gets approval to launch one million satellites.",
+     "src_en": "Emarat Al Youm"
     }
    ]
   }
