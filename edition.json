@@ -1,11 +1,11 @@
 {
- "id": "2026-11-27T08:00",
+ "id": "2026-11-27T09:00",
  "date": {
   "ar": "الجمعة 27 نوفمبر 2026",
   "en": "Friday 27 November 2026"
  },
- "uae": "8:00 AM",
- "cairo": "6:00 AM",
+ "uae": "9:00 AM",
+ "cairo": "7:00 AM",
  "sections": [
   {
    "title": {
@@ -14,40 +14,46 @@
    },
    "items": [
     {
-     "ar": "أستراليا تفرض عقوبات لمكافحة تمويل الإرهاب على شخصين تقول إنهما مسؤولان عن هجمات معادية للسامية في البلاد بتحريض من الحرس الثوري الإيراني.",
-     "src_ar": "رويترز وسكاي نيوز عربية والعربية",
-     "en": "Australia imposes counter-terrorism financing sanctions on two people it says are responsible for antisemitic attacks in the country at the instigation of Iran's Revolutionary Guard.",
-     "src_en": "Reuters, Sky News Arabia and Al Arabiya"
+     "ar": "سلطنة عمان تدين الاعتداءات على الكويت وتؤكد تضامنها معها ورفضها المساس بسيادتها وأمنها، وتجدد دعوتها إلى وقف جميع الأعمال العسكرية في المنطقة وتغليب لغة الحوار والمساعي الدبلوماسية.",
+     "src_ar": "تلفزيون سلطنة عمان",
+     "en": "Oman condemns the attacks on Kuwait, affirms its solidarity and rejects any violation of Kuwait's sovereignty and security, and renews its call to stop all military action in the region and give priority to dialogue and diplomacy.",
+     "src_en": "Oman TV news"
     },
     {
-     "ar": "الاستخبارات العسكرية الأوكرانية: كوريا الشمالية أوقفت مؤقتا بعض أوجه التعاون العسكري مع روسيا، بما في ذلك توريد صواريخ باليستية من طراز كيه إن 23، بعد توترات دبلوماسية بين البلدين.",
+     "ar": "إعلام أوكراني: مسيرات هاجمت مصنعا ومحطة لتوليد الكهرباء في تولا جنوب موسكو.",
+     "src_ar": "العربية",
+     "en": "Ukrainian media: drones attacked a factory and a power station in Tula, south of Moscow.",
+     "src_en": "Al Arabiya"
+    },
+    {
+     "ar": "أهالي المناطق الشرقية وسط قطاع غزة: نطالب بالخبز والماء والخيمة، ويقولون إن المؤسسات الدولية ترفض تقديم المساعدات لهم.",
+     "src_ar": "الجزيرة",
+     "en": "Residents of eastern central Gaza say they are demanding bread, water and a tent, and that international organisations are refusing to give them aid.",
+     "src_en": "Al Jazeera"
+    },
+    {
+     "ar": "إصابة ثلاثة أشخاص في حريق بعد انفجار في مصفاة نفطية بضواحي بانكوك، وشركة بانغتشاك تؤكد السيطرة عليه وإخلاء محيط المصفاة احترازيا.",
+     "src_ar": "الجزيرة",
+     "en": "Three people are injured in a fire after an explosion at an oil refinery on the outskirts of Bangkok, and the operator Bangchak says it is under control and the surrounding area has been evacuated as a precaution.",
+     "src_en": "Al Jazeera"
+    },
+    {
+     "ar": "محكمة إندونيسية تحكم بالسجن 9 سنوات على رئيس مؤسسة تدير حضانة أطفال في قضية إساءة معاملة أطفال أثارت غضبا واسعا.",
      "src_ar": "رويترز",
-     "en": "Ukrainian military intelligence says North Korea has temporarily halted some military cooperation with Russia, including supplies of KN-23 ballistic missiles, after diplomatic tensions between the two allies.",
+     "en": "An Indonesian court sentences the head of a foundation running a daycare centre to nine years in prison in a high-profile child-abuse case that sparked national outrage.",
      "src_en": "Reuters"
     },
     {
-     "ar": "مسؤول روسي: تدريبات الناتو قرب حدودنا جزء من استعدادات الحلف لمهاجمة كالينينغراد، ودول الناتو تشارك في الهجمات على السفن الروسية في بحر البلطيق، والعالم يقترب من حرب نووية، بحسب نيوزويك.",
-     "src_ar": "العربية",
-     "en": "A Russian official says NATO drills near Russia's borders are part of the alliance's preparations to attack Kaliningrad, that NATO states take part in attacks on Russian ships in the Baltic, and that the world is nearing nuclear war, Newsweek reports.",
-     "src_en": "Al Arabiya"
+     "ar": "نيوزيلندا: الائتلاف الحاكم أخفق بفارق ضئيل في الفوز بأغلبية برلمانية، ورئيس الوزراء لوكسون يحتاج إلى دعم حزب الفرصة للبقاء في الحكم، بحسب النتائج النهائية.",
+     "src_ar": "رويترز",
+     "en": "New Zealand's ruling coalition narrowly missed winning a parliamentary majority, final results show, and Prime Minister Luxon needs the support of the Opportunity Party to stay in office.",
+     "src_en": "Reuters"
     },
     {
-     "ar": "مصادر طبية فلسطينية: استشهاد 7 فلسطينيين وإصابة آخرين في غارات إسرائيلية على مناطق متفرقة من قطاع غزة.",
+     "ar": "مسرور بارزاني يعلن رفضه استهداف كيان إقليم كردستان بذريعة مكافحة الفساد، ويؤكد استعداد الحزبين الديمقراطي والاتحاد الوطني للمشاركة في اجتماع بغداد المرتقب.",
      "src_ar": "الجزيرة",
-     "en": "Palestinian medical sources say 7 Palestinians were killed and others wounded in Israeli air strikes on various areas of the Gaza Strip.",
+     "en": "Masrour Barzani rejects targeting the Kurdistan Region's entity under the pretext of fighting corruption, and says the KDP and PUK are ready to attend the expected Baghdad meeting.",
      "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "الكنيست الإسرائيلي يقر في قراءة تمهيدية مشروعا يمنع المتهمين بجرائم تنطوي على وصمة عار من تشكيل حكومة.",
-     "src_ar": "الجزيرة",
-     "en": "Israel's Knesset passes in a preliminary reading a bill that bars people charged with crimes involving moral turpitude from forming a government.",
-     "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "الصين: على الاتحاد الأوروبي توخي الحذر إذا قرر فرض أي قيود تجارية.",
-     "src_ar": "العربية",
-     "en": "China: the European Union should be careful if it decides to impose any trade restrictions.",
-     "src_en": "Al Arabiya"
     }
    ]
   },
@@ -58,21 +64,21 @@
    },
    "items": [
     {
-     "ar": "الدولار قرب أعلى مستوياته في 22 شهرا وسط ترقب أسهم الذكاء الاصطناعي، ومؤشر الدولار عند 103.81 نقطة.",
+     "ar": "خام برنت يحوم قرب أعلى مستوياته في شهر عند 96.51 دولار للبرميل وسط مخاوف بشأن صادرات النفط من الشرق الأوسط، والخام الأمريكي يرتفع 2.4% إلى 85.74 دولار.",
      "src_ar": "CNBC عربية",
-     "en": "The dollar is near its highest in 22 months as markets watch AI stocks, with the dollar index at 103.81.",
+     "en": "Brent crude hovers near a one-month high at $96.51 a barrel amid fears over Middle East oil exports, and US crude rises 2.4% to $85.74.",
      "src_en": "CNBC Arabia"
     },
     {
-     "ar": "الذهب يقفز فوق 3600 دولار للأونصة والفضة ترتفع أكثر من 5% مع عودة المشترين عند الانخفاض.",
-     "src_ar": "كوبيسي ليتر",
-     "en": "Gold surges above $3,600 an ounce and silver rises more than 5% as dip buyers return.",
-     "src_en": "Kobeissi Letter"
+     "ar": "أرباح الشركات الصناعية في الصين تقفز 20.1% في أكتوبر على أساس سنوي، أسرع وتيرة منذ مايو، وترتفع 16% في الأشهر العشرة الأولى من 2026.",
+     "src_ar": "CNBC عربية",
+     "en": "Profits at China's industrial firms jump 20.1% in October from a year earlier, the fastest pace since May, and are up 16% in the first ten months of 2026.",
+     "src_en": "CNBC Arabia"
     },
     {
-     "ar": "أسهم جابان توباكو ترتفع وسط حديث عن مشاركتها المحتملة في استحواذ على إمبريال براندز.",
+     "ar": "تركيا تهدف إلى تلبية متطلبات إم إس سي آي بحلول ديسمبر بعد أزمة الصناديق، بحسب وزير المالية شيمشك.",
      "src_ar": "رويترز",
-     "en": "Japan Tobacco shares climb on talk that it may be part of a takeover of Imperial Brands.",
+     "en": "Turkey aims to meet MSCI requirements by December after the funds crisis, Finance Minister Simsek says.",
      "src_en": "Reuters"
     }
    ]
