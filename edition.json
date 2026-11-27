@@ -1,11 +1,11 @@
 {
- "id": "2026-11-27T22:00",
+ "id": "2026-11-27T23:00",
  "date": {
   "ar": "الجمعة 27 نوفمبر 2026",
   "en": "Friday 27 November 2026"
  },
- "uae": "10:00 PM",
- "cairo": "8:00 PM",
+ "uae": "11:00 PM",
+ "cairo": "9:00 PM",
  "sections": [
   {
    "title": {
@@ -14,45 +14,39 @@
    },
    "items": [
     {
-     "ar": "رويترز عن مصادر: أسطول روسي كان متجها إلى ليبيا عاد من البحر المتوسط بعد هجوم بنغازي، وأسطول عسكري ثان عاد أدراجه بعد غرق سفينة حربية في 22 نوفمبر.",
-     "src_ar": "رويترز والعربية وسكاي نيوز عربية",
-     "en": "Reuters, citing sources, reports that a Russian fleet heading for Libya turned back in the Mediterranean after the Benghazi attack, and a second military fleet turned back after a warship sank on November 22.",
-     "src_en": "Reuters, Al Arabiya and Sky News Arabia"
-    },
-    {
-     "ar": "بيان مشترك لاجتماع اتفاقية مكة في إسلام آباد: السعودية وباكستان وتركيا تجدد التزامها بالدفاع المشترك، وتدين الهجمات الحوثية على السعودية، وتدعم جهود خفض التصعيد في المنطقة.",
-     "src_ar": "العربية والجزيرة",
-     "en": "A joint statement from the Mecca pact meeting in Islamabad says Saudi Arabia, Pakistan and Turkey renewed their commitment to collective defence, condemned Houthi attacks on Saudi Arabia and backed efforts to ease regional tensions.",
-     "src_en": "Al Arabiya and Al Jazeera"
-    },
-    {
-     "ar": "استشهاد 6 فلسطينيين في غارات إسرائيلية استهدفت مخيم جباليا ومركبة شمالي غزة وتجمعا للمواطنين غرب رفح.",
-     "src_ar": "الجزيرة",
-     "en": "Six Palestinians are killed in Israeli strikes on Jabalia camp, a vehicle in northern Gaza and a gathering of people west of Rafah.",
-     "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "الخارجية المصرية: وفاة مصري وفقدان اثنين وإصابة 10 في غرق مركب شحن يرفع علم بنما قبالة السواحل الكوبية، وكان على متنه 13 مصريا.",
+     "ar": "القناة 12 الإسرائيلية: المجلس الوزاري المصغر (الكابينت) يجتمع الأحد للتصديق على تطبيق خطة ترامب في غزة.",
      "src_ar": "العربية",
-     "en": "Egypt's foreign ministry says one Egyptian died, two are missing and 10 were injured when a Panama-flagged cargo ship sank off the coast of Cuba, with 13 Egyptians on board.",
+     "en": "Israel's Channel 12 says the security cabinet will meet on Sunday to approve implementing Trump's plan for Gaza.",
      "src_en": "Al Arabiya"
     },
     {
-     "ar": "46 أسرة من سكان عقار الفلكي المتصدع تخلي شققها لحين صدور قرار هندسي.",
-     "src_ar": "العربية مصر",
-     "en": "46 families from the cracked Falaki building evacuate their flats until an engineering decision is issued.",
-     "src_en": "Al Arabiya Egypt"
+     "ar": "إيران تتخذ حزمة إجراءات تقشفية في ظل أزمة اقتصادية خانقة بسبب الحرب والحصار البحري الأمريكي المستمر منذ 9 أشهر.",
+     "src_ar": "الجزيرة",
+     "en": "Iran adopts a package of austerity measures amid a severe economic crisis caused by the war and a US naval blockade that has lasted nine months.",
+     "src_en": "Al Jazeera"
     },
     {
-     "ar": "رئيس الوزراء الإسباني سانشيز: متأكد من فوز اليسار بالأغلبية في الانتخابات العامة المبكرة يوم الأحد رغم نتائج استطلاعات الرأي السلبية.",
+     "ar": "الغارديان عن وزارة التعليم في غزة: استشهاد 16 طالب مدرسة منذ بداية نوفمبر جراء التصعيد الإسرائيلي في القطاع.",
+     "src_ar": "الجزيرة",
+     "en": "The Guardian, citing Gaza's education ministry, reports that 16 schoolchildren have been killed since the start of November in Israeli escalation in the Strip.",
+     "src_en": "Al Jazeera"
+    },
+    {
+     "ar": "وزير الخارجية التركي: تركيا وباكستان والسعودية ناقشت خارطة طريق لانضمام أعضاء جدد إلى اتفاق مكة، واتفقت على مبادئ خاصة لإضافتهم.",
+     "src_ar": "الجزيرة",
+     "en": "Turkey's foreign minister says Turkey, Pakistan and Saudi Arabia discussed a roadmap for new members to join the Mecca pact and agreed on principles for adding them.",
+     "src_en": "Al Jazeera"
+    },
+    {
+     "ar": "محكمة كينية تدين زعيم طائفة التجويع بول ماكنزي بالقتل غير العمد في وفاة 123 من أتباعه.",
      "src_ar": "رويترز",
-     "en": "Spain's prime minister Pedro Sanchez says he is sure the left will win a majority in Sunday's early general election despite poor poll results.",
+     "en": "A Kenyan court finds starvation cult leader Paul Mackenzie guilty of manslaughter over the deaths of 123 of his followers.",
      "src_en": "Reuters"
     },
     {
-     "ar": "أوغندا تطلق أول تجربة سريرية في أفريقيا للقاح يعتمد على الحمض النووي الريبوزي المرسال ضد سلالة بونديبوجيو من الإيبولا.",
+     "ar": "منظمة الصحة العالمية: عدد وفيات الحصبة عالميا تراجع إلى أدنى مستوى تاريخي في 2025.",
      "src_ar": "رويترز",
-     "en": "Uganda launches Africa's first clinical trial of an mRNA vaccine against the Bundibugyo strain of Ebola.",
+     "en": "The World Health Organization says global measles deaths fell to their lowest level on record in 2025.",
      "src_en": "Reuters"
     }
    ]
@@ -64,22 +58,36 @@
    },
    "items": [
     {
-     "ar": "مبيعات لعبة GTA الجديدة تتجاوز 3.79 مليار دولار في يوم واحد.",
-     "src_ar": "الشرق بلومبرغ",
-     "en": "Sales of the new GTA game pass $3.79 billion in a single day.",
-     "src_en": "Asharq Bloomberg"
+     "ar": "أوبن إيه آي ترفع دعوى جديدة ضد آبل تتهمها بسرقة أسرار تجارية، بحسب فايننشال تايمز.",
+     "src_ar": "العربية بزنس",
+     "en": "OpenAI files a new lawsuit against Apple accusing it of stealing trade secrets, according to the Financial Times.",
+     "src_en": "Al Arabiya Business"
     },
     {
-     "ar": "بي إيه إي سيستمز: قيمة طلبية أوروبية لمركبات قتالية تبلغ 6 مليارات دولار.",
+     "ar": "البنك المركزي الأوروبي قد يضطر إلى مزيد من رفع الفائدة مع بقاء التضخم فوق 3%.",
      "src_ar": "رويترز",
-     "en": "BAE Systems says a European combat vehicle order totals $6 billion.",
+     "en": "The European Central Bank may have to raise rates further as inflation stays above 3%.",
      "src_en": "Reuters"
     },
     {
-     "ar": "بورصة دويتشه تحصل على موافقة الاتحاد الأوروبي لمكافحة الاحتكار للاستحواذ على ألفاندز.",
+     "ar": "اقتصاد تايوان يتجه لأسرع نمو في نحو 50 عاما بدعم الطلب على الذكاء الاصطناعي.",
      "src_ar": "رويترز",
-     "en": "Deutsche Boerse wins EU antitrust approval for its Allfunds acquisition.",
+     "en": "Taiwan's economy is expected to grow at its fastest rate in nearly 50 years on AI demand.",
      "src_en": "Reuters"
+    }
+   ]
+  },
+  {
+   "title": {
+    "ar": "رياضة",
+    "en": "Sport"
+   },
+   "items": [
+    {
+     "ar": "منتخب مصر للناشئين يواجه كولومبيا في دور الـ32 من كأس العالم تحت 17 عاما.",
+     "src_ar": "فيلجول",
+     "en": "Egypt's under-17 team will face Colombia in the round of 32 of the U-17 World Cup.",
+     "src_en": "FilGoal"
     }
    ]
   }
