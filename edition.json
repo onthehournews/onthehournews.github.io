@@ -1,11 +1,11 @@
 {
- "id": "2026-11-27T21:00",
+ "id": "2026-11-27T22:00",
  "date": {
   "ar": "الجمعة 27 نوفمبر 2026",
   "en": "Friday 27 November 2026"
  },
- "uae": "9:00 PM",
- "cairo": "7:00 PM",
+ "uae": "10:00 PM",
+ "cairo": "8:00 PM",
  "sections": [
   {
    "title": {
@@ -14,40 +14,46 @@
    },
    "items": [
     {
-     "ar": "القيادة المركزية الأميركية: عطلنا أمس في خليج عمان سفينة تجارية ترفع علم بالاو حاولت خرق الحصار بعد مغادرتها ميناء بندر عباس، وأصابت إحدى طائراتنا مؤخرتها وعطلت محركها.",
+     "ar": "رويترز عن مصادر: أسطول روسي كان متجها إلى ليبيا عاد من البحر المتوسط بعد هجوم بنغازي، وأسطول عسكري ثان عاد أدراجه بعد غرق سفينة حربية في 22 نوفمبر.",
+     "src_ar": "رويترز والعربية وسكاي نيوز عربية",
+     "en": "Reuters, citing sources, reports that a Russian fleet heading for Libya turned back in the Mediterranean after the Benghazi attack, and a second military fleet turned back after a warship sank on November 22.",
+     "src_en": "Reuters, Al Arabiya and Sky News Arabia"
+    },
+    {
+     "ar": "بيان مشترك لاجتماع اتفاقية مكة في إسلام آباد: السعودية وباكستان وتركيا تجدد التزامها بالدفاع المشترك، وتدين الهجمات الحوثية على السعودية، وتدعم جهود خفض التصعيد في المنطقة.",
      "src_ar": "العربية والجزيرة",
-     "en": "US Central Command says it disabled a Palau-flagged commercial ship in the Gulf of Oman yesterday that tried to breach the blockade after leaving Bandar Abbas, with one of its aircraft hitting the stern and disabling the engine.",
+     "en": "A joint statement from the Mecca pact meeting in Islamabad says Saudi Arabia, Pakistan and Turkey renewed their commitment to collective defence, condemned Houthi attacks on Saudi Arabia and backed efforts to ease regional tensions.",
      "src_en": "Al Arabiya and Al Jazeera"
     },
     {
-     "ar": "ترامب يؤكد بحث الملف الإيراني مع نتنياهو ومنح طهران فرصة للاتفاق، ويتوعد باستهداف موقع جبل الفأس النووي إذا أقدمت طهران على أي خطوة.",
+     "ar": "استشهاد 6 فلسطينيين في غارات إسرائيلية استهدفت مخيم جباليا ومركبة شمالي غزة وتجمعا للمواطنين غرب رفح.",
      "src_ar": "الجزيرة",
-     "en": "Trump says he discussed the Iran file with Netanyahu and is giving Tehran a chance to reach a deal, and threatens to strike the Pickaxe Mountain nuclear site if Tehran takes any step.",
+     "en": "Six Palestinians are killed in Israeli strikes on Jabalia camp, a vehicle in northern Gaza and a gathering of people west of Rafah.",
      "src_en": "Al Jazeera"
     },
     {
-     "ar": "الأمم المتحدة: إذا لم يصدر قرار قبل انتهاء المهلة ستسحب قواتها من لبنان. ورئيس الحكومة نواف سلام: مقترح فرنسي جديد قد يتيح مواصلة عمل اليونيفيل.",
-     "src_ar": "العربية وسكاي نيوز عربية",
-     "en": "The UN says it will withdraw its forces from Lebanon if no decision is made before the deadline. Prime Minister Nawaf Salam says a new French proposal could allow UNIFIL to keep working.",
-     "src_en": "Al Arabiya and Sky News Arabia"
+     "ar": "الخارجية المصرية: وفاة مصري وفقدان اثنين وإصابة 10 في غرق مركب شحن يرفع علم بنما قبالة السواحل الكوبية، وكان على متنه 13 مصريا.",
+     "src_ar": "العربية",
+     "en": "Egypt's foreign ministry says one Egyptian died, two are missing and 10 were injured when a Panama-flagged cargo ship sank off the coast of Cuba, with 13 Egyptians on board.",
+     "src_en": "Al Arabiya"
     },
     {
-     "ar": "الخارجية الروسية تتهم لاتفيا بإتاحة مجالها الجوي لعبور مسيّرات أوكرانية لتنفيذ هجمات ضد أهداف روسية.",
-     "src_ar": "سكاي نيوز عربية",
-     "en": "Russia's foreign ministry accuses Latvia of letting Ukrainian drones cross its airspace to attack Russian targets.",
-     "src_en": "Sky News Arabia"
+     "ar": "46 أسرة من سكان عقار الفلكي المتصدع في القاهرة تخلي شققها لحين صدور قرار هندسي.",
+     "src_ar": "العربية مصر",
+     "en": "46 families evacuate their flats in the cracked Falaki building until an engineering decision is issued.",
+     "src_en": "Al Arabiya Egypt"
     },
     {
-     "ar": "إستونيا ستغلق جميع معابرها الحدودية مع روسيا في الأول من ديسمبر.",
+     "ar": "رئيس الوزراء الإسباني سانشيز: متأكد من فوز اليسار بالأغلبية في الانتخابات العامة المبكرة يوم الأحد رغم نتائج استطلاعات الرأي السلبية.",
      "src_ar": "رويترز",
-     "en": "Estonia will close all its border crossings with Russia on December 1.",
+     "en": "Spain's prime minister Pedro Sanchez says he is sure the left will win a majority in Sunday's early general election despite poor poll results.",
      "src_en": "Reuters"
     },
     {
-     "ar": "تركيا تستدعي السفير الجورجي بعد أحداث مباراة بشكتاش وهبوعيل بئر السبع في باتومي، التي شهدت استخدام الشرطة الجورجية القوة ورذاذ الفلفل ضد مشجعي بشكتاش.",
-     "src_ar": "الجزيرة",
-     "en": "Turkey summons Georgia's ambassador after the Besiktas v Hapoel Beer Sheva match in Batumi, where Georgian police used force and pepper spray against Besiktas fans.",
-     "src_en": "Al Jazeera"
+     "ar": "أوغندا تطلق أول تجربة سريرية في أفريقيا للقاح يعتمد على الحمض النووي الريبوزي المرسال ضد سلالة بونديبوجيو من الإيبولا.",
+     "src_ar": "رويترز",
+     "en": "Uganda launches Africa's first clinical trial of an mRNA vaccine against the Bundibugyo strain of Ebola.",
+     "src_en": "Reuters"
     }
    ]
   },
@@ -58,27 +64,21 @@
    },
    "items": [
     {
-     "ar": "وول ستريت ترتفع بدعم أسهم الذكاء الاصطناعي، وناسداك يقفز 1.6%.",
-     "src_ar": "العربية بزنس",
-     "en": "Wall Street rises on AI stocks, with the Nasdaq jumping 1.6%.",
-     "src_en": "Al Arabiya Business"
+     "ar": "مبيعات لعبة GTA الجديدة تتجاوز 3.79 مليار دولار في يوم واحد.",
+     "src_ar": "الشرق بلومبرغ",
+     "en": "Sales of the new GTA game pass $3.79 billion in a single day.",
+     "src_en": "Asharq Bloomberg"
     },
     {
-     "ar": "سهم أنثروبيك يقفز أكثر من 9% ويتجاوز سعر الطرح البالغ 83 دولارا ليتداول عند 90 دولارا.",
-     "src_ar": "العربية بزنس",
-     "en": "Anthropic shares jump more than 9% above their $83 offering price to trade at $90.",
-     "src_en": "Al Arabiya Business"
-    },
-    {
-     "ar": "أدوبي أناليتكس: المستهلكون أنفقوا نحو 7.1 مليار دولار عبر الإنترنت في يوم عيد الشكر، بزيادة 10.4% عن العام الماضي.",
-     "src_ar": "سي إن بي سي عربية",
-     "en": "Adobe Analytics says consumers spent about $7.1 billion online on Thanksgiving Day, up 10.4% from last year.",
-     "src_en": "CNBC Arabia"
-    },
-    {
-     "ar": "علامات أزياء عالمية تنقل طلباتها من بنغلاديش إلى الهند وسط الاضطرابات، بحسب سبق لرويترز.",
+     "ar": "بي إيه إي سيستمز: قيمة طلبية أوروبية لمركبات قتالية تبلغ 6 مليارات دولار.",
      "src_ar": "رويترز",
-     "en": "Global fashion brands shift orders from Bangladesh to India amid unrest, in a Reuters exclusive.",
+     "en": "BAE Systems says a European combat vehicle order totals $6 billion.",
+     "src_en": "Reuters"
+    },
+    {
+     "ar": "بورصة دويتشه تحصل على موافقة الاتحاد الأوروبي لمكافحة الاحتكار للاستحواذ على ألفاندز.",
+     "src_ar": "رويترز",
+     "en": "Deutsche Boerse wins EU antitrust approval for its Allfunds acquisition.",
      "src_en": "Reuters"
     }
    ]
