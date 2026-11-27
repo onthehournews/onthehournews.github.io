@@ -1,11 +1,11 @@
 {
- "id": "2026-11-27T11:00",
+ "id": "2026-11-27T12:00",
  "date": {
   "ar": "الجمعة 27 نوفمبر 2026",
   "en": "Friday 27 November 2026"
  },
- "uae": "11:00 AM",
- "cairo": "9:00 AM",
+ "uae": "12:00 PM",
+ "cairo": "10:00 AM",
  "sections": [
   {
    "title": {
@@ -14,45 +14,33 @@
    },
    "items": [
     {
-     "ar": "الحرس الثوري الإيراني: مقاتلة أمريكية تراجعت بعد أن أطلق الدفاع الجوي نيرانا تحذيرية جنوب شرقي جزيرة هنغام.",
-     "src_ar": "الجزيرة",
-     "en": "Iran's Revolutionary Guard says a US fighter jet turned back after air defences fired warning shots southeast of Hengam island.",
-     "src_en": "Al Jazeera"
+     "ar": "حمدان بن محمد يشهد إعلان الدفعة الأولى من شركاء المنظومة الوطنية المتكاملة للذكاء الاصطناعي المساعد FedAI وعددهم 17 شريكا وطنيا وعالميا، ويقول إن 50% من القطاعات والخدمات والعمليات الحكومية ستعمل بالذكاء الاصطناعي خلال عامين.",
+     "src_ar": "وام والإمارات اليوم",
+     "en": "Sheikh Hamdan bin Mohammed attends the announcement of the first 17 national and international partners in the national agentic AI ecosystem FedAI, and says 50% of government sectors, services and operations will run on AI within two years.",
+     "src_en": "WAM and Emarat Al Youm"
     },
     {
-     "ar": "وزير خارجية كوريا الجنوبية لعراقجي: مهمتنا البحرية في خليج عُمان تهدف لحماية مصالحنا فقط. وعراقجي: وجود قوات عسكرية أجنبية في المنطقة سيزيد التوترات.",
-     "src_ar": "العربية",
-     "en": "South Korea's foreign minister tells Araghchi that its naval mission in the Gulf of Oman is only to protect its own interests, and Araghchi replies that foreign military forces in the region will raise tensions.",
-     "src_en": "Al Arabiya"
-    },
-    {
-     "ar": "جاريد كوشنر يصف بوتين بأنه \"شخصية تاريخية\" أظهر \"ضبط النفس\" بعدم استخدام الأسلحة النووية خلال الحرب في أوكرانيا المستمرة منذ نحو خمس سنوات.",
-     "src_ar": "الجزيرة",
-     "en": "Jared Kushner calls Putin a \"historic figure\" who showed \"restraint\" by not using nuclear weapons during the war in Ukraine, now almost five years old.",
-     "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "جهاز الأمن الفيدرالي الروسي: إحباط هجوم استهدف مسؤولا عسكريا رفيع المستوى في دونيتسك.",
-     "src_ar": "سكاي نيوز عربية",
-     "en": "Russia's Federal Security Service says it foiled an attack targeting a senior military official in Donetsk.",
-     "src_en": "Sky News Arabia"
-    },
-    {
-     "ar": "مكتب إعلام الأسرى: قوات الاحتلال اعتقلت 14 فلسطينيا خلال عمليات دهم في عدة مناطق بالضفة الغربية.",
-     "src_ar": "الجزيرة",
-     "en": "The Palestinian prisoners' media office says Israeli forces arrested 14 Palestinians in raids across several areas of the West Bank.",
-     "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "إسلام آباد تستضيف الاجتماع الثالث لاتفاقية مكة للدفاع المشترك بمشاركة وزراء الخارجية والدفاع في السعودية وتركيا وباكستان، وأردوغان يوافق رسميا على الاتفاقية.",
-     "src_ar": "الجزيرة ورويترز",
-     "en": "Islamabad hosts the third meeting under the Mecca joint defence agreement with foreign and defence ministers from Saudi Arabia, Turkey and Pakistan, and Erdogan formally approves the agreement.",
-     "src_en": "Al Jazeera and Reuters"
-    },
-    {
-     "ar": "المرشحون يجوبون تايوان في اليوم الأخير من حملة الانتخابات المحلية التي تتابعها الصين عن كثب.",
+     "ar": "رئيسة المفوضية الأوروبية: سعيدة بالدعم الواسع من قادة الاتحاد لمقترح قرض بقيمة 49 مليار دولار لأوكرانيا.",
      "src_ar": "رويترز",
-     "en": "Candidates fan out across Taiwan on the final day of campaigning for local elections that China will watch closely.",
+     "en": "European Commission President von der Leyen says she is pleased that EU leaders showed wide support for a proposed $49 billion loan for Ukraine.",
+     "src_en": "Reuters"
+    },
+    {
+     "ar": "وكالة تاس الروسية: إصابة شخص جراء هجوم بطائرة مسيرة على سان بطرسبرغ.",
+     "src_ar": "العربية نقلا عن تاس",
+     "en": "Russia's TASS: one person is injured in a drone attack on Saint Petersburg.",
+     "src_en": "Al Arabiya, citing TASS"
+    },
+    {
+     "ar": "المجلس النرويجي للاجئين: 23 مليون يمني بحاجة لمساعدات منقذة للحياة و18.3 مليونا يواجهون انعدام الأمن الغذائي، ونزح 321 ألفا منذ تصاعد القتال في أغسطس، وخطة الاستجابة لم تتلق سوى 23% من التمويل.",
+     "src_ar": "الجزيرة",
+     "en": "Norwegian Refugee Council: 23 million Yemenis need life-saving aid and 18.3 million face food insecurity, 321,000 have been displaced since fighting escalated in August, and the response plan is only 23% funded.",
+     "src_en": "Al Jazeera"
+    },
+    {
+     "ar": "مجلس الشيوخ الأرجنتيني يوافق على مشروع قانون يعلق الانتخابات التمهيدية، وهو إجراء قد يعزز فرص إعادة انتخاب الرئيس ميلي العام المقبل.",
+     "src_ar": "رويترز",
+     "en": "Argentina's Senate approves a bill suspending the country's primary elections, a move that could boost President Milei's chances of re-election next year.",
      "src_en": "Reuters"
     }
    ]
@@ -64,22 +52,34 @@
    },
    "items": [
     {
-     "ar": "الهند وأمريكا تقتربان من إتمام اتفاق تجاري طال انتظاره قد يجنب الصادرات الهندية رفع الرسوم الأمريكية إلى 25%، ووزير التجارة الهندي يقول إنه بات قريبا من الاكتمال.",
-     "src_ar": "CNBC عربية",
-     "en": "India and the US near a long-awaited trade deal that could spare Indian exports a rise in US tariffs to 25%, and India's commerce minister says it is close to completion.",
-     "src_en": "CNBC Arabia"
+     "ar": "تعاملات المستثمرين العرب والأجانب في سوق الدين الحكومي المصري الثانوي تسجل صافي بيع بقيمة 694.6 مليون دولار الأسبوع الماضي، منها 591.7 مليون دولار للأجانب و102.8 مليون للعرب.",
+     "src_ar": "العربية مصر",
+     "en": "Arab and foreign investors recorded net sales of $694.6 million in Egypt's secondary government debt market last week, including $591.7 million by foreigners and $102.8 million by Arabs.",
+     "src_en": "Al Arabiya Egypt"
     },
     {
-     "ar": "حصري: إدارة ترامب شجعت فنزويلا والعراق على التفكير في مغادرة أوبك هذا العام ومنعت فنزويلا من دفع رسوم عضويتها السنوية للمنظمة.",
-     "src_ar": "رويترز",
-     "en": "Exclusive: the Trump administration encouraged Venezuela and Iraq to consider leaving OPEC this year and prevented Venezuela from paying its annual membership dues to the group.",
-     "src_en": "Reuters"
+     "ar": "مصر تقترض 425 مليار جنيه من 4 بنوك عبر أداة تمويل جديدة: البنك المركزي باع وثائق خزانة لوزارة المالية لأجل 62 يوما بعائد 20.83%، أقل من أذون الخزانة لأجل عام.",
+     "src_ar": "الشرق بلومبرغ",
+     "en": "Egypt borrows 425 billion pounds from 4 banks through a new financing tool: the central bank sold treasury documents to the finance ministry for 62 days at 20.83%, below the yield on one-year treasury bills.",
+     "src_en": "Asharq Bloomberg"
     },
     {
-     "ar": "روسيا تمدد حظر تصدير وقود الطائرات حتى نهاية مارس المقبل.",
-     "src_ar": "سكاي نيوز عربية",
-     "en": "Russia extends its jet fuel export ban until the end of next March.",
-     "src_en": "Sky News Arabia"
+     "ar": "المؤشر نيكي الياباني يرتفع 2.11% ويغلق عند 58711.11 نقطة مسجلا مكاسب أسبوعية مع اقتناص المستثمرين أسهم الذكاء الاصطناعي المتضررة.",
+     "src_ar": "العربية بزنس",
+     "en": "Japan's Nikkei rises 2.11% to close at 58,711.11 for a weekly gain, as investors snap up AI stocks that had been hit.",
+     "src_en": "Al Arabiya Business"
+    },
+    {
+     "ar": "الصادرات الصينية تتجه لتجاوز 4 تريليونات دولار في 2026، بزيادة متوقعة نحو 86% عن 2019 رغم الرسوم الأمريكية والضغوط التجارية.",
+     "src_ar": "العربية بزنس",
+     "en": "Chinese exports are on track to exceed $4 trillion in 2026, up an expected 86% from 2019 despite US tariffs and trade pressure.",
+     "src_en": "Al Arabiya Business"
+    },
+    {
+     "ar": "الغلاء يلتهم موائد الإيرانيين: التضخم في الريف يتجاوز 107% مع تراجع الأجور.",
+     "src_ar": "العربية بزنس",
+     "en": "Rising prices hit Iranian tables: rural inflation tops 107% as wages fall.",
+     "src_en": "Al Arabiya Business"
     }
    ]
   }
