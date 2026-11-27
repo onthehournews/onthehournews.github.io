@@ -1,11 +1,11 @@
 {
- "id": "2026-11-27T19:00",
+ "id": "2026-11-27T20:00",
  "date": {
   "ar": "الجمعة 27 نوفمبر 2026",
   "en": "Friday 27 November 2026"
  },
- "uae": "7:00 PM",
- "cairo": "5:00 PM",
+ "uae": "8:00 PM",
+ "cairo": "6:00 PM",
  "sections": [
   {
    "title": {
@@ -14,34 +14,34 @@
    },
    "items": [
     {
-     "ar": "قائد القوات البحرية للحرس الثوري الإيراني: ساعة الصفر لكسر الحصار البحري باتت قريبة.",
+     "ar": "مستشار المرشد الإيراني مجتبى خامنئي: لن نفتح مضيق هرمز ولن نسمح باستمرار الحصار.",
+     "src_ar": "العربية والجزيرة",
+     "en": "An adviser to Iran's supreme leader Mojtaba Khamenei says Iran will not open the Strait of Hormuz and will not allow the blockade to continue.",
+     "src_en": "Al Arabiya and Al Jazeera"
+    },
+    {
+     "ar": "خروج إحدى عربات القطار رقم 935 VIP عن القضبان في محطة أولاد عمرو بقنا خلال رحلته من الأقصر إلى القاهرة، دون إصابات.",
      "src_ar": "العربية",
-     "en": "The commander of Iran's Revolutionary Guard navy says the zero hour to break the naval blockade is near.",
+     "en": "One carriage of VIP train 935 derails at Awlad Amr station in Qena on its way from Luxor to Cairo, with no injuries.",
      "src_en": "Al Arabiya"
     },
     {
-     "ar": "الخارجية الكويتية تستدعي السفير الإيراني وتسلمه مذكرة احتجاج على استمرار الهجمات الإيرانية، وآخرها هجوم بالمسيرات أمس.",
+     "ar": "الرئيس اللبناني: اقترحنا استمرار اليونيفيل في مهامها خلال فترة الانسحاب حتى التوافق على قوة بديلة لتفادي الفراغ.",
      "src_ar": "العربية وسكاي نيوز عربية",
-     "en": "Kuwait's foreign ministry summons Iran's ambassador and hands him a protest note over continued Iranian attacks, the latest a drone attack yesterday.",
+     "en": "Lebanon's president says Lebanon proposed that UNIFIL continue its tasks during the withdrawal period until a replacement force is agreed, to avoid a vacuum.",
      "src_en": "Al Arabiya and Sky News Arabia"
     },
     {
-     "ar": "المنظمة البحرية الدولية: نحو 300 سفينة وقرابة 6 آلاف بحار عالقون في مضيق هرمز منذ بدء الحرب، ولا مخرج قريبا من الأزمة.",
-     "src_ar": "العربية",
-     "en": "The International Maritime Organization says about 300 ships and nearly 6,000 seafarers have been stuck in the Strait of Hormuz since the war began, and it sees no early way out of the crisis.",
-     "src_en": "Al Arabiya"
-    },
-    {
-     "ar": "مقتل شخص وإصابة آخرين في غارة إسرائيلية استهدفت مركبة في جباليا النزلة شمالي قطاع غزة.",
+     "ar": "وزير الخارجية الأوكراني: كييف قدمت لحلفائها مقترحا لوقف إطلاق النار في البحر الأسود بهدف تسهيل صادرات المواد الغذائية.",
      "src_ar": "سكاي نيوز عربية",
-     "en": "One person is killed and several wounded in an Israeli strike on a vehicle in Jabalia al-Nazla, northern Gaza.",
+     "en": "Ukraine's foreign minister says Kyiv has presented its allies with a proposal for a Black Sea ceasefire to ease food exports.",
      "src_en": "Sky News Arabia"
     },
     {
-     "ar": "السلطات اليمنية في تعز: مقتل 11 مدنيا وإصابة آخرين في قصف للحوثيين على مدينة التربة.",
-     "src_ar": "الجزيرة",
-     "en": "Yemeni government authorities in Taiz say 11 civilians were killed and others wounded in Houthi shelling of the city of al-Turba.",
-     "src_en": "Al Jazeera"
+     "ar": "المحكمة العليا في كندا تؤيد حظر كيبيك الرموز الدينية على موظفي القطاع العام.",
+     "src_ar": "رويترز",
+     "en": "Canada's Supreme Court upholds Quebec's ban on religious symbols for public servants.",
+     "src_en": "Reuters"
     }
    ]
   },
@@ -52,28 +52,22 @@
    },
    "items": [
     {
-     "ar": "الذهب يخسر نحو 9% في أسبوع، وأسوأ أداء أسبوعي منذ مارس، والأونصة قرب 3500 دولار.",
+     "ar": "خسائر أسبوعية بقيمة 103 مليارات جنيه لأسهم بورصة مصر.",
      "src_ar": "العربية بزنس",
-     "en": "Gold loses about 9% in a week, its worst weekly performance since March, with the ounce near $3,500.",
+     "en": "Egypt's stock exchange shares lose 103 billion pounds in value over the week.",
      "src_en": "Al Arabiya Business"
     },
     {
-     "ar": "العجز التجاري الأميركي في السلع يتسع إلى 149.5 مليار دولار في أكتوبر، بزيادة 10.7% عن الشهر السابق، وهي رابع زيادة شهرية متتالية.",
+     "ar": "شركة نورس أتلانتيك تتقدم بطلب إفلاس وتوقف رحلاتها مع تأثر شركات الطيران بحرب إيران.",
+     "src_ar": "رويترز",
+     "en": "Norse Atlantic files for bankruptcy and halts flights as the Iran war hits airlines.",
+     "src_en": "Reuters"
+    },
+    {
+     "ar": "صناديق البيتكوين تسجل سحوبات تتجاوز 5 مليارات دولار في نوفمبر.",
      "src_ar": "سي إن بي سي عربية",
-     "en": "The US goods trade deficit widens to $149.5 billion in October, up 10.7% from the previous month, the fourth monthly increase in a row.",
+     "en": "Bitcoin funds record outflows of more than $5 billion in November.",
      "src_en": "CNBC Arabia"
-    },
-    {
-     "ar": "تركيا تجدد عقد استيراد الغاز الطبيعي من إيران خمس سنوات إضافية حتى 2032، مع إبقاء الكمية ومعادلة التسعير.",
-     "src_ar": "الجزيرة",
-     "en": "Turkey renews its natural gas import contract with Iran for five more years until 2032, keeping the volume and pricing formula unchanged.",
-     "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "البرلمان الألماني يقر ميزانية 2027 البالغة 556 مليار يورو، مع زيادة في الإنفاق الدفاعي واستثمارات ضخمة.",
-     "src_ar": "العربية بزنس",
-     "en": "Germany's parliament passes the 2027 budget of 556 billion euros, with higher defence spending and large investments.",
-     "src_en": "Al Arabiya Business"
     }
    ]
   },
@@ -84,10 +78,10 @@
    },
    "items": [
     {
-     "ar": "بايرن ميونيخ يعلن غياب جمال موسيالا بسبب إصابة في فخذه الأيمن.",
-     "src_ar": "بي إن سبورتس",
-     "en": "Bayern Munich announce Jamal Musiala will be out with a right thigh injury.",
-     "src_en": "beIN Sports"
+     "ar": "اختراق سيبراني يستهدف الفيفا.",
+     "src_ar": "الجزيرة",
+     "en": "A cyberattack targets FIFA.",
+     "src_en": "Al Jazeera"
     }
    ]
   }
