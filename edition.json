@@ -1,11 +1,11 @@
 {
- "id": "2026-11-27T04:00",
+ "id": "2026-11-27T05:00",
  "date": {
   "ar": "الجمعة 27 نوفمبر 2026",
   "en": "Friday 27 November 2026"
  },
- "uae": "4:00 AM",
- "cairo": "2:00 AM",
+ "uae": "5:00 AM",
+ "cairo": "3:00 AM",
  "sections": [
   {
    "title": {
@@ -14,40 +14,40 @@
    },
    "items": [
     {
-     "ar": "المتحدث باسم مجلس الوزراء المصري: شاحنات نقل المواد البترولية تنفذ أكثر من 4 آلاف رحلة يوميا في أنحاء الجمهورية، ومن شبه المستحيل تحديد حركتها من منتصف الليل حتى السادسة صباحا.",
+     "ar": "مصلحة الطب الشرعي المصرية تنتهي من أخذ عينات الحمض النووي من أسر ضحايا حريق ناقلة المواد البترولية في الوراق لتحديد هوية الجثامين، ومن المقرر تسليم الجثامين مجهولة الهوية إلى ذويها اليوم لدفنها.",
      "src_ar": "العربية مصر",
-     "en": "Egypt's cabinet spokesman: petroleum tanker trucks make more than 4,000 trips a day across the country, and it is nearly impossible to track their movements between midnight and 6 AM.",
+     "en": "Egypt's Forensic Medicine Authority finishes taking DNA samples from the families of the Warraq petroleum tanker fire victims to identify the bodies, and unidentified bodies are due to be handed to their families today for burial.",
      "src_en": "Al Arabiya Egypt"
     },
     {
-     "ar": "ترامب: أطلقنا 150 صاروخا لمنع الصواريخ والمسيرات الإيرانية من استهداف سفن تجارية في مضيق هرمز، وقواتنا ستواصل انتشارها في الشرق الأوسط.",
-     "src_ar": "سكاي نيوز عربية والجزيرة",
-     "en": "Trump: we fired 150 missiles to stop Iranian missiles and drones from targeting commercial ships in the Strait of Hormuz, and our forces will keep deploying in the Middle East.",
-     "src_en": "Sky News Arabia and Al Jazeera"
+     "ar": "أكسيوس: ترامب أبلغ نتنياهو أنه يحاول منح الإيرانيين فرصة للتصرف بذكاء، وقال إنه إذا أقدمت إيران على أي خطوة فسيستهدف الجيش الأمريكي جبل الفأس.",
+     "src_ar": "أكسيوس عبر الجزيرة وسكاي نيوز عربية",
+     "en": "Axios: Trump told Netanyahu he is trying to give the Iranians a chance to be smart, and said that if Iran makes any move the US will target Pickaxe Mountain.",
+     "src_en": "Axios via Al Jazeera and Sky News Arabia"
     },
     {
-     "ar": "ترامب: قواتنا الجوية دمرت قدرات إيران على تخصيب اليورانيوم، ولم تتمكن أي سفينة من اختراق الحصار المفروض عليها.",
-     "src_ar": "الجزيرة والعربية",
-     "en": "Trump: our air force destroyed Iran's uranium enrichment capabilities, and no ship has managed to break the blockade on Iran.",
-     "src_en": "Al Jazeera and Al Arabiya"
+     "ar": "غلف نيوز: إسرائيل تلمح إلى استعدادها لضرب إيران منفردة، فيما تحث واشنطن نتنياهو على التحول من استراتيجيات الحرب إلى الدبلوماسية الاقتصادية.",
+     "src_ar": "غلف نيوز",
+     "en": "Gulf News: Israel signals readiness to strike Iran alone, while Washington urges Netanyahu to shift from wartime strategies to economic diplomacy.",
+     "src_en": "Gulf News"
     },
     {
-     "ar": "ترامب: صواريخ إيران يمكنها الوصول إلى أوروبا لكنها لا تستطيع الوصول إلى أمريكا، ولا نحتاج إلى نفط الشرق الأوسط بل إلى السلام فيه.",
-     "src_ar": "الجزيرة والعربية",
-     "en": "Trump: Iran's missiles can reach Europe but not America, and we do not need Middle East oil, we need peace there.",
-     "src_en": "Al Jazeera and Al Arabiya"
+     "ar": "القمة الأوروبية في بروكسل تنتهي بعد 15 ساعة دون اتفاق على ميزانية الاتحاد، ورئيس المجلس الأوروبي يقول إن مقترح دعم إضافي لأوكرانيا لم يحظ بإجماع. وأوربان: المحادثات تستأنف في ديسمبر وفرص التسوية ضئيلة.",
+     "src_ar": "العربية والجزيرة",
+     "en": "The EU summit in Brussels ends after 15 hours with no deal on the bloc's budget, and the European Council president says a proposal for extra support for Ukraine lacked consensus. Hungary's prime minister says talks resume in December and the chances of a compromise look slim.",
+     "src_en": "Al Arabiya and Al Jazeera"
     },
     {
-     "ar": "عراقجي: إسرائيل تروج لأكاذيب ومزاعم متكررة بشأن الصواريخ والأسلحة الكيميائية بهدف خلق أجواء حرب وجر الولايات المتحدة إلى مواجهة جديدة مع إيران.",
-     "src_ar": "الجزيرة",
-     "en": "Araghchi: Israel is spreading repeated lies and claims about missiles and chemical weapons to create a war atmosphere and drag the United States into a new confrontation with Iran.",
-     "src_en": "Al Jazeera"
+     "ar": "جيش لاتفيا يصدر إنذارا بسبب تهديد في المجال الجوي في منطقة لودزا شرقي البلاد.",
+     "src_ar": "الجزيرة والعربية وسكاي نيوز عربية",
+     "en": "Latvia's army issues a warning over an airspace threat in the Ludza area in the east of the country.",
+     "src_en": "Al Jazeera, Al Arabiya and Sky News Arabia"
     },
     {
-     "ar": "ترامب: بإمكان بوتين حضور قمة مجموعة العشرين إذا أراد ذلك.",
-     "src_ar": "سكاي نيوز عربية",
-     "en": "Trump: Putin can attend the G20 summit if he wants to.",
-     "src_en": "Sky News Arabia"
+     "ar": "عاصفة في الولايات المتحدة: انقطاع الكهرباء عن أكثر من 730 ألف شخص، وتأخير نحو 2100 رحلة جوية وإلغاء أكثر من 400.",
+     "src_ar": "العربية نقلا عن إعلام أميركي",
+     "en": "US storm: power cut to more than 730,000 people, with about 2,100 flights delayed and more than 400 cancelled.",
+     "src_en": "Al Arabiya, citing US media"
     }
    ]
   },
@@ -58,15 +58,21 @@
    },
    "items": [
     {
-     "ar": "العقود الآجلة لمؤشر ستاندرد آند بورز 500 ترتفع 0.7% وناسداك 100 بنسبة 0.6%، مع اتجاه وول ستريت لإنهاء أسبوع متقلب على مكاسب قوية.",
-     "src_ar": "CNBC عربية",
-     "en": "S&P 500 futures rise 0.7% and Nasdaq 100 futures 0.6%, as Wall Street heads for a strong finish to a volatile week.",
-     "src_en": "CNBC Arabia"
+     "ar": "شركة سابّ الألمانية تدرس خفض ما لا يقل عن 10 آلاف وظيفة ضمن إعادة هيكلة مرتبطة بالذكاء الاصطناعي، بحسب بلومبرغ.",
+     "src_ar": "رويترز",
+     "en": "Germany's SAP is considering at least 10,000 job cuts as part of an AI restructuring, Bloomberg reports.",
+     "src_en": "Reuters"
     },
     {
-     "ar": "تركيا بحاجة إلى إعادة هيكلة هيئاتها التنظيمية المالية بعد فضيحة صناديق استثمارية، وفق خمسة مصرفيين ومسؤول كبير سابق.",
+     "ar": "التضخم يتصاعد في اليابان: مؤشر أسعار المنتجين للخدمات يقفز 4.2% على أساس سنوي في أكتوبر، أكبر زيادة سنوية منذ 1990 وأعلى من توقعات عند 3.6%.",
+     "src_ar": "كوبيسي ليتر",
+     "en": "Inflation is intensifying in Japan: the services producer price index jumps 4.2% year on year in October, the largest annual rise since 1990 and above expectations of 3.6%.",
+     "src_en": "Kobeissi Letter"
+    },
+    {
+     "ar": "بينانس ترفع تعليق السحب بعد عملية اختراق بقيمة 6.3 مليار دولار.",
      "src_ar": "رويترز",
-     "en": "Turkey needs to restructure its financial regulators after a funds scandal, according to five bankers and a former senior official.",
+     "en": "Binance lifts its withdrawal suspension after a $6.3 billion crypto heist.",
      "src_en": "Reuters"
     }
    ]
@@ -78,9 +84,9 @@
    },
    "items": [
     {
-     "ar": "الدوري الأوروبي: بورنموث يقلب تأخره ويفوز 2-1 على سيلتا فيجو، وميلان يتفوق 4-2 على أولمبياكوس، وفيكتوريا بلزن يسحق بنفيكا 4-0.",
+     "ar": "منتخب غانا لبتر الأطراف يستقبل بالمواكب في أكرا بعد فوزه بأول كأس عالم لكرة القدم لبتر الأطراف، إثر الفوز 1-0 على المغرب في النهائي بالمكسيك.",
      "src_ar": "رويترز",
-     "en": "Europa League: Bournemouth come from behind to beat Celta Vigo 2-1, Milan beat Olympiacos 4-2, and Viktoria Plzen thrash Benfica 4-0.",
+     "en": "Ghana's amputee football team is paraded through Accra with its first Amputee Football World Cup trophy, four days after beating Morocco 1-0 in the final in Mexico.",
      "src_en": "Reuters"
     }
    ]
