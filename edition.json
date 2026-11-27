@@ -1,11 +1,11 @@
 {
- "id": "2026-11-27T10:00",
+ "id": "2026-11-27T11:00",
  "date": {
   "ar": "الجمعة 27 نوفمبر 2026",
   "en": "Friday 27 November 2026"
  },
- "uae": "10:00 AM",
- "cairo": "8:00 AM",
+ "uae": "11:00 AM",
+ "cairo": "9:00 AM",
  "sections": [
   {
    "title": {
@@ -14,22 +14,46 @@
    },
    "items": [
     {
-     "ar": "روسيا: قصفنا سفينة أوكرانية كانت تحمل شحنة عسكرية في البحر الأسود.",
-     "src_ar": "وزارة الدفاع الروسية عبر العربية وسكاي نيوز عربية",
-     "en": "Russia says it struck a Ukrainian ship carrying military cargo in the Black Sea.",
-     "src_en": "Russian defence ministry via Al Arabiya and Sky News Arabia"
-    },
-    {
-     "ar": "الصين تجري تدريبا لإنزال برمائي يمتد أسابيع في المقاطعة المقابلة لتايوان، ويختبر طريقة جديدة لإنزال القوات بربط سفن مدنية في جسر عائم مؤقت، بحسب صور أقمار صناعية وتقرير بحثي.",
-     "src_ar": "رويترز",
-     "en": "China is staging a weeks-long amphibious landing drill in the province facing Taiwan, testing a new way to land troops by linking civilian vessels into a makeshift floating bridge, satellite images and a research report show.",
-     "src_en": "Reuters"
-    },
-    {
-     "ar": "ترامب: سلاح الجو الأمريكي نفذ أكثر من 2000 طلعة جوية على مدى أكثر من 12 ألف ساعة في الشرق الأوسط.",
+     "ar": "الحرس الثوري الإيراني: مقاتلة أمريكية تراجعت بعد أن أطلق الدفاع الجوي نيرانا تحذيرية جنوب شرقي جزيرة هنغام.",
      "src_ar": "الجزيرة",
-     "en": "Trump says the US Air Force has flown more than 2,000 sorties over more than 12,000 hours in the Middle East.",
+     "en": "Iran's Revolutionary Guard says a US fighter jet turned back after air defences fired warning shots southeast of Hengam island.",
      "src_en": "Al Jazeera"
+    },
+    {
+     "ar": "وزير خارجية كوريا الجنوبية لعراقجي: مهمتنا البحرية في خليج عُمان تهدف لحماية مصالحنا فقط. وعراقجي: وجود قوات عسكرية أجنبية في المنطقة سيزيد التوترات.",
+     "src_ar": "العربية",
+     "en": "South Korea's foreign minister tells Araghchi that its naval mission in the Gulf of Oman is only to protect its own interests, and Araghchi replies that foreign military forces in the region will raise tensions.",
+     "src_en": "Al Arabiya"
+    },
+    {
+     "ar": "جاريد كوشنر يصف بوتين بأنه \"شخصية تاريخية\" أظهر \"ضبط النفس\" بعدم استخدام الأسلحة النووية خلال الحرب في أوكرانيا المستمرة منذ نحو خمس سنوات.",
+     "src_ar": "الجزيرة",
+     "en": "Jared Kushner calls Putin a \"historic figure\" who showed \"restraint\" by not using nuclear weapons during the war in Ukraine, now almost five years old.",
+     "src_en": "Al Jazeera"
+    },
+    {
+     "ar": "جهاز الأمن الفيدرالي الروسي: إحباط هجوم استهدف مسؤولا عسكريا رفيع المستوى في دونيتسك.",
+     "src_ar": "سكاي نيوز عربية",
+     "en": "Russia's Federal Security Service says it foiled an attack targeting a senior military official in Donetsk.",
+     "src_en": "Sky News Arabia"
+    },
+    {
+     "ar": "مكتب إعلام الأسرى: قوات الاحتلال اعتقلت 14 فلسطينيا خلال عمليات دهم في عدة مناطق بالضفة الغربية.",
+     "src_ar": "الجزيرة",
+     "en": "The Palestinian prisoners' media office says Israeli forces arrested 14 Palestinians in raids across several areas of the West Bank.",
+     "src_en": "Al Jazeera"
+    },
+    {
+     "ar": "إسلام آباد تستضيف الاجتماع الثالث لاتفاقية مكة للدفاع المشترك بمشاركة وزراء الخارجية والدفاع في السعودية وتركيا وباكستان، وأردوغان يوافق رسميا على الاتفاقية.",
+     "src_ar": "الجزيرة ورويترز",
+     "en": "Islamabad hosts the third meeting under the Mecca joint defence agreement with foreign and defence ministers from Saudi Arabia, Turkey and Pakistan, and Erdogan formally approves the agreement.",
+     "src_en": "Al Jazeera and Reuters"
+    },
+    {
+     "ar": "المرشحون يجوبون تايوان في اليوم الأخير من حملة الانتخابات المحلية التي تتابعها الصين عن كثب.",
+     "src_ar": "رويترز",
+     "en": "Candidates fan out across Taiwan on the final day of campaigning for local elections that China will watch closely.",
+     "src_en": "Reuters"
     }
    ]
   },
@@ -40,34 +64,22 @@
    },
    "items": [
     {
-     "ar": "محمد بن راشد يعلن ترسية عقود جديدة بقيمة 56.5 مليار درهم ضمن مشروع تطوير مطار آل مكتوم الدولي، لترتفع القيمة الإجمالية للعقود إلى أكثر من 80 مليار درهم.",
+     "ar": "الهند وأمريكا تقتربان من إتمام اتفاق تجاري طال انتظاره قد يجنب الصادرات الهندية رفع الرسوم الأمريكية إلى 25%، ووزير التجارة الهندي يقول إنه بات قريبا من الاكتمال.",
      "src_ar": "CNBC عربية",
-     "en": "Sheikh Mohammed bin Rashid announces new contracts worth AED 56.5 billion for the Al Maktoum International Airport development, bringing total awarded contracts to more than AED 80 billion.",
+     "en": "India and the US near a long-awaited trade deal that could spare Indian exports a rise in US tariffs to 25%, and India's commerce minister says it is close to completion.",
      "src_en": "CNBC Arabia"
     },
     {
-     "ar": "مصرف أبوظبي الإسلامي يصدر صكوكا دائمة من الشق الأول لرأس المال بقيمة 500 مليون دولار بمعدل ربح 7%، وطلبات الاكتتاب تجاوزت حجم الإصدار أكثر من ثلاث مرات.",
-     "src_ar": "CNBC عربية",
-     "en": "Abu Dhabi Islamic Bank issues $500 million of perpetual Additional Tier 1 sukuk at a 7% profit rate, with orders more than three times the size of the issue.",
-     "src_en": "CNBC Arabia"
-    },
-    {
-     "ar": "صندوق النقد الدولي يتوقع انكماش اقتصاد قطر 14.5% في 2026.",
-     "src_ar": "CNBC عربية",
-     "en": "The IMF expects Qatar's economy to contract 14.5% in 2026.",
-     "src_en": "CNBC Arabia"
-    },
-    {
-     "ar": "فنزويلا تسعى للحصول على قروض مرحلية من وزارة الخزانة الأمريكية وقطر، كل على حدة، لتسوية متأخرات مستحقة لبنكين إقليميين للتنمية، بحسب أربعة مصادر.",
+     "ar": "حصري: إدارة ترامب شجعت فنزويلا والعراق على التفكير في مغادرة أوبك هذا العام ومنعت فنزويلا من دفع رسوم عضويتها السنوية للمنظمة.",
      "src_ar": "رويترز",
-     "en": "Venezuela is seeking bridge loans from the US Treasury and from Qatar, separately, to clear arrears owed to two regional development banks, according to four sources.",
+     "en": "Exclusive: the Trump administration encouraged Venezuela and Iraq to consider leaving OPEC this year and prevented Venezuela from paying its annual membership dues to the group.",
      "src_en": "Reuters"
     },
     {
-     "ar": "سبيس إكس تحصل على الموافقة لإطلاق مليون قمر اصطناعي.",
-     "src_ar": "الإمارات اليوم",
-     "en": "SpaceX gets approval to launch one million satellites.",
-     "src_en": "Emarat Al Youm"
+     "ar": "روسيا تمدد حظر تصدير وقود الطائرات حتى نهاية مارس المقبل.",
+     "src_ar": "سكاي نيوز عربية",
+     "en": "Russia extends its jet fuel export ban until the end of next March.",
+     "src_en": "Sky News Arabia"
     }
    ]
   }
