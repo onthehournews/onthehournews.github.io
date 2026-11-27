@@ -1,11 +1,11 @@
 {
- "id": "2026-11-28T01:00",
+ "id": "2026-11-28T02:00",
  "date": {
   "ar": "السبت 28 نوفمبر 2026",
   "en": "Saturday 28 November 2026"
  },
- "uae": "1:00 AM",
- "cairo": "11:00 PM",
+ "uae": "2:00 AM",
+ "cairo": "12:00 AM",
  "sections": [
   {
    "title": {
@@ -14,28 +14,22 @@
    },
    "items": [
     {
-     "ar": "وزارة التضامن الاجتماعي المصرية: إجمالي التبرعات المقدمة لدعم أسر ضحايا ومصابي حادث الوراق تجاوز 360 مليون جنيه.",
+     "ar": "أسرة أحد مصابي حادث حريق الناقلة في الوراق بالجيزة تعلن وفاته متأثرا بإصابته.",
      "src_ar": "العربية مصر",
-     "en": "Egypt's Ministry of Social Solidarity says donations to support the families of those killed and injured in the Warraq crash have passed 360 million pounds.",
+     "en": "The family of one of the injured in the Warraq tanker fire in Giza says he has died of his injuries.",
      "src_en": "Al Arabiya Egypt"
     },
     {
-     "ar": "هيئة السكك الحديدية المصرية: عودة حركة القطارات على خط نجع حمادي - الأقصر بالسرعة المقررة بعد رفع العربة التي خرجت عن القضبان في القطار رقم 935.",
-     "src_ar": "العربية مصر",
-     "en": "Egypt's national railway authority says trains are running again at normal speed on the Nag Hammadi-Luxor line after the derailed carriage of train 935 was lifted.",
-     "src_en": "Al Arabiya Egypt"
-    },
-    {
-     "ar": "جيروزاليم بوست عن مصادر: نتنياهو يدرس إعلان استعداده لتولي رئاسة الوزراء بعد آيزنكوت ضمن حكومة وحدة وطنية، وقد يعلن موقفه خلال عطلة نهاية الأسبوع.",
+     "ar": "وزير الخارجية الأميركي الأسبق مايك بومبيو يقول إنه يفكر بجدية في الترشح لانتخابات الرئاسة عام 2028.",
      "src_ar": "الجزيرة",
-     "en": "The Jerusalem Post, citing sources, reports that Netanyahu is considering announcing he is ready to serve as prime minister after Eisenkot within a national unity government, and may declare his position over the weekend.",
+     "en": "Former US Secretary of State Mike Pompeo says he is seriously considering a run for president in 2028.",
      "src_en": "Al Jazeera"
     },
     {
-     "ar": "مصدر أمني لسكاي نيوز عربية: مقتل وإصابة العشرات من الجنود في هجوم لتنظيم داعش استهدف ثكنة عسكرية جنوب غربي النيجر.",
-     "src_ar": "سكاي نيوز عربية",
-     "en": "A security source tells Sky News Arabia that dozens of soldiers were killed or wounded in an ISIS attack on a military barracks in southwestern Niger.",
-     "src_en": "Sky News Arabia"
+     "ar": "رويترز: مقطع متداول لاجتماع نتنياهو ورئيس الوزراء التشيكي بابيش في القدس يرافقه وصف مضلل يزعم أن بابيش رفض مصافحته.",
+     "src_ar": "رويترز",
+     "en": "Reuters fact check: a video of Netanyahu's November meeting with Czech Prime Minister Babis in Jerusalem is circulating with a misleading claim that Babis refused to shake his hand.",
+     "src_en": "Reuters"
     }
    ]
   },
@@ -46,28 +40,16 @@
    },
    "items": [
     {
-     "ar": "الصين والبرازيل تتصدران جبهة الرفض الدولية للرسوم الجمركية الأميركية الجديدة التي تستهدف 14 شريكا تجاريا.",
-     "src_ar": "الجزيرة",
-     "en": "China and Brazil lead international opposition to the new US tariffs targeting 14 trading partners.",
-     "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "سعر الذهب يقفز نحو 2% ليبلغ 3653 دولارا للأونصة.",
-     "src_ar": "الجزيرة",
-     "en": "Gold jumps about 2% to $3,653 an ounce.",
-     "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "ورثة جورجيو أرماني يدرسون شراء جزء صغير من حصة 15% المعروضة للبيع وفق وصية المؤسس، بحسب مصدرين لرويترز.",
-     "src_ar": "رويترز",
-     "en": "Giorgio Armani's heirs are weighing buying a small part of the 15% stake put up for sale under the founder's will, two sources tell Reuters.",
-     "src_en": "Reuters"
-    },
-    {
-     "ar": "وزير الخزانة الأميركي بيسنت يحذر من أن المبالغة في رفع الفائدة قد تتحول إلى خطأ نقدي يهدد الاقتصاد.",
+     "ar": "واردات الصين من الذهب بلغت 209 مليارات دولار خلال أول 10 أشهر من 2026.",
      "src_ar": "العربية بزنس",
-     "en": "US Treasury Secretary Bessent warns that raising interest rates too far could become a monetary mistake that threatens the economy.",
+     "en": "China's gold imports reached $209 billion in the first 10 months of 2026.",
      "src_en": "Al Arabiya Business"
+    },
+    {
+     "ar": "توقعات اقتصادية: إنفاق موسم الأعياد في أميركا قد يتجاوز أرقام العام الماضي بنحو 4 إلى 6%، لكن التوقعات الإيجابية تخفي مؤشرات ضغط اقتصادي.",
+     "src_ar": "رويترز",
+     "en": "Economic forecasts say US holiday-season spending could top last year's strong figures by 4 to 6%, though the upbeat outlook hides signs of economic strain.",
+     "src_en": "Reuters"
     }
    ]
   },
@@ -78,10 +60,28 @@
    },
    "items": [
     {
-     "ar": "مصدر من الاتحاد السكندري لفيلجول: سنرفض لعب المباراة يوم الإثنين وسنطلب تأجيلها أسبوعا كاملا.",
+     "ar": "اتحاد السلة المصري يعلن تعديل موعد المباراة الفاصلة في نهائي دوري المرتبط بين الأهلي والاتحاد السكندري.",
      "src_ar": "فيلجول",
-     "en": "A source at Ittihad Alexandria tells FilGoal the club will refuse to play the game on Monday and will ask for a one-week postponement.",
+     "en": "Egypt's basketball federation announces a change to the date of the deciding game in the league final between Al Ahly and Ittihad Alexandria.",
      "src_en": "FilGoal"
+    },
+    {
+     "ar": "نوتنغهام فورست يفوز على تشيلسي 3-2 في الدوري الإنجليزي، وهي الخسارة الثالثة على التوالي للبلوز في الدوري.",
+     "src_ar": "بي إن سبورتس",
+     "en": "Nottingham Forest beat Chelsea 3-2 in the Premier League, Chelsea's third straight league defeat.",
+     "src_en": "beIN Sports"
+    },
+    {
+     "ar": "إيطاليا حاملة اللقب تحجز أول بطاقة إلى نهائي كأس ديفيس بفوزها على التشيك 2-1.",
+     "src_ar": "بي إن سبورتس",
+     "en": "Holders Italy book the first place in the Davis Cup final with a 2-1 win over Czechia.",
+     "src_en": "beIN Sports"
+    },
+    {
+     "ar": "المنتخب الجزائري يتأهل إلى دور الـ32 من كأس العالم للناشئين تحت 17 عاما في قطر في إنجاز تاريخي.",
+     "src_ar": "بي إن سبورتس",
+     "en": "Algeria's under-17 team reaches the round of 32 at the U-17 World Cup in Qatar, a historic first.",
+     "src_en": "beIN Sports"
     }
    ]
   }
