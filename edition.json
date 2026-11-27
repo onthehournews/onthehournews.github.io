@@ -1,11 +1,11 @@
 {
- "id": "2026-11-27T07:00",
+ "id": "2026-11-27T08:00",
  "date": {
   "ar": "الجمعة 27 نوفمبر 2026",
   "en": "Friday 27 November 2026"
  },
- "uae": "7:00 AM",
- "cairo": "5:00 AM",
+ "uae": "8:00 AM",
+ "cairo": "6:00 AM",
  "sections": [
   {
    "title": {
@@ -14,34 +14,46 @@
    },
    "items": [
     {
-     "ar": "روسيا تنفي عزمها نشر أسلحة نووية في الفضاء، والخارجية الروسية: أنشطتنا في الفضاء لأغراض سلمية حصرا.",
+     "ar": "أستراليا تفرض عقوبات لمكافحة تمويل الإرهاب على شخصين تقول إنهما مسؤولان عن هجمات معادية للسامية في البلاد بتحريض من الحرس الثوري الإيراني.",
+     "src_ar": "رويترز وسكاي نيوز عربية والعربية",
+     "en": "Australia imposes counter-terrorism financing sanctions on two people it says are responsible for antisemitic attacks in the country at the instigation of Iran's Revolutionary Guard.",
+     "src_en": "Reuters, Sky News Arabia and Al Arabiya"
+    },
+    {
+     "ar": "الاستخبارات العسكرية الأوكرانية: كوريا الشمالية أوقفت مؤقتا بعض أوجه التعاون العسكري مع روسيا، بما في ذلك توريد صواريخ باليستية من طراز كيه إن 23، بعد توترات دبلوماسية بين البلدين.",
+     "src_ar": "رويترز",
+     "en": "Ukrainian military intelligence says North Korea has temporarily halted some military cooperation with Russia, including supplies of KN-23 ballistic missiles, after diplomatic tensions between the two allies.",
+     "src_en": "Reuters"
+    },
+    {
+     "ar": "مسؤول روسي: تدريبات الناتو قرب حدودنا جزء من استعدادات الحلف لمهاجمة كالينينغراد، ودول الناتو تشارك في الهجمات على السفن الروسية في بحر البلطيق، والعالم يقترب من حرب نووية، بحسب نيوزويك.",
      "src_ar": "العربية",
-     "en": "Russia denies it intends to deploy nuclear weapons in space, and the Russian foreign ministry says its space activities are exclusively peaceful.",
+     "en": "A Russian official says NATO drills near Russia's borders are part of the alliance's preparations to attack Kaliningrad, that NATO states take part in attacks on Russian ships in the Baltic, and that the world is nearing nuclear war, Newsweek reports.",
      "src_en": "Al Arabiya"
     },
     {
-     "ar": "ترامب، ردا على سؤال عن أساس جزمه بأن رئيس إنفيديا لا يشكل تهديدا أمنيا رغم قول وزارة العدل إنها لم تجر تحقيقا بشأنه: قناعتي تستند إلى معلومات كثيرة بحوزتي.",
+     "ar": "مصادر طبية فلسطينية: استشهاد 7 فلسطينيين وإصابة آخرين في غارات إسرائيلية على مناطق متفرقة من قطاع غزة.",
      "src_ar": "الجزيرة",
-     "en": "Trump, asked on what basis he says Nvidia's chief executive is no security threat when the Justice Department says it has not investigated him: my belief rests on a lot of information I have.",
+     "en": "Palestinian medical sources say 7 Palestinians were killed and others wounded in Israeli air strikes on various areas of the Gaza Strip.",
      "src_en": "Al Jazeera"
     },
     {
-     "ar": "غلف نيوز: بناء إيران السريع لمجمع محصن تحت الأرض قرب مواقعها النووية يثير تساؤلات حول طموحاتها العسكرية والنووية.",
-     "src_ar": "غلف نيوز",
-     "en": "Gulf News: Iran's rapid construction of a fortified underground complex near its nuclear sites raises questions about its military and nuclear ambitions.",
-     "src_en": "Gulf News"
+     "ar": "الكنيست الإسرائيلي يقر في قراءة تمهيدية مشروعا يمنع المتهمين بجرائم تنطوي على وصمة عار من تشكيل حكومة.",
+     "src_ar": "الجزيرة",
+     "en": "Israel's Knesset passes in a preliminary reading a bill that bars people charged with crimes involving moral turpitude from forming a government.",
+     "src_en": "Al Jazeera"
     },
     {
-     "ar": "خبير ألماني من معهد DIW: على ألمانيا أن تستعد لعامين صعبين آخرين مع ترامب.",
-     "src_ar": "رويترز",
-     "en": "A German economist from the DIW institute says Germany must prepare for two more difficult years with Trump.",
-     "src_en": "Reuters"
+     "ar": "الصين: على الاتحاد الأوروبي توخي الحذر إذا قرر فرض أي قيود تجارية.",
+     "src_ar": "العربية",
+     "en": "China: the European Union should be careful if it decides to impose any trade restrictions.",
+     "src_en": "Al Arabiya"
     },
     {
-     "ar": "الرئيس الفلبيني السابق رودريغو دوتيرتي يبدأ محاكمته أمام المحكمة الجنائية الدولية في 30 نوفمبر بتهم ارتكاب جرائم ضد الإنسانية خلال حملة مكافحة المخدرات.",
-     "src_ar": "رويترز",
-     "en": "Former Philippine president Rodrigo Duterte goes on trial at the International Criminal Court on November 30 for alleged crimes against humanity during his anti-drug campaign.",
-     "src_en": "Reuters"
+     "ar": "فوكس نيوز: نحو مليون أمريكي بلا كهرباء بسبب عواصف في مختلف أنحاء الولايات المتحدة.",
+     "src_ar": "الجزيرة والعربية",
+     "en": "Fox News: nearly one million Americans are without power because of storms across the United States.",
+     "src_en": "Al Jazeera and Al Arabiya"
     }
    ]
   },
@@ -52,41 +64,21 @@
    },
    "items": [
     {
-     "ar": "العقود الآجلة لناسداك 100 تقفز 2.5% مع زخم ارتفاع عيد الشكر، ومؤشر ستاندرد آند بورز 500 يتجه للافتتاح قرب 7300 نقطة.",
+     "ar": "الدولار قرب أعلى مستوياته في 22 شهرا وسط ترقب أسهم الذكاء الاصطناعي، ومؤشر الدولار عند 103.81 نقطة.",
+     "src_ar": "CNBC عربية",
+     "en": "The dollar is near its highest in 22 months as markets watch AI stocks, with the dollar index at 103.81.",
+     "src_en": "CNBC Arabia"
+    },
+    {
+     "ar": "الذهب يقفز فوق 3600 دولار للأونصة والفضة ترتفع أكثر من 5% مع عودة المشترين عند الانخفاض.",
      "src_ar": "كوبيسي ليتر",
-     "en": "Nasdaq 100 futures surge 2.5% as the Thanksgiving rally gains momentum, and the S&P 500 is on track to open near 7,300.",
+     "en": "Gold surges above $3,600 an ounce and silver rises more than 5% as dip buyers return.",
      "src_en": "Kobeissi Letter"
     },
     {
-     "ar": "التضخم الأساسي في طوكيو يبلغ أعلى مستوى في 16 شهرا، ما يعزز احتمال رفع بنك اليابان للفائدة.",
+     "ar": "أسهم جابان توباكو ترتفع وسط حديث عن مشاركتها المحتملة في استحواذ على إمبريال براندز.",
      "src_ar": "رويترز",
-     "en": "Core inflation in Tokyo hits a 16-month high, strengthening the case for a Bank of Japan rate hike.",
-     "src_en": "Reuters"
-    },
-    {
-     "ar": "البرلمان الأسترالي يقر خطة حجز الغاز التي تلزم مصدّري الغاز الطبيعي المسال بتخصيص ما يصل إلى 20% من إنتاجهم للسوق المحلية اعتبارا من 2028.",
-     "src_ar": "رويترز",
-     "en": "Australia's parliament passes the gas reservation scheme, requiring LNG exporters to set aside up to 20% of their output for the domestic market from 2028.",
-     "src_en": "Reuters"
-    },
-    {
-     "ar": "يتوقع ألا تمنع أسعار الوقود المرتفعة والتضخم العنيد المتسوقين الأمريكيين من الإنفاق بقوة في الجمعة السوداء، رغم مؤشرات ضغط تحت التوقعات القوية.",
-     "src_ar": "رويترز",
-     "en": "High fuel prices and stubborn inflation are not expected to stop US shoppers spending robustly on Black Friday, though signs of strain lie under the strong forecasts.",
-     "src_en": "Reuters"
-    }
-   ]
-  },
-  {
-   "title": {
-    "ar": "رياضة",
-    "en": "Sport"
-   },
-   "items": [
-    {
-     "ar": "الهند تفوز بالقرعة وتختار الميدان في الاختبار الثاني أمام نيوزيلندا.",
-     "src_ar": "رويترز",
-     "en": "India win the toss and elect to field in the second test against New Zealand.",
+     "en": "Japan Tobacco shares climb on talk that it may be part of a takeover of Imperial Brands.",
      "src_en": "Reuters"
     }
    ]
