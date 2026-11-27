@@ -1,11 +1,11 @@
 {
- "id": "2026-11-28T02:00",
+ "id": "2026-11-28T03:00",
  "date": {
   "ar": "السبت 28 نوفمبر 2026",
   "en": "Saturday 28 November 2026"
  },
- "uae": "2:00 AM",
- "cairo": "12:00 AM",
+ "uae": "3:00 AM",
+ "cairo": "1:00 AM",
  "sections": [
   {
    "title": {
@@ -14,21 +14,33 @@
    },
    "items": [
     {
-     "ar": "أسرة أحد مصابي حادث حريق الناقلة في الوراق بالجيزة تعلن وفاته متأثرا بإصابته.",
-     "src_ar": "العربية مصر",
-     "en": "The family of one of the injured in the Warraq tanker fire in Giza says he has died of his injuries.",
-     "src_en": "Al Arabiya Egypt"
+     "ar": "مصدر رفيع لسكاي نيوز عربية: الاتفاق المرتقب في ليبيا يقضي بدمج حكومتي الشرق والغرب في سلطة واحدة وإعادة تشكيل المجلس الرئاسي برئاسة صدام حفتر، وتوقيعه مرهون بعدم عرقلة الترتيبات أو حدوث تدخلات خارجية.",
+     "src_ar": "سكاي نيوز عربية",
+     "en": "A senior source tells Sky News Arabia that the expected agreement in Libya would merge the eastern and western governments into one authority and reconstitute the Presidential Council under Saddam Haftar, and that signing depends on no obstruction or outside interference.",
+     "src_en": "Sky News Arabia"
     },
     {
-     "ar": "وزير الخارجية الأميركي الأسبق مايك بومبيو يقول إنه يفكر بجدية في الترشح لانتخابات الرئاسة عام 2028.",
-     "src_ar": "الجزيرة",
-     "en": "Former US Secretary of State Mike Pompeo says he is seriously considering a run for president in 2028.",
-     "src_en": "Al Jazeera"
+     "ar": "مصدر رفيع لسكاي نيوز عربية: أردوغان يدعو الفريق حفتر لحضور القمة التركية الإفريقية في 8 ديسمبر.",
+     "src_ar": "سكاي نيوز عربية",
+     "en": "A senior source tells Sky News Arabia that Erdogan has invited General Haftar to the Turkey-Africa summit on December 8.",
+     "src_en": "Sky News Arabia"
     },
     {
-     "ar": "رويترز: مقطع متداول لاجتماع نتنياهو ورئيس الوزراء التشيكي بابيش في القدس يرافقه وصف مضلل يزعم أن بابيش رفض مصافحته.",
+     "ar": "بلومبرغ: ميلوني أجرت مكالمة هاتفية غاضبة مع زيلينسكي بسبب الهجوم على سفينتين قبالة ليبيا.",
+     "src_ar": "العربية",
+     "en": "Bloomberg reports that Meloni had an angry phone call with Zelensky over the attack on two ships off Libya.",
+     "src_en": "Al Arabiya"
+    },
+    {
+     "ar": "التحالف: اعتراض طائرة مسيرة أطلقتها ميليشيا الحوثي باتجاه الرياض.",
+     "src_ar": "العربية",
+     "en": "The coalition says it intercepted a drone launched by the Houthi militia toward Riyadh.",
+     "src_en": "Al Arabiya"
+    },
+    {
+     "ar": "غرق سفينة شحن قبالة كوبا ومقتل شخص وفقدان ثلاثة، بحسب رويترز.",
      "src_ar": "رويترز",
-     "en": "Reuters fact check: a video of Netanyahu's November meeting with Czech Prime Minister Babis in Jerusalem is circulating with a misleading claim that Babis refused to shake his hand.",
+     "en": "A cargo ship sinks off Cuba, leaving one person dead and three missing, Reuters reports.",
      "src_en": "Reuters"
     }
    ]
@@ -40,15 +52,21 @@
    },
    "items": [
     {
-     "ar": "واردات الصين من الذهب بلغت 209 مليارات دولار خلال أول 10 أشهر من 2026.",
-     "src_ar": "العربية بزنس",
-     "en": "China's gold imports reached $209 billion in the first 10 months of 2026.",
-     "src_en": "Al Arabiya Business"
+     "ar": "وزير النفط العراقي يعلن إعادة تشغيل الأنبوب النفطي العراقي التركي بعد توقف 12 عاما بطاقة 300 ألف برميل يوميا، ويفتتح محطة الضخ IT1.",
+     "src_ar": "سي إن بي سي عربية",
+     "en": "Iraq's oil minister announces the Iraq-Turkey oil pipeline has restarted after a 12-year halt, at 300,000 barrels a day, and opens the IT1 pumping station.",
+     "src_en": "CNBC Arabia"
     },
     {
-     "ar": "توقعات اقتصادية: إنفاق موسم الأعياد في أميركا قد يتجاوز أرقام العام الماضي بنحو 4 إلى 6%، لكن التوقعات الإيجابية تخفي مؤشرات ضغط اقتصادي.",
+     "ar": "فايننشال تايمز: فيريزون تجري محادثات بشأن صفقة بقيمة 6 مليارات دولار تخص فيديوم.",
      "src_ar": "رويترز",
-     "en": "Economic forecasts say US holiday-season spending could top last year's strong figures by 4 to 6%, though the upbeat outlook hides signs of economic strain.",
+     "en": "Verizon is in talks over a $6 billion deal for Fidium, the Financial Times reports.",
+     "src_en": "Reuters"
+    },
+    {
+     "ar": "الأسواق البرازيلية ترتفع بعد اختيار لولا رئيس مجلس إدارة براديسكو لتولي المالية.",
+     "src_ar": "رويترز",
+     "en": "Brazilian markets rally after Lula taps the chairman of Bradesco to lead finance.",
      "src_en": "Reuters"
     }
    ]
@@ -60,27 +78,9 @@
    },
    "items": [
     {
-     "ar": "اتحاد السلة المصري يعلن تعديل موعد المباراة الفاصلة في نهائي دوري المرتبط بين الأهلي والاتحاد السكندري.",
-     "src_ar": "فيلجول",
-     "en": "Egypt's basketball federation announces a change to the date of the deciding game in the league final between Al Ahly and Ittihad Alexandria.",
-     "src_en": "FilGoal"
-    },
-    {
-     "ar": "نوتنغهام فورست يفوز على تشيلسي 3-2 في الدوري الإنجليزي، وهي الخسارة الثالثة على التوالي للبلوز في الدوري.",
+     "ar": "الأهلي طرابلس الليبي يفتتح مشواره في مجموعات كأس الاتحاد الإفريقي بفوز 2-1 خارج الديار على عزام التنزاني.",
      "src_ar": "بي إن سبورتس",
-     "en": "Nottingham Forest beat Chelsea 3-2 in the Premier League, Chelsea's third straight league defeat.",
-     "src_en": "beIN Sports"
-    },
-    {
-     "ar": "إيطاليا حاملة اللقب تحجز أول بطاقة إلى نهائي كأس ديفيس بفوزها على التشيك 2-1.",
-     "src_ar": "بي إن سبورتس",
-     "en": "Holders Italy book the first place in the Davis Cup final with a 2-1 win over Czechia.",
-     "src_en": "beIN Sports"
-    },
-    {
-     "ar": "المنتخب الجزائري يتأهل إلى دور الـ32 من كأس العالم للناشئين تحت 17 عاما في قطر في إنجاز تاريخي.",
-     "src_ar": "بي إن سبورتس",
-     "en": "Algeria's under-17 team reaches the round of 32 at the U-17 World Cup in Qatar, a historic first.",
+     "en": "Libya's Al Ahly Tripoli open their African Confederation Cup group stage with a 2-1 away win over Tanzania's Azam.",
      "src_en": "beIN Sports"
     }
    ]
