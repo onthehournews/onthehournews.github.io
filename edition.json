@@ -1,11 +1,11 @@
 {
- "id": "2026-11-27T05:00",
+ "id": "2026-11-27T06:00",
  "date": {
   "ar": "الجمعة 27 نوفمبر 2026",
   "en": "Friday 27 November 2026"
  },
- "uae": "5:00 AM",
- "cairo": "3:00 AM",
+ "uae": "6:00 AM",
+ "cairo": "4:00 AM",
  "sections": [
   {
    "title": {
@@ -14,34 +14,28 @@
    },
    "items": [
     {
-     "ar": "مصلحة الطب الشرعي المصرية تنتهي من أخذ عينات الحمض النووي من أسر ضحايا حريق ناقلة المواد البترولية في الوراق لتحديد هوية الجثامين، ومن المقرر تسليم الجثامين مجهولة الهوية إلى ذويها اليوم لدفنها.",
-     "src_ar": "العربية مصر",
-     "en": "Egypt's Forensic Medicine Authority finishes taking DNA samples from the families of the Warraq petroleum tanker fire victims to identify the bodies, and unidentified bodies are due to be handed to their families today for burial.",
-     "src_en": "Al Arabiya Egypt"
+     "ar": "المستشار الألماني ميرتس: قادة الاتحاد الأوروبي يسعون إلى اتفاق على الميزانية قبل نهاية العام، فيما يقول رئيس الوزراء الهولندي إنهم لم يحرزوا تقدما في النقاش حول الميزانية طويلة الأجل.",
+     "src_ar": "رويترز",
+     "en": "German Chancellor Merz says EU leaders aim for a budget deal before the end of the year, while the Dutch prime minister says they made no progress in talks on the bloc's long-term budget.",
+     "src_en": "Reuters"
     },
     {
-     "ar": "أكسيوس: ترامب أبلغ نتنياهو أنه يحاول منح الإيرانيين فرصة للتصرف بذكاء، وقال إنه إذا أقدمت إيران على أي خطوة فسيستهدف الجيش الأمريكي جبل الفأس.",
-     "src_ar": "أكسيوس عبر الجزيرة وسكاي نيوز عربية",
-     "en": "Axios: Trump told Netanyahu he is trying to give the Iranians a chance to be smart, and said that if Iran makes any move the US will target Pickaxe Mountain.",
-     "src_en": "Axios via Al Jazeera and Sky News Arabia"
+     "ar": "يهود حريديم يغلقون مدخلا خلفيا لمطار بن غوريون احتجاجا على اعتقال متهربين من التجنيد، والشرطة الإسرائيلية تفرقهم بالقوة.",
+     "src_ar": "الجزيرة",
+     "en": "Ultra-Orthodox Jews block a back entrance to Ben Gurion Airport in protest at the arrest of draft evaders, and Israeli police disperse them by force.",
+     "src_en": "Al Jazeera"
     },
     {
-     "ar": "غلف نيوز: إسرائيل تلمح إلى استعدادها لضرب إيران منفردة، فيما تحث واشنطن نتنياهو على التحول من استراتيجيات الحرب إلى الدبلوماسية الاقتصادية.",
-     "src_ar": "غلف نيوز",
-     "en": "Gulf News: Israel signals readiness to strike Iran alone, while Washington urges Netanyahu to shift from wartime strategies to economic diplomacy.",
-     "src_en": "Gulf News"
+     "ar": "حكم أممي: فصل 9 موظفين فلسطينيين من الأونروا استند إلى حد كبير إلى اتهامات إسرائيلية غير مثبتة، مع تشكيك في الأدلة المقدمة ضدهم.",
+     "src_ar": "الجزيرة",
+     "en": "A UN ruling finds the dismissal of 9 Palestinian UNRWA staff rested largely on unproven Israeli allegations, and questions the evidence presented against them.",
+     "src_en": "Al Jazeera"
     },
     {
-     "ar": "القمة الأوروبية في بروكسل تنتهي بعد 15 ساعة دون اتفاق على ميزانية الاتحاد، ورئيس المجلس الأوروبي يقول إن مقترح دعم إضافي لأوكرانيا لم يحظ بإجماع. وأوربان: المحادثات تستأنف في ديسمبر وفرص التسوية ضئيلة.",
-     "src_ar": "العربية والجزيرة",
-     "en": "The EU summit in Brussels ends after 15 hours with no deal on the bloc's budget, and the European Council president says a proposal for extra support for Ukraine lacked consensus. Hungary's prime minister says talks resume in December and the chances of a compromise look slim.",
-     "src_en": "Al Arabiya and Al Jazeera"
-    },
-    {
-     "ar": "جيش لاتفيا يصدر إنذارا بسبب تهديد في المجال الجوي في منطقة لودزا شرقي البلاد.",
-     "src_ar": "الجزيرة والعربية وسكاي نيوز عربية",
-     "en": "Latvia's army issues a warning over an airspace threat in the Ludza area in the east of the country.",
-     "src_en": "Al Jazeera, Al Arabiya and Sky News Arabia"
+     "ar": "نيوزيلندا: الائتلاف الحاكم يفقد أغلبيته البرلمانية مع صدور نتائج الانتخابات.",
+     "src_ar": "العربية",
+     "en": "New Zealand: the ruling coalition loses its parliamentary majority as election results come in.",
+     "src_en": "Al Arabiya"
     }
    ]
   },
@@ -52,24 +46,28 @@
    },
    "items": [
     {
-     "ar": "التضخم يتصاعد في اليابان: مؤشر أسعار المنتجين للخدمات يقفز 4.2% على أساس سنوي في أكتوبر، أكبر زيادة سنوية منذ 1990 وأعلى من توقعات عند 3.6%.",
-     "src_ar": "كوبيسي ليتر",
-     "en": "Inflation is intensifying in Japan: the services producer price index jumps 4.2% year on year in October, the largest annual rise since 1990 and above expectations of 3.6%.",
-     "src_en": "Kobeissi Letter"
-    }
-   ]
-  },
-  {
-   "title": {
-    "ar": "رياضة",
-    "en": "Sport"
-   },
-   "items": [
-    {
-     "ar": "منتخب غانا لبتر الأطراف يستقبل بالمواكب في أكرا بعد فوزه بأول كأس عالم لكرة القدم لبتر الأطراف، إثر الفوز 1-0 على المغرب في النهائي بالمكسيك.",
+     "ar": "بنك إنجلترا يرى مخاطر مالية متزايدة مع ارتفاع الاقتراض المرتبط بالذكاء الاصطناعي.",
      "src_ar": "رويترز",
-     "en": "Ghana's amputee football team is paraded through Accra with its first Amputee Football World Cup trophy, four days after beating Morocco 1-0 in the final in Mexico.",
+     "en": "The Bank of England sees growing financial risks as AI-related borrowing surges.",
      "src_en": "Reuters"
+    },
+    {
+     "ar": "شركة جيرا اليابانية تدخل في محادثات مع أنثروبيك وميتا لبناء مراكز بيانات، بحسب نيكاي.",
+     "src_ar": "رويترز",
+     "en": "Japan's JERA enters talks with Anthropic and Meta to build data centres, Nikkei reports.",
+     "src_en": "Reuters"
+    },
+    {
+     "ar": "وزارة الدفاع البولندية توقع اتفاقا مع بالانتير يوم الجمعة.",
+     "src_ar": "رويترز",
+     "en": "Poland's defence ministry is to sign an agreement with Palantir on Friday.",
+     "src_en": "Reuters"
+    },
+    {
+     "ar": "أسعار الذهب مستقرة عند نحو 3567.3 دولار للأونصة.",
+     "src_ar": "العربية",
+     "en": "Gold prices hold steady at about $3,567.3 an ounce.",
+     "src_en": "Al Arabiya"
     }
    ]
   }
