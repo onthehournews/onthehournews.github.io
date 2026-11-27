@@ -1,11 +1,11 @@
 {
- "id": "2026-11-27T12:00",
+ "id": "2026-11-27T13:00",
  "date": {
   "ar": "الجمعة 27 نوفمبر 2026",
   "en": "Friday 27 November 2026"
  },
- "uae": "12:00 PM",
- "cairo": "10:00 AM",
+ "uae": "1:00 PM",
+ "cairo": "11:00 AM",
  "sections": [
   {
    "title": {
@@ -14,33 +14,45 @@
    },
    "items": [
     {
-     "ar": "حمدان بن محمد يشهد إعلان الدفعة الأولى من شركاء المنظومة الوطنية المتكاملة للذكاء الاصطناعي المساعد FedAI وعددهم 17 شريكا وطنيا وعالميا، ويقول إن 50% من القطاعات والخدمات والعمليات الحكومية ستعمل بالذكاء الاصطناعي خلال عامين.",
-     "src_ar": "وام والإمارات اليوم",
-     "en": "Sheikh Hamdan bin Mohammed attends the announcement of the first 17 national and international partners in the national agentic AI ecosystem FedAI, and says 50% of government sectors, services and operations will run on AI within two years.",
-     "src_en": "WAM and Emarat Al Youm"
-    },
-    {
-     "ar": "رئيسة المفوضية الأوروبية: سعيدة بالدعم الواسع من قادة الاتحاد لمقترح قرض بقيمة 49 مليار دولار لأوكرانيا.",
-     "src_ar": "رويترز",
-     "en": "European Commission President von der Leyen says she is pleased that EU leaders showed wide support for a proposed $49 billion loan for Ukraine.",
-     "src_en": "Reuters"
-    },
-    {
-     "ar": "وكالة تاس الروسية: إصابة شخص جراء هجوم بطائرة مسيرة على سان بطرسبرغ.",
-     "src_ar": "العربية نقلا عن تاس",
-     "en": "Russia's TASS: one person is injured in a drone attack on Saint Petersburg.",
-     "src_en": "Al Arabiya, citing TASS"
-    },
-    {
-     "ar": "المجلس النرويجي للاجئين: 23 مليون يمني بحاجة لمساعدات منقذة للحياة و18.3 مليونا يواجهون انعدام الأمن الغذائي، ونزح 321 ألفا منذ تصاعد القتال في أغسطس، وخطة الاستجابة لم تتلق سوى 23% من التمويل.",
+     "ar": "قائد البحرية الإيرانية: الجيش الأمريكي سرق ناقلتي نفط إيرانيتين، لكن قوات الكوماندوز البحرية استعادتهما.",
      "src_ar": "الجزيرة",
-     "en": "Norwegian Refugee Council: 23 million Yemenis need life-saving aid and 18.3 million face food insecurity, 321,000 have been displaced since fighting escalated in August, and the response plan is only 23% funded.",
+     "en": "Commander of Iran's navy says the US military seized two Iranian oil tankers but naval commandos took them back.",
      "src_en": "Al Jazeera"
     },
     {
-     "ar": "مجلس الشيوخ الأرجنتيني يوافق على مشروع قانون يعلق الانتخابات التمهيدية، وهو إجراء قد يعزز فرص إعادة انتخاب الرئيس ميلي العام المقبل.",
+     "ar": "مراسلة العربية: 3 غارات إسرائيلية تستهدف قرية كفرتبنيت جنوبي لبنان، والوكالة الوطنية للإعلام تتحدث عن غارة على بلدة القنطرة.",
+     "src_ar": "العربية وسكاي نيوز عربية",
+     "en": "Al Arabiya's correspondent reports 3 Israeli strikes on the village of Kafr Tebnit in south Lebanon, and Lebanon's National News Agency reports a strike on the town of Qantara.",
+     "src_en": "Al Arabiya and Sky News Arabia"
+    },
+    {
+     "ar": "تقرير لمنظمة حقوقية إسرائيلية يكشف عن ممارسات تعذيب ممنهجة لانتزاع اعترافات من معتقلين فلسطينيين، وسط غياب المساءلة عن أكثر من 1680 شكوى ضد محققين إسرائيليين.",
+     "src_ar": "الجزيرة",
+     "en": "A report by an Israeli rights group reveals systematic torture to extract confessions from Palestinian detainees, with no accountability for more than 1,680 complaints against Israeli interrogators.",
+     "src_en": "Al Jazeera"
+    },
+    {
+     "ar": "روسيا تمدد حظر تصدير وقود الطائرات حتى 31 مارس 2027 بدلا من 30 نوفمبر، على أن يبدأ القرار الجديد في الأول من ديسمبر.",
+     "src_ar": "سي إن بي سي عربية",
+     "en": "Russia extends its jet fuel export ban to 31 March 2027, instead of ending on 30 November, with the new decision taking effect on 1 December.",
+     "src_en": "CNBC Arabia"
+    },
+    {
+     "ar": "طيران الاتحاد تلغي جميع رحلاتها بين أبوظبي والرياض والدمام حتى 31 ديسمبر، وفلاي دبي تشغل رحلات الدمام بجدول مخفض وتلغي رحلات الرياض وأبها حتى 30 ديسمبر.",
+     "src_ar": "جلف نيوز والإمارات اليوم",
+     "en": "Etihad cancels all flights between Abu Dhabi and Riyadh and Dammam until 31 December, while flydubai runs Dammam flights on a reduced schedule and cancels Riyadh and Abha flights until 30 December.",
+     "src_en": "Gulf News and Emarat Al Youm"
+    },
+    {
+     "ar": "وزارة العمل البريطانية تعلق بعض خدماتها عبر الإنترنت كإجراء احترازي بعد رصد هجوم سيبراني يستهدفها.",
+     "src_ar": "سكاي نيوز عربية",
+     "en": "Britain's labour ministry suspends some of its online services as a precaution after detecting a cyberattack targeting it.",
+     "src_en": "Sky News Arabia"
+    },
+    {
+     "ar": "مسؤولون يقولون لرويترز إن الحركة الطلابية في صربيا قد لا تشكل حكومة قبل العام الجديد، ما يزيد خطر عدم إقرار الموازنة في موعدها.",
      "src_ar": "رويترز",
-     "en": "Argentina's Senate approves a bill suspending the country's primary elections, a move that could boost President Milei's chances of re-election next year.",
+     "en": "Serbian officials say the student-led movement may not form a government until the new year, raising the risk that the budget will not pass on time.",
      "src_en": "Reuters"
     }
    ]
@@ -52,34 +64,22 @@
    },
    "items": [
     {
-     "ar": "تعاملات المستثمرين العرب والأجانب في سوق الدين الحكومي المصري الثانوي تسجل صافي بيع بقيمة 694.6 مليون دولار الأسبوع الماضي، منها 591.7 مليون دولار للأجانب و102.8 مليون للعرب.",
-     "src_ar": "العربية مصر",
-     "en": "Arab and foreign investors recorded net sales of $694.6 million in Egypt's secondary government debt market last week, including $591.7 million by foreigners and $102.8 million by Arabs.",
-     "src_en": "Al Arabiya Egypt"
+     "ar": "الاقتصاد الفرنسي ينكمش 0.2% في الربع الثالث بحسب البيانات النهائية، وهو أكبر من التقدير الأولي البالغ 0.1% وأسوأ من توقعات المحللين.",
+     "src_ar": "رويترز والعربية بزنس",
+     "en": "France's economy shrank 0.2% in the third quarter according to final data, more than the initial 0.1% estimate and worse than analysts expected.",
+     "src_en": "Reuters and Al Arabiya Business"
     },
     {
-     "ar": "مصر تقترض 425 مليار جنيه من 4 بنوك عبر أداة تمويل جديدة: البنك المركزي باع وثائق خزانة لوزارة المالية لأجل 62 يوما بعائد 20.83%، أقل من أذون الخزانة لأجل عام.",
-     "src_ar": "الشرق بلومبرغ",
-     "en": "Egypt borrows 425 billion pounds from 4 banks through a new financing tool: the central bank sold treasury documents to the finance ministry for 62 days at 20.83%, below the yield on one-year treasury bills.",
-     "src_en": "Asharq Bloomberg"
+     "ar": "وزارة المالية الإماراتية تصدر أول سندات خزينة رقمية للحكومة الاتحادية بقيمة 180 مليون درهم، في خطوة لتطوير سوق الدين المحلي.",
+     "src_ar": "وام",
+     "en": "The UAE Ministry of Finance issues the federal government's first digital treasury bonds, worth 180 million dirhams, a step to develop the local debt market.",
+     "src_en": "WAM"
     },
     {
-     "ar": "المؤشر نيكي الياباني يرتفع 2.11% ويغلق عند 58711.11 نقطة مسجلا مكاسب أسبوعية مع اقتناص المستثمرين أسهم الذكاء الاصطناعي المتضررة.",
-     "src_ar": "العربية بزنس",
-     "en": "Japan's Nikkei rises 2.11% to close at 58,711.11 for a weekly gain, as investors snap up AI stocks that had been hit.",
-     "src_en": "Al Arabiya Business"
-    },
-    {
-     "ar": "الصادرات الصينية تتجه لتجاوز 4 تريليونات دولار في 2026، بزيادة متوقعة نحو 86% عن 2019 رغم الرسوم الأمريكية والضغوط التجارية.",
-     "src_ar": "العربية بزنس",
-     "en": "Chinese exports are on track to exceed $4 trillion in 2026, up an expected 86% from 2019 despite US tariffs and trade pressure.",
-     "src_en": "Al Arabiya Business"
-    },
-    {
-     "ar": "الغلاء يلتهم موائد الإيرانيين: التضخم في الريف يتجاوز 107% مع تراجع الأجور.",
-     "src_ar": "العربية بزنس",
-     "en": "Rising prices hit Iranian tables: rural inflation tops 107% as wages fall.",
-     "src_en": "Al Arabiya Business"
+     "ar": "إير آسيا تبلغ موظفيها بتأجيل دفع الرواتب إلى نهاية كل شهر من نوفمبر حتى مارس للحفاظ على السيولة، بحسب رسالة داخلية اطلعت عليها رويترز.",
+     "src_ar": "رويترز",
+     "en": "AirAsia tells employees it will delay salary payments to the end of each month from November through March to conserve cash, according to an internal email seen by Reuters.",
+     "src_en": "Reuters"
     }
    ]
   }
