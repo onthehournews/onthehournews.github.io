@@ -1,11 +1,11 @@
 {
- "id": "2026-11-27T17:00",
+ "id": "2026-11-27T18:00",
  "date": {
   "ar": "الجمعة 27 نوفمبر 2026",
   "en": "Friday 27 November 2026"
  },
- "uae": "5:00 PM",
- "cairo": "3:00 PM",
+ "uae": "6:00 PM",
+ "cairo": "4:00 PM",
  "sections": [
   {
    "title": {
@@ -14,46 +14,40 @@
    },
    "items": [
     {
-     "ar": "حماس: ادعاءات الجيش الإسرائيلي باستخدام المستشفى الأهلي المعمداني مركزا للتحقيق أكاذيب لا أساس لها، وتأتي ضمن حملة لتبرير استهداف المستشفيات في غزة.",
+     "ar": "وزارة الصحة المصرية: تحديد هوية 27 من ضحايا حادث الدائري في الوراق بنتائج تحاليل البصمة الوراثية، وجار استصدار تصاريح الدفن بالتنسيق مع النيابة العامة.",
+     "src_ar": "العربية مصر",
+     "en": "Egypt's Health Ministry says 27 of the victims of the Warraq ring road accident have been identified through DNA tests, and burial permits are being issued in coordination with the public prosecution.",
+     "src_en": "Al Arabiya Egypt"
+    },
+    {
+     "ar": "لجنة الأمن القومي بالبرلمان الإيراني: أي مقترح من الوسطاء لا يتوافق مع شروطنا مرفوض.",
+     "src_ar": "العربية",
+     "en": "Iran's parliamentary national security committee says any proposal from mediators that does not meet Tehran's conditions is rejected.",
+     "src_en": "Al Arabiya"
+    },
+    {
+     "ar": "عميد في استخبارات قوات الدعم السريع في وسط دارفور يعلن انشقاقه واستعداده للقتال مع الجيش السوداني، ويتهم أسرة دقلو باستغلال القبائل لخدمة مصالحها.",
+     "src_ar": "العربية",
+     "en": "A brigadier general in the Rapid Support Forces' intelligence in Central Darfur announces his defection and readiness to fight alongside the Sudanese army, accusing the Dagalo family of exploiting tribes to serve its interests.",
+     "src_en": "Al Arabiya"
+    },
+    {
+     "ar": "أوكرانيا: مقتل شخصين وإصابة 17 في هجمات روسية، واعتراض 110 مسيرات من أصل 155 أطلقتها موسكو.",
      "src_ar": "الجزيرة",
-     "en": "Hamas says the Israeli military's claims that the Al-Ahli Baptist Hospital was used as an interrogation centre are baseless lies, part of a campaign to justify targeting hospitals in Gaza.",
+     "en": "Ukraine says Russian attacks killed two people and injured 17, and that 110 of 155 drones launched by Moscow were intercepted.",
      "src_en": "Al Jazeera"
     },
     {
-     "ar": "الأمم المتحدة تحث كوستاريكا على إعادة النظر في قرار منع المقررة الأممية الخاصة فرانشيسكا ألبانيزي من دخول البلاد، بعدما بررت الهجرة القرار بتحذير دولي بشأن صلات لها بأعمال إرهابية.",
+     "ar": "الأمم المتحدة تتوقع تراجع نمو التجارة البحرية العالمية إلى صفر هذا العام بسبب اضطرابات الملاحة، وتحذر من شبه توقف تدفق النفط والغاز عبر مضيق هرمز.",
      "src_ar": "الجزيرة",
-     "en": "The UN urges Costa Rica to reconsider barring UN special rapporteur Francesca Albanese from entering the country, after immigration authorities cited an international warning about alleged links to terrorist acts.",
+     "en": "The UN expects global maritime trade growth to fall to zero this year because of shipping disruption, and warns of a near halt in oil and gas flows through the Strait of Hormuz.",
      "src_en": "Al Jazeera"
     },
     {
-     "ar": "رويترز: إصلاح ثغرة في موقع هيئة الانتخابات الهندية كانت تكشف بيانات الناخبين، بعد أن أبلغت رويترز عن نتائجها.",
+     "ar": "مفوضية الأمم المتحدة للاجئين: نحو نصف مراكز إيواء النساء والفتيات النازحات واللاجئات في أكثر من 10 دول أغلقت أبوابها منذ بداية العام الماضي بسبب خفض التمويل.",
      "src_ar": "رويترز",
-     "en": "Reuters exclusive: a flaw on the Indian Election Commission's website that exposed voter data has been fixed after Reuters flagged its findings.",
+     "en": "The UN refugee agency says nearly half of the shelters for displaced and refugee women and girls in more than 10 countries have closed since the start of last year because of funding cuts.",
      "src_en": "Reuters"
-    },
-    {
-     "ar": "عطل تقني يضرب تطبيقات الخدمات المصرفية لبنكي لويدز وبنك أسكتلندا في بريطانيا، وعملاء يبلغون عن تعذر الدخول إلى حساباتهم وإجراء المدفوعات.",
-     "src_ar": "سي إن بي سي عربية نقلا عن إندبندنت",
-     "en": "A technical fault hits the banking apps of Lloyds and Bank of Scotland in Britain, with customers reporting they cannot log in or make payments.",
-     "src_en": "CNBC Arabia, citing the Independent"
-    },
-    {
-     "ar": "التحالف العالمي للقاحات والتحصين (جافي) سيعيد جزءا من التمويل المخصص للدول الراغبة في شراء لقاح الملاريا.",
-     "src_ar": "رويترز",
-     "en": "The vaccine alliance Gavi says it will restore part of the funding set aside for countries that want to buy the malaria vaccine.",
-     "src_en": "Reuters"
-    },
-    {
-     "ar": "نائبة الرئيس الفلبيني سارة دوتيرتي تستبعد الاستقالة وتستعد لحكم في إجراءات العزل.",
-     "src_ar": "رويترز",
-     "en": "Philippine Vice President Sara Duterte rules out resigning and braces for the impeachment verdict.",
-     "src_en": "Reuters"
-    },
-    {
-     "ar": "عمار بن حميد يطلق برنامج واجهة عجمان البحرية بطول 30 كيلومترا وسبع واجهات بحرية، بتكلفة تتجاوز 163 مليون درهم.",
-     "src_ar": "وام",
-     "en": "Ammar bin Humaid launches the Ajman Waterfront programme, 30 kilometres long with seven waterfronts, at a cost of more than 163 million dirhams.",
-     "src_en": "WAM"
     }
    ]
   },
@@ -64,10 +58,28 @@
    },
    "items": [
     {
-     "ar": "ديدي جلوبال تسجل خسارة صافية في الربع الثالث وتعزوها إلى خسائر عملياتها الدولية، رغم ارتفاع الإيرادات 12%.",
-     "src_ar": "رويترز وسي إن بي سي عربية",
-     "en": "Didi Global reports a net loss in the third quarter and blames losses in its international operations, even as revenue rose 12%.",
-     "src_en": "Reuters and CNBC Arabia"
+     "ar": "إنفيديا تعيد مؤسسها جنسن هوانغ إلى رئاستها بعد 11 يوما من استقالته، وتسترد في يوم واحد معظم خسائرها.",
+     "src_ar": "الجزيرة",
+     "en": "Nvidia brings its founder Jensen Huang back as chair 11 days after his resignation, recovering most of its losses in a single day.",
+     "src_en": "Al Jazeera"
+    },
+    {
+     "ar": "أسعار المستهلكين في فرنسا ترتفع في نوفمبر بوتيرة أبطأ من المتوقع، بحسب بيانات أولية.",
+     "src_ar": "رويترز",
+     "en": "French consumer prices rose more slowly than expected in November, according to preliminary data.",
+     "src_en": "Reuters"
+    },
+    {
+     "ar": "معدل التضخم السنوي في إسبانيا يتباطأ إلى 4.1% في نوفمبر من 4.9% في أكتوبر، بحسب التقديرات الأولية.",
+     "src_ar": "سي إن بي سي عربية",
+     "en": "Spain's annual inflation rate slows to 4.1% in November from 4.9% in October, according to preliminary estimates.",
+     "src_en": "CNBC Arabia"
+    },
+    {
+     "ar": "النحاس يقفز 6.5% ويسجل أكبر مكاسب يومية في 10 أشهر.",
+     "src_ar": "العربية بزنس",
+     "en": "Copper jumps 6.5%, its biggest daily gain in 10 months.",
+     "src_en": "Al Arabiya Business"
     }
    ]
   }
