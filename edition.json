@@ -1,11 +1,11 @@
 {
- "id": "2026-11-27T14:00",
+ "id": "2026-11-27T15:00",
  "date": {
   "ar": "الجمعة 27 نوفمبر 2026",
   "en": "Friday 27 November 2026"
  },
- "uae": "2:00 PM",
- "cairo": "12:00 PM",
+ "uae": "3:00 PM",
+ "cairo": "1:00 PM",
  "sections": [
   {
    "title": {
@@ -14,28 +14,34 @@
    },
    "items": [
     {
-     "ar": "زيلينسكي: وصف ترامب لبوتين بأنه صديقه أمر غريب، ويشبه الإدلاء بالتعليق نفسه عن هتلر خلال الحرب العالمية الثانية.",
+     "ar": "زيلينسكي: أوكرانيا ترد بشكل مشروع تماما على كل ضربة روسية، وضرباتنا بعيدة المدى استهدفت منشآت نفط ومنشآت لإنتاج المتفجرات ومطارات عسكرية وطائرات روسية، إضافة إلى ضربات في البحر الأسود.",
+     "src_ar": "سكاي نيوز عربية",
+     "en": "Zelensky says Ukraine's response to every Russian strike is fully legitimate, and that its long-range strikes hit oil facilities, explosives production sites, military airfields and Russian aircraft, along with strikes in the Black Sea.",
+     "src_en": "Sky News Arabia"
+    },
+    {
+     "ar": "الرئيس اللبناني جوزيف عون: لبنان ملتزم باتفاق الإطار لكن إسرائيل لم تنفذه، وننتظر تشكيل الحكومة الإسرائيلية الجديدة لنرى أي سياسة ستتبع مع لبنان.",
+     "src_ar": "سكاي نيوز عربية والعربية",
+     "en": "Lebanese President Joseph Aoun says Lebanon is committed to the framework agreement but Israel has not implemented it, and that Lebanon is waiting for Israel's new government to be formed to see what policy it follows.",
+     "src_en": "Sky News Arabia and Al Arabiya"
+    },
+    {
+     "ar": "وكالتان تابعتان للأمم المتحدة (الفاو وبرنامج الأغذية العالمي) تحذران من أن الجوع مرشح للتفاقم بصورة كبيرة في 16 بؤرة ساخنة خلال الأشهر الستة المقبلة، مع تهديد المجاعة لأجزاء من أفريقيا.",
+     "src_ar": "رويترز والجزيرة",
+     "en": "Two UN agencies, FAO and the World Food Programme, warn that hunger is likely to worsen sharply in 16 hotspots over the next six months, with famine threatening parts of Africa.",
+     "src_en": "Reuters and Al Jazeera"
+    },
+    {
+     "ar": "نائب وزير التجارة الفيتنامي: أعضاء الاتفاقية الشاملة والتقدمية للشراكة عبر المحيط الهادئ وافقوا على بدء مفاوضات انضمام الإمارات وإندونيسيا والفلبين.",
      "src_ar": "رويترز",
-     "en": "Zelenskiy says it is strange for Trump to call Putin his friend, and likens it to making the same remark about Hitler during World War II.",
+     "en": "Vietnam's deputy trade minister says members of the CPTPP trade pact agreed to start accession talks with the UAE, Indonesia and the Philippines.",
      "src_en": "Reuters"
     },
     {
-     "ar": "مصدر خاص لسكاي نيوز عربية: الغارة الإسرائيلية على حي الرمال في غزة استهدفت نجل خليل الحية، ومراسلها يتحدث عن ترجيحات بنجاته.",
-     "src_ar": "سكاي نيوز عربية",
-     "en": "A private source tells Sky News Arabia the Israeli strike on the Rimal neighbourhood in Gaza targeted the son of Khalil al-Hayya, and its correspondent reports indications that he survived.",
-     "src_en": "Sky News Arabia"
-    },
-    {
-     "ar": "رئيس الكنيست: نتنياهو يحاول كسب الوقت وجرنا إلى انتخابات جديدة، وأريد حكومة وحدة لكن ليس بأي ثمن.",
-     "src_ar": "سكاي نيوز عربية",
-     "en": "Knesset speaker says Netanyahu is trying to buy time and has dragged Israel into new elections, adding he wants a unity government but not at any price.",
-     "src_en": "Sky News Arabia"
-    },
-    {
-     "ar": "منصور بن زايد يترأس في إكسبو دبي اجتماع المجلس الوزاري للذكاء الاصطناعي والتنمية لاستعراض المشاريع والمبادرات الوطنية ومناقشة جاهزية الأمن السيبراني.",
-     "src_ar": "وام",
-     "en": "Mansour bin Zayed chairs the ministerial council for AI and development at Expo Dubai to review national projects and initiatives and discuss cybersecurity readiness.",
-     "src_en": "WAM"
+     "ar": "الجيش اللاتفي: طائرة مسيرة انتهكت المجال الجوي للبلاد لفترة وجيزة.",
+     "src_ar": "رويترز",
+     "en": "Latvia's armed forces say a drone briefly violated the country's airspace.",
+     "src_en": "Reuters"
     }
    ]
   },
@@ -46,28 +52,28 @@
    },
    "items": [
     {
-     "ar": "تعاملات العرب والأجانب في البورصة المصرية تسجل صافي شراء بقيمة 413.3 مليون جنيه الأسبوع الماضي، منها 396.1 مليون للأجانب و17.3 مليون للعرب.",
-     "src_ar": "العربية مصر",
-     "en": "Arab and foreign investors recorded net buying of 413.3 million pounds on the Egyptian stock exchange last week, including 396.1 million by foreigners and 17.3 million by Arabs.",
-     "src_en": "Al Arabiya Egypt"
+     "ar": "شل وبتروناس تصدران شحنة غاز مسال من مصر إلى أوروبا غدا.",
+     "src_ar": "الشرق بلومبرغ",
+     "en": "Shell and Petronas will export an LNG cargo from Egypt to Europe tomorrow.",
+     "src_en": "Asharq Bloomberg"
     },
     {
-     "ar": "9 تريليونات دولار تتبخر من القيمة السوقية للأسهم العالمية منذ ذروتها في أغسطس 2026، مع تصاعد المخاوف بشأن الذكاء الاصطناعي وعودة توقعات رفع الفائدة الأمريكية.",
-     "src_ar": "العربية بزنس",
-     "en": "$9 trillion has evaporated from the market value of global stocks since their August 2026 peak, as worries over AI and expectations of a US rate hike returned.",
-     "src_en": "Al Arabiya Business"
-    },
-    {
-     "ar": "نمو أرباح الشركات الصناعية في الصين يسجل أسرع وتيرة في خمسة أشهر، بينما يظل التعافي متفاوتا.",
+     "ar": "الأسهم الصينية ترتفع بأكبر وتيرة في عامين مع تعهد بكين بدعم أقوى للأسواق.",
      "src_ar": "رويترز",
-     "en": "Growth in Chinese industrial profits is the fastest in five months, though the recovery remains uneven.",
+     "en": "Chinese stocks surge the most in two years as Beijing vows stronger support for markets.",
      "src_en": "Reuters"
     },
     {
-     "ar": "الأرجنتين تحظر تمويل الإنفاق الحكومي من البنك المركزي.",
-     "src_ar": "العربية بزنس",
-     "en": "Argentina bans financing government spending through the central bank.",
-     "src_en": "Al Arabiya Business"
+     "ar": "صادرات كوريا الجنوبية في نوفمبر تتجه لتسجيل أسرع نمو في أكثر من 50 عاما بفضل الطلب على رقائق الذكاء الاصطناعي.",
+     "src_ar": "رويترز",
+     "en": "South Korea's November exports are seen posting their fastest growth in over 50 years on a surge in AI chips.",
+     "src_en": "Reuters"
+    },
+    {
+     "ar": "المستثمرون يسحبون 22.73 مليار دولار من صناديق الأسهم العالمية في الأسبوع المنتهي في 25 نوفمبر، في أكبر موجة سحب للأموال خلال 14 شهرا.",
+     "src_ar": "سي إن بي سي عربية",
+     "en": "Investors pulled $22.73 billion from global equity funds in the week to 25 November, the biggest outflow in 14 months.",
+     "src_en": "CNBC Arabia"
     }
    ]
   },
@@ -78,10 +84,10 @@
    },
    "items": [
     {
-     "ar": "قادة فرنسا وبلغاريا يدينون الاشتباكات التي اندلعت بين مشجعي أولمبيك مرسيليا وليفسكي صوفيا داخل الملعب قبل انطلاق مباراتهما في الدوري الأوروبي أمس.",
-     "src_ar": "رويترز",
-     "en": "The leaders of France and Bulgaria condemn clashes between Olympique de Marseille and Levski Sofia fans inside the stadium before their Europa League match yesterday.",
-     "src_en": "Reuters"
+     "ar": "فريق دوكاتي يعلن أن مارك ماركيز، بطل العالم للدراجات النارية موتو جي، سيعتزل بعد السباق الأخير للموسم الحالي في فالنسيا.",
+     "src_ar": "رويترز وبي إن سبورتس",
+     "en": "Ducati announces that MotoGP world champion Marc Marquez will retire after the final race of the current season in Valencia.",
+     "src_en": "Reuters and beIN Sports"
     }
    ]
   }
