@@ -1,11 +1,11 @@
 {
- "id": "2026-11-27T16:00",
+ "id": "2026-11-27T17:00",
  "date": {
   "ar": "الجمعة 27 نوفمبر 2026",
   "en": "Friday 27 November 2026"
  },
- "uae": "4:00 PM",
- "cairo": "2:00 PM",
+ "uae": "5:00 PM",
+ "cairo": "3:00 PM",
  "sections": [
   {
    "title": {
@@ -14,34 +14,52 @@
    },
    "items": [
     {
-     "ar": "الحرس الثوري الإيراني: ناقلة نفط اصطدمت بلغم وانفجرت أثناء محاولتها عبور مضيق هرمز عبر مسار غير مصرح به.",
-     "src_ar": "العربية وهيئة الإذاعة والتلفزيون الإيرانية عبر رويترز",
-     "en": "Iran's Revolutionary Guard says an oil tanker hit a mine and exploded while trying to cross the Strait of Hormuz through an unauthorised route.",
-     "src_en": "Al Arabiya and Iranian state broadcaster via Reuters"
+     "ar": "مسؤول في حماس يؤكد نجاة نجل خليل الحية من الغارة الإسرائيلية التي استهدفته في غزة.",
+     "src_ar": "سكاي نيوز عربية والعربية",
+     "en": "A Hamas official confirms that Khalil al-Hayya's son survived the Israeli strike that targeted him in Gaza.",
+     "src_en": "Sky News Arabia and Al Arabiya"
     },
     {
-     "ar": "مصادر لرويترز: قراصنة اخترقوا منصة الحوسبة السحابية الرئيسية التابعة للقوات الجوية الأمريكية المعروفة باسم كلاود وان.",
-     "src_ar": "رويترز",
-     "en": "Reuters, citing three sources: hackers have breached the US Air Force's flagship cloud computing platform, known as Cloud One.",
-     "src_en": "Reuters"
-    },
-    {
-     "ar": "زيلينسكي: السفينة الحربية الروسية ميركوري التي كانت ترسو قبالة السواحل الليبية هدف عادل تماما، والقوات الأوكرانية لا تنفذ هجماتها دون تنسيق مع شركائها.",
+     "ar": "حماس: ادعاءات الجيش الإسرائيلي باستخدام المستشفى الأهلي المعمداني مركزا للتحقيق أكاذيب لا أساس لها، وتأتي ضمن حملة لتبرير استهداف المستشفيات في غزة.",
      "src_ar": "الجزيرة",
-     "en": "Zelensky says the Russian warship Mercury, which was moored off Libya's coast, is a completely fair target and that Ukrainian forces do not carry out attacks without coordinating with partners.",
+     "en": "Hamas says the Israeli military's claims that the Al-Ahli Baptist Hospital was used as an interrogation centre are baseless lies, part of a campaign to justify targeting hospitals in Gaza.",
      "src_en": "Al Jazeera"
     },
     {
-     "ar": "المعهد الدولي للدراسات الاستراتيجية: وقائع التخريب الروسية في أوروبا ارتفعت 16% خلال العام المنتهي في سبتمبر 2026.",
+     "ar": "الأمم المتحدة تحث كوستاريكا على إعادة النظر في قرار منع المقررة الأممية الخاصة فرانشيسكا ألبانيزي من دخول البلاد، بعدما بررت الهجرة القرار بتحذير دولي بشأن صلات لها بأعمال إرهابية.",
+     "src_ar": "الجزيرة",
+     "en": "The UN urges Costa Rica to reconsider barring UN special rapporteur Francesca Albanese from entering the country, after immigration authorities cited an international warning about alleged links to terrorist acts.",
+     "src_en": "Al Jazeera"
+    },
+    {
+     "ar": "رويترز: إصلاح ثغرة في موقع هيئة الانتخابات الهندية كانت تكشف بيانات الناخبين، بعد أن أبلغت رويترز عن نتائجها.",
      "src_ar": "رويترز",
-     "en": "The International Institute for Strategic Studies says Russian sabotage incidents in Europe rose 16% in the year to September 2026.",
+     "en": "Reuters exclusive: a flaw on the Indian Election Commission's website that exposed voter data has been fixed after Reuters flagged its findings.",
      "src_en": "Reuters"
     },
     {
-     "ar": "الجيش السوداني يعلن استعادة السيطرة على منطقة مقنزا جنوبي مدينة الدمازين، عاصمة إقليم النيل الأزرق.",
-     "src_ar": "الجزيرة",
-     "en": "The Sudanese army says it has retaken the Maqnza area south of Damazin, the capital of Blue Nile state.",
-     "src_en": "Al Jazeera"
+     "ar": "عطل تقني يضرب تطبيقات الخدمات المصرفية لبنكي لويدز وبنك أسكتلندا في بريطانيا، وعملاء يبلغون عن تعذر الدخول إلى حساباتهم وإجراء المدفوعات.",
+     "src_ar": "سي إن بي سي عربية نقلا عن إندبندنت",
+     "en": "A technical fault hits the banking apps of Lloyds and Bank of Scotland in Britain, with customers reporting they cannot log in or make payments.",
+     "src_en": "CNBC Arabia, citing the Independent"
+    },
+    {
+     "ar": "التحالف العالمي للقاحات والتحصين (جافي) سيعيد جزءا من التمويل المخصص للدول الراغبة في شراء لقاح الملاريا.",
+     "src_ar": "رويترز",
+     "en": "The vaccine alliance Gavi says it will restore part of the funding set aside for countries that want to buy the malaria vaccine.",
+     "src_en": "Reuters"
+    },
+    {
+     "ar": "نائبة الرئيس الفلبيني سارة دوتيرتي تستبعد الاستقالة وتستعد لحكم في إجراءات العزل.",
+     "src_ar": "رويترز",
+     "en": "Philippine Vice President Sara Duterte rules out resigning and braces for the impeachment verdict.",
+     "src_en": "Reuters"
+    },
+    {
+     "ar": "عمار بن حميد يطلق برنامج واجهة عجمان البحرية بطول 30 كيلومترا وسبع واجهات بحرية، بتكلفة تتجاوز 163 مليون درهم.",
+     "src_ar": "وام",
+     "en": "Ammar bin Humaid launches the Ajman Waterfront programme, 30 kilometres long with seven waterfronts, at a cost of more than 163 million dirhams.",
+     "src_en": "WAM"
     }
    ]
   },
@@ -52,42 +70,16 @@
    },
    "items": [
     {
-     "ar": "مؤشر سوق دبي يرتفع أكثر من 1% في ختام تعاملات الأسبوع، ويحقق أعلى مكاسب شهرية منذ 2020 مع استعادة مستوى التريليون درهم من القيمة السوقية.",
-     "src_ar": "سي إن بي سي عربية",
-     "en": "Dubai's market index rises more than 1% at the close of the week and posts its biggest monthly gain since 2020, as market value regains the 1 trillion dirham level.",
-     "src_en": "CNBC Arabia"
-    },
-    {
-     "ar": "بيانات رسمية إيرانية: قيمة الصادرات الإيرانية تتجاوز 28 مليار دولار خلال ستة أشهر رغم استمرار العقوبات.",
-     "src_ar": "الجزيرة",
-     "en": "Official Iranian data shows exports passed $28 billion over six months despite continuing sanctions.",
-     "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "سانوفي تبرم صفقة بقيمة 41 مليار دولار للاستحواذ على إنسميد بقيادة رئيسها التنفيذي الجديد.",
+     "ar": "الأسهم العالمية ترتفع مع عودة الإقبال على أسهم الذكاء الاصطناعي بعد شهر قاس، بينما تتراجع سندات الخزانة الأمريكية.",
      "src_ar": "رويترز",
-     "en": "Sanofi's new CEO struck a rapid $41 billion deal to buy Insmed.",
+     "en": "Global stocks rally on an AI rebound after a bruising month, while US Treasuries dip.",
      "src_en": "Reuters"
     },
     {
-     "ar": "تركيا تعين يوسف كنان بايير رئيسا لهيئة التنظيم والرقابة المصرفية خلفا لشهاب قاوجي أوغلو، بحسب قرار رئاسي.",
-     "src_ar": "رويترز",
-     "en": "Turkey appoints Yusuf Kenan Bayir as head of its banking regulator, replacing Sahap Kavcioglu, according to a presidential decree.",
-     "src_en": "Reuters"
-    }
-   ]
-  },
-  {
-   "title": {
-    "ar": "رياضة",
-    "en": "Sport"
-   },
-   "items": [
-    {
-     "ar": "ريال مدريد يمدد عقد المغربي إبراهيم دياز حتى 2031.",
-     "src_ar": "بي إن سبورتس",
-     "en": "Real Madrid extend Morocco international Brahim Diaz's contract until 2031.",
-     "src_en": "beIN Sports"
+     "ar": "ديدي جلوبال تسجل خسارة صافية في الربع الثالث وتعزوها إلى خسائر عملياتها الدولية، رغم ارتفاع الإيرادات 12%.",
+     "src_ar": "رويترز وسي إن بي سي عربية",
+     "en": "Didi Global reports a net loss in the third quarter and blames losses in its international operations, even as revenue rose 12%.",
+     "src_en": "Reuters and CNBC Arabia"
     }
    ]
   }
