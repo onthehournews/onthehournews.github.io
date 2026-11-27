@@ -1,11 +1,11 @@
 {
- "id": "2026-11-27T15:00",
+ "id": "2026-11-27T16:00",
  "date": {
   "ar": "الجمعة 27 نوفمبر 2026",
   "en": "Friday 27 November 2026"
  },
- "uae": "3:00 PM",
- "cairo": "1:00 PM",
+ "uae": "4:00 PM",
+ "cairo": "2:00 PM",
  "sections": [
   {
    "title": {
@@ -14,34 +14,34 @@
    },
    "items": [
     {
-     "ar": "زيلينسكي: أوكرانيا ترد بشكل مشروع تماما على كل ضربة روسية، وضرباتنا بعيدة المدى استهدفت منشآت نفط ومنشآت لإنتاج المتفجرات ومطارات عسكرية وطائرات روسية، إضافة إلى ضربات في البحر الأسود.",
-     "src_ar": "سكاي نيوز عربية",
-     "en": "Zelensky says Ukraine's response to every Russian strike is fully legitimate, and that its long-range strikes hit oil facilities, explosives production sites, military airfields and Russian aircraft, along with strikes in the Black Sea.",
-     "src_en": "Sky News Arabia"
+     "ar": "الحرس الثوري الإيراني: ناقلة نفط اصطدمت بلغم وانفجرت أثناء محاولتها عبور مضيق هرمز عبر مسار غير مصرح به.",
+     "src_ar": "العربية وهيئة الإذاعة والتلفزيون الإيرانية عبر رويترز",
+     "en": "Iran's Revolutionary Guard says an oil tanker hit a mine and exploded while trying to cross the Strait of Hormuz through an unauthorised route.",
+     "src_en": "Al Arabiya and Iranian state broadcaster via Reuters"
     },
     {
-     "ar": "الرئيس اللبناني جوزيف عون: لبنان ملتزم باتفاق الإطار لكن إسرائيل لم تنفذه، وننتظر تشكيل الحكومة الإسرائيلية الجديدة لنرى أي سياسة ستتبع مع لبنان.",
-     "src_ar": "سكاي نيوز عربية والعربية",
-     "en": "Lebanese President Joseph Aoun says Lebanon is committed to the framework agreement but Israel has not implemented it, and that Lebanon is waiting for Israel's new government to be formed to see what policy it follows.",
-     "src_en": "Sky News Arabia and Al Arabiya"
-    },
-    {
-     "ar": "وكالتان تابعتان للأمم المتحدة (الفاو وبرنامج الأغذية العالمي) تحذران من أن الجوع مرشح للتفاقم بصورة كبيرة في 16 بؤرة ساخنة خلال الأشهر الستة المقبلة، مع تهديد المجاعة لأجزاء من أفريقيا.",
-     "src_ar": "رويترز والجزيرة",
-     "en": "Two UN agencies, FAO and the World Food Programme, warn that hunger is likely to worsen sharply in 16 hotspots over the next six months, with famine threatening parts of Africa.",
-     "src_en": "Reuters and Al Jazeera"
-    },
-    {
-     "ar": "نائب وزير التجارة الفيتنامي: أعضاء الاتفاقية الشاملة والتقدمية للشراكة عبر المحيط الهادئ وافقوا على بدء مفاوضات انضمام الإمارات وإندونيسيا والفلبين.",
+     "ar": "مصادر لرويترز: قراصنة اخترقوا منصة الحوسبة السحابية الرئيسية التابعة للقوات الجوية الأمريكية المعروفة باسم كلاود وان.",
      "src_ar": "رويترز",
-     "en": "Vietnam's deputy trade minister says members of the CPTPP trade pact agreed to start accession talks with the UAE, Indonesia and the Philippines.",
+     "en": "Reuters, citing three sources: hackers have breached the US Air Force's flagship cloud computing platform, known as Cloud One.",
      "src_en": "Reuters"
     },
     {
-     "ar": "الجيش اللاتفي: طائرة مسيرة انتهكت المجال الجوي للبلاد لفترة وجيزة.",
+     "ar": "زيلينسكي: السفينة الحربية الروسية ميركوري التي كانت ترسو قبالة السواحل الليبية هدف عادل تماما، والقوات الأوكرانية لا تنفذ هجماتها دون تنسيق مع شركائها.",
+     "src_ar": "الجزيرة",
+     "en": "Zelensky says the Russian warship Mercury, which was moored off Libya's coast, is a completely fair target and that Ukrainian forces do not carry out attacks without coordinating with partners.",
+     "src_en": "Al Jazeera"
+    },
+    {
+     "ar": "المعهد الدولي للدراسات الاستراتيجية: وقائع التخريب الروسية في أوروبا ارتفعت 16% خلال العام المنتهي في سبتمبر 2026.",
      "src_ar": "رويترز",
-     "en": "Latvia's armed forces say a drone briefly violated the country's airspace.",
+     "en": "The International Institute for Strategic Studies says Russian sabotage incidents in Europe rose 16% in the year to September 2026.",
      "src_en": "Reuters"
+    },
+    {
+     "ar": "الجيش السوداني يعلن استعادة السيطرة على منطقة مقنزا جنوبي مدينة الدمازين، عاصمة إقليم النيل الأزرق.",
+     "src_ar": "الجزيرة",
+     "en": "The Sudanese army says it has retaken the Maqnza area south of Damazin, the capital of Blue Nile state.",
+     "src_en": "Al Jazeera"
     }
    ]
   },
@@ -52,28 +52,28 @@
    },
    "items": [
     {
-     "ar": "شل وبتروناس تصدران شحنة غاز مسال من مصر إلى أوروبا غدا.",
-     "src_ar": "الشرق بلومبرغ",
-     "en": "Shell and Petronas will export an LNG cargo from Egypt to Europe tomorrow.",
-     "src_en": "Asharq Bloomberg"
-    },
-    {
-     "ar": "الأسهم الصينية ترتفع بأكبر وتيرة في عامين مع تعهد بكين بدعم أقوى للأسواق.",
-     "src_ar": "رويترز",
-     "en": "Chinese stocks surge the most in two years as Beijing vows stronger support for markets.",
-     "src_en": "Reuters"
-    },
-    {
-     "ar": "صادرات كوريا الجنوبية في نوفمبر تتجه لتسجيل أسرع نمو في أكثر من 50 عاما بفضل الطلب على رقائق الذكاء الاصطناعي.",
-     "src_ar": "رويترز",
-     "en": "South Korea's November exports are seen posting their fastest growth in over 50 years on a surge in AI chips.",
-     "src_en": "Reuters"
-    },
-    {
-     "ar": "المستثمرون يسحبون 22.73 مليار دولار من صناديق الأسهم العالمية في الأسبوع المنتهي في 25 نوفمبر، في أكبر موجة سحب للأموال خلال 14 شهرا.",
+     "ar": "مؤشر سوق دبي يرتفع أكثر من 1% في ختام تعاملات الأسبوع، ويحقق أعلى مكاسب شهرية منذ 2020 مع استعادة مستوى التريليون درهم من القيمة السوقية.",
      "src_ar": "سي إن بي سي عربية",
-     "en": "Investors pulled $22.73 billion from global equity funds in the week to 25 November, the biggest outflow in 14 months.",
+     "en": "Dubai's market index rises more than 1% at the close of the week and posts its biggest monthly gain since 2020, as market value regains the 1 trillion dirham level.",
      "src_en": "CNBC Arabia"
+    },
+    {
+     "ar": "بيانات رسمية إيرانية: قيمة الصادرات الإيرانية تتجاوز 28 مليار دولار خلال ستة أشهر رغم استمرار العقوبات.",
+     "src_ar": "الجزيرة",
+     "en": "Official Iranian data shows exports passed $28 billion over six months despite continuing sanctions.",
+     "src_en": "Al Jazeera"
+    },
+    {
+     "ar": "سانوفي تبرم صفقة بقيمة 41 مليار دولار للاستحواذ على إنسميد بقيادة رئيسها التنفيذي الجديد.",
+     "src_ar": "رويترز",
+     "en": "Sanofi's new CEO struck a rapid $41 billion deal to buy Insmed.",
+     "src_en": "Reuters"
+    },
+    {
+     "ar": "تركيا تعين يوسف كنان بايير رئيسا لهيئة التنظيم والرقابة المصرفية خلفا لشهاب قاوجي أوغلو، بحسب قرار رئاسي.",
+     "src_ar": "رويترز",
+     "en": "Turkey appoints Yusuf Kenan Bayir as head of its banking regulator, replacing Sahap Kavcioglu, according to a presidential decree.",
+     "src_en": "Reuters"
     }
    ]
   },
@@ -84,10 +84,10 @@
    },
    "items": [
     {
-     "ar": "فريق دوكاتي يعلن أن مارك ماركيز، بطل العالم للدراجات النارية موتو جي، سيعتزل بعد السباق الأخير للموسم الحالي في فالنسيا.",
-     "src_ar": "رويترز وبي إن سبورتس",
-     "en": "Ducati announces that MotoGP world champion Marc Marquez will retire after the final race of the current season in Valencia.",
-     "src_en": "Reuters and beIN Sports"
+     "ar": "ريال مدريد يمدد عقد المغربي إبراهيم دياز حتى 2031.",
+     "src_ar": "بي إن سبورتس",
+     "en": "Real Madrid extend Morocco international Brahim Diaz's contract until 2031.",
+     "src_en": "beIN Sports"
     }
    ]
   }
