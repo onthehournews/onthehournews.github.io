@@ -1,11 +1,11 @@
 {
- "id": "2026-11-27T03:00",
+ "id": "2026-11-27T04:00",
  "date": {
   "ar": "الجمعة 27 نوفمبر 2026",
   "en": "Friday 27 November 2026"
  },
- "uae": "3:00 AM",
- "cairo": "1:00 AM",
+ "uae": "4:00 AM",
+ "cairo": "2:00 AM",
  "sections": [
   {
    "title": {
@@ -14,40 +14,40 @@
    },
    "items": [
     {
-     "ar": "وزير الاستثمار والتجارة الخارجية المصري يوجه الغرف التجارية بتقديم دعم بقيمة 25 مليون جنيه لأسر ضحايا حادث الوراق، وبيت الزكاة والصدقات يخصص 10 ملايين جنيه لدعم عاجل للأسر.",
+     "ar": "المتحدث باسم مجلس الوزراء المصري: شاحنات نقل المواد البترولية تنفذ أكثر من 4 آلاف رحلة يوميا في أنحاء الجمهورية، ومن شبه المستحيل تحديد حركتها من منتصف الليل حتى السادسة صباحا.",
      "src_ar": "العربية مصر",
-     "en": "Egypt's investment and foreign trade minister directs the chambers of commerce to provide 25 million Egyptian pounds in support for the Warraq accident victims' families, and the Zakat and Charity House allocates 10 million pounds in urgent aid.",
+     "en": "Egypt's cabinet spokesman: petroleum tanker trucks make more than 4,000 trips a day across the country, and it is nearly impossible to track their movements between midnight and 6 AM.",
      "src_en": "Al Arabiya Egypt"
     },
     {
-     "ar": "ترامب: ننفذ أعظم حصار بحري في التاريخ.",
-     "src_ar": "العربية وسكاي نيوز عربية",
-     "en": "Trump: we are carrying out the greatest naval blockade in history.",
-     "src_en": "Al Arabiya and Sky News Arabia"
+     "ar": "ترامب: أطلقنا 150 صاروخا لمنع الصواريخ والمسيرات الإيرانية من استهداف سفن تجارية في مضيق هرمز، وقواتنا ستواصل انتشارها في الشرق الأوسط.",
+     "src_ar": "سكاي نيوز عربية والجزيرة",
+     "en": "Trump: we fired 150 missiles to stop Iranian missiles and drones from targeting commercial ships in the Strait of Hormuz, and our forces will keep deploying in the Middle East.",
+     "src_en": "Sky News Arabia and Al Jazeera"
     },
     {
-     "ar": "ترامب: نحاول أن نمنح إيران فرصة للتوصل إلى اتفاق لننقذ الأرواح، ولست متأكدا أنها ستغتنمها. وإيران لن تمتلك سلاحا نوويا.",
-     "src_ar": "العربية والجزيرة",
-     "en": "Trump: we are trying to give Iran a chance to reach a deal to save lives, and I am not sure it will take it. Iran will not have a nuclear weapon.",
-     "src_en": "Al Arabiya and Al Jazeera"
+     "ar": "ترامب: قواتنا الجوية دمرت قدرات إيران على تخصيب اليورانيوم، ولم تتمكن أي سفينة من اختراق الحصار المفروض عليها.",
+     "src_ar": "الجزيرة والعربية",
+     "en": "Trump: our air force destroyed Iran's uranium enrichment capabilities, and no ship has managed to break the blockade on Iran.",
+     "src_en": "Al Jazeera and Al Arabiya"
     },
     {
-     "ar": "الدفاع المدني السعودي: إطلاق إنذار مبكر للتحذير من خطر في مدينة أبها ومحافظة خميس مشيط.",
+     "ar": "ترامب: صواريخ إيران يمكنها الوصول إلى أوروبا لكنها لا تستطيع الوصول إلى أمريكا، ولا نحتاج إلى نفط الشرق الأوسط بل إلى السلام فيه.",
+     "src_ar": "الجزيرة والعربية",
+     "en": "Trump: Iran's missiles can reach Europe but not America, and we do not need Middle East oil, we need peace there.",
+     "src_en": "Al Jazeera and Al Arabiya"
+    },
+    {
+     "ar": "عراقجي: إسرائيل تروج لأكاذيب ومزاعم متكررة بشأن الصواريخ والأسلحة الكيميائية بهدف خلق أجواء حرب وجر الولايات المتحدة إلى مواجهة جديدة مع إيران.",
      "src_ar": "الجزيرة",
-     "en": "Saudi civil defence: an early warning is issued for danger in the city of Abha and Khamis Mushait governorate.",
+     "en": "Araghchi: Israel is spreading repeated lies and claims about missiles and chemical weapons to create a war atmosphere and drag the United States into a new confrontation with Iran.",
      "src_en": "Al Jazeera"
     },
     {
-     "ar": "زيلينسكي: لدينا معلومات بأن روسيا تخطط لشن هجوم جديد واسع النطاق على أوكرانيا في الأيام المقبلة.",
-     "src_ar": "رويترز",
-     "en": "Zelensky: we have information that Russia is planning a new large-scale attack on Ukraine in the coming days.",
-     "src_en": "Reuters"
-    },
-    {
-     "ar": "ماكرون: الاتحاد الأوروبي سيرتكب خطأ استراتيجيا إذا خفض ميزانيته، ولن أوقع على اتفاق غير متوازن.",
-     "src_ar": "رويترز",
-     "en": "Macron: the European Union would make a strategic mistake if it cut its budget, and he will not sign an unbalanced deal.",
-     "src_en": "Reuters"
+     "ar": "ترامب: بإمكان بوتين حضور قمة مجموعة العشرين إذا أراد ذلك.",
+     "src_ar": "سكاي نيوز عربية",
+     "en": "Trump: Putin can attend the G20 summit if he wants to.",
+     "src_en": "Sky News Arabia"
     }
    ]
   },
@@ -58,16 +58,16 @@
    },
    "items": [
     {
-     "ar": "البنك المركزي التركي يعلق مؤقتا مزادات إعادة الشراء (ريبو) لأجل أسبوع.",
-     "src_ar": "رويترز",
-     "en": "Turkey's central bank temporarily suspends its one-week repo auctions.",
-     "src_en": "Reuters"
+     "ar": "العقود الآجلة لمؤشر ستاندرد آند بورز 500 ترتفع 0.7% وناسداك 100 بنسبة 0.6%، مع اتجاه وول ستريت لإنهاء أسبوع متقلب على مكاسب قوية.",
+     "src_ar": "CNBC عربية",
+     "en": "S&P 500 futures rise 0.7% and Nasdaq 100 futures 0.6%, as Wall Street heads for a strong finish to a volatile week.",
+     "src_en": "CNBC Arabia"
     },
     {
-     "ar": "حجم تداول عقود مخاطر الائتمان للشركات الأمريكية يصل إلى 9.6 تريليون دولار منذ بداية 2026، متجاوزا الرقم القياسي لعام 2025.",
-     "src_ar": "CNBC عربية",
-     "en": "Trading volume in US corporate credit default swaps reaches $9.6 trillion since the start of 2026, already above the 2025 record.",
-     "src_en": "CNBC Arabia"
+     "ar": "تركيا بحاجة إلى إعادة هيكلة هيئاتها التنظيمية المالية بعد فضيحة صناديق استثمارية، وفق خمسة مصرفيين ومسؤول كبير سابق.",
+     "src_ar": "رويترز",
+     "en": "Turkey needs to restructure its financial regulators after a funds scandal, according to five bankers and a former senior official.",
+     "src_en": "Reuters"
     }
    ]
   },
@@ -78,16 +78,10 @@
    },
    "items": [
     {
-     "ar": "الحكومة المغربية: نحترم قرار محكمة التحكيم الرياضي بفوز السنغال بأمم إفريقيا 2025.",
-     "src_ar": "الإمارات اليوم",
-     "en": "The Moroccan government: we respect the Court of Arbitration for Sport decision awarding the 2025 Africa Cup of Nations to Senegal.",
-     "src_en": "Emarat Al Youm"
-    },
-    {
-     "ar": "المنتخب السعودي لكرة السلة يحقق فوزا تاريخيا على نظيره الصيني في التصفيات الآسيوية لكأس العالم قطر 2027.",
-     "src_ar": "بي إن سبورتس",
-     "en": "Saudi Arabia's basketball team records a historic win over China in the Asian qualifiers for the 2027 World Cup in Qatar.",
-     "src_en": "beIN Sports"
+     "ar": "الدوري الأوروبي: بورنموث يقلب تأخره ويفوز 2-1 على سيلتا فيجو، وميلان يتفوق 4-2 على أولمبياكوس، وفيكتوريا بلزن يسحق بنفيكا 4-0.",
+     "src_ar": "رويترز",
+     "en": "Europa League: Bournemouth come from behind to beat Celta Vigo 2-1, Milan beat Olympiacos 4-2, and Viktoria Plzen thrash Benfica 4-0.",
+     "src_en": "Reuters"
     }
    ]
   }
