@@ -1,11 +1,11 @@
 {
- "id": "2026-11-27T06:00",
+ "id": "2026-11-27T07:00",
  "date": {
   "ar": "الجمعة 27 نوفمبر 2026",
   "en": "Friday 27 November 2026"
  },
- "uae": "6:00 AM",
- "cairo": "4:00 AM",
+ "uae": "7:00 AM",
+ "cairo": "5:00 AM",
  "sections": [
   {
    "title": {
@@ -14,28 +14,34 @@
    },
    "items": [
     {
-     "ar": "المستشار الألماني ميرتس: قادة الاتحاد الأوروبي يسعون إلى اتفاق على الميزانية قبل نهاية العام، فيما يقول رئيس الوزراء الهولندي إنهم لم يحرزوا تقدما في النقاش حول الميزانية طويلة الأجل.",
+     "ar": "روسيا تنفي عزمها نشر أسلحة نووية في الفضاء، والخارجية الروسية: أنشطتنا في الفضاء لأغراض سلمية حصرا.",
+     "src_ar": "العربية",
+     "en": "Russia denies it intends to deploy nuclear weapons in space, and the Russian foreign ministry says its space activities are exclusively peaceful.",
+     "src_en": "Al Arabiya"
+    },
+    {
+     "ar": "ترامب، ردا على سؤال عن أساس جزمه بأن رئيس إنفيديا لا يشكل تهديدا أمنيا رغم قول وزارة العدل إنها لم تجر تحقيقا بشأنه: قناعتي تستند إلى معلومات كثيرة بحوزتي.",
+     "src_ar": "الجزيرة",
+     "en": "Trump, asked on what basis he says Nvidia's chief executive is no security threat when the Justice Department says it has not investigated him: my belief rests on a lot of information I have.",
+     "src_en": "Al Jazeera"
+    },
+    {
+     "ar": "غلف نيوز: بناء إيران السريع لمجمع محصن تحت الأرض قرب مواقعها النووية يثير تساؤلات حول طموحاتها العسكرية والنووية.",
+     "src_ar": "غلف نيوز",
+     "en": "Gulf News: Iran's rapid construction of a fortified underground complex near its nuclear sites raises questions about its military and nuclear ambitions.",
+     "src_en": "Gulf News"
+    },
+    {
+     "ar": "خبير ألماني من معهد DIW: على ألمانيا أن تستعد لعامين صعبين آخرين مع ترامب.",
      "src_ar": "رويترز",
-     "en": "German Chancellor Merz says EU leaders aim for a budget deal before the end of the year, while the Dutch prime minister says they made no progress in talks on the bloc's long-term budget.",
+     "en": "A German economist from the DIW institute says Germany must prepare for two more difficult years with Trump.",
      "src_en": "Reuters"
     },
     {
-     "ar": "يهود حريديم يغلقون مدخلا خلفيا لمطار بن غوريون احتجاجا على اعتقال متهربين من التجنيد، والشرطة الإسرائيلية تفرقهم بالقوة.",
-     "src_ar": "الجزيرة",
-     "en": "Ultra-Orthodox Jews block a back entrance to Ben Gurion Airport in protest at the arrest of draft evaders, and Israeli police disperse them by force.",
-     "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "حكم أممي: فصل 9 موظفين فلسطينيين من الأونروا استند إلى حد كبير إلى اتهامات إسرائيلية غير مثبتة، مع تشكيك في الأدلة المقدمة ضدهم.",
-     "src_ar": "الجزيرة",
-     "en": "A UN ruling finds the dismissal of 9 Palestinian UNRWA staff rested largely on unproven Israeli allegations, and questions the evidence presented against them.",
-     "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "نيوزيلندا: الائتلاف الحاكم يفقد أغلبيته البرلمانية مع صدور نتائج الانتخابات.",
-     "src_ar": "العربية",
-     "en": "New Zealand: the ruling coalition loses its parliamentary majority as election results come in.",
-     "src_en": "Al Arabiya"
+     "ar": "الرئيس الفلبيني السابق رودريغو دوتيرتي يبدأ محاكمته أمام المحكمة الجنائية الدولية في 30 نوفمبر بتهم ارتكاب جرائم ضد الإنسانية خلال حملة مكافحة المخدرات.",
+     "src_ar": "رويترز",
+     "en": "Former Philippine president Rodrigo Duterte goes on trial at the International Criminal Court on November 30 for alleged crimes against humanity during his anti-drug campaign.",
+     "src_en": "Reuters"
     }
    ]
   },
@@ -46,28 +52,42 @@
    },
    "items": [
     {
-     "ar": "بنك إنجلترا يرى مخاطر مالية متزايدة مع ارتفاع الاقتراض المرتبط بالذكاء الاصطناعي.",
+     "ar": "العقود الآجلة لناسداك 100 تقفز 2.5% مع زخم ارتفاع عيد الشكر، ومؤشر ستاندرد آند بورز 500 يتجه للافتتاح قرب 7300 نقطة.",
+     "src_ar": "كوبيسي ليتر",
+     "en": "Nasdaq 100 futures surge 2.5% as the Thanksgiving rally gains momentum, and the S&P 500 is on track to open near 7,300.",
+     "src_en": "Kobeissi Letter"
+    },
+    {
+     "ar": "التضخم الأساسي في طوكيو يبلغ أعلى مستوى في 16 شهرا، ما يعزز احتمال رفع بنك اليابان للفائدة.",
      "src_ar": "رويترز",
-     "en": "The Bank of England sees growing financial risks as AI-related borrowing surges.",
+     "en": "Core inflation in Tokyo hits a 16-month high, strengthening the case for a Bank of Japan rate hike.",
      "src_en": "Reuters"
     },
     {
-     "ar": "شركة جيرا اليابانية تدخل في محادثات مع أنثروبيك وميتا لبناء مراكز بيانات، بحسب نيكاي.",
+     "ar": "البرلمان الأسترالي يقر خطة حجز الغاز التي تلزم مصدّري الغاز الطبيعي المسال بتخصيص ما يصل إلى 20% من إنتاجهم للسوق المحلية اعتبارا من 2028.",
      "src_ar": "رويترز",
-     "en": "Japan's JERA enters talks with Anthropic and Meta to build data centres, Nikkei reports.",
+     "en": "Australia's parliament passes the gas reservation scheme, requiring LNG exporters to set aside up to 20% of their output for the domestic market from 2028.",
      "src_en": "Reuters"
     },
     {
-     "ar": "وزارة الدفاع البولندية توقع اتفاقا مع بالانتير يوم الجمعة.",
+     "ar": "يتوقع ألا تمنع أسعار الوقود المرتفعة والتضخم العنيد المتسوقين الأمريكيين من الإنفاق بقوة في الجمعة السوداء، رغم مؤشرات ضغط تحت التوقعات القوية.",
      "src_ar": "رويترز",
-     "en": "Poland's defence ministry is to sign an agreement with Palantir on Friday.",
+     "en": "High fuel prices and stubborn inflation are not expected to stop US shoppers spending robustly on Black Friday, though signs of strain lie under the strong forecasts.",
      "src_en": "Reuters"
-    },
+    }
+   ]
+  },
+  {
+   "title": {
+    "ar": "رياضة",
+    "en": "Sport"
+   },
+   "items": [
     {
-     "ar": "أسعار الذهب مستقرة عند نحو 3567.3 دولار للأونصة.",
-     "src_ar": "العربية",
-     "en": "Gold prices hold steady at about $3,567.3 an ounce.",
-     "src_en": "Al Arabiya"
+     "ar": "الهند تفوز بالقرعة وتختار الميدان في الاختبار الثاني أمام نيوزيلندا.",
+     "src_ar": "رويترز",
+     "en": "India win the toss and elect to field in the second test against New Zealand.",
+     "src_en": "Reuters"
     }
    ]
   }
