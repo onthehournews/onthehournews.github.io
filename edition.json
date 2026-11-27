@@ -1,11 +1,11 @@
 {
- "id": "2026-11-27T13:00",
+ "id": "2026-11-27T14:00",
  "date": {
   "ar": "الجمعة 27 نوفمبر 2026",
   "en": "Friday 27 November 2026"
  },
- "uae": "1:00 PM",
- "cairo": "11:00 AM",
+ "uae": "2:00 PM",
+ "cairo": "12:00 PM",
  "sections": [
   {
    "title": {
@@ -14,40 +14,28 @@
    },
    "items": [
     {
-     "ar": "قائد البحرية الإيرانية: الجيش الأمريكي سرق ناقلتي نفط إيرانيتين، لكن قوات الكوماندوز البحرية استعادتهما.",
-     "src_ar": "الجزيرة",
-     "en": "Commander of Iran's navy says the US military seized two Iranian oil tankers but naval commandos took them back.",
-     "src_en": "Al Jazeera"
+     "ar": "زيلينسكي: وصف ترامب لبوتين بأنه صديقه أمر غريب، ويشبه الإدلاء بالتعليق نفسه عن هتلر خلال الحرب العالمية الثانية.",
+     "src_ar": "رويترز",
+     "en": "Zelenskiy says it is strange for Trump to call Putin his friend, and likens it to making the same remark about Hitler during World War II.",
+     "src_en": "Reuters"
     },
     {
-     "ar": "مراسلة العربية: 3 غارات إسرائيلية تستهدف قرية كفرتبنيت جنوبي لبنان، والوكالة الوطنية للإعلام تتحدث عن غارة على بلدة القنطرة.",
-     "src_ar": "العربية وسكاي نيوز عربية",
-     "en": "Al Arabiya's correspondent reports 3 Israeli strikes on the village of Kafr Tebnit in south Lebanon, and Lebanon's National News Agency reports a strike on the town of Qantara.",
-     "src_en": "Al Arabiya and Sky News Arabia"
-    },
-    {
-     "ar": "تقرير لمنظمة حقوقية إسرائيلية يكشف عن ممارسات تعذيب ممنهجة لانتزاع اعترافات من معتقلين فلسطينيين، وسط غياب المساءلة عن أكثر من 1680 شكوى ضد محققين إسرائيليين.",
-     "src_ar": "الجزيرة",
-     "en": "A report by an Israeli rights group reveals systematic torture to extract confessions from Palestinian detainees, with no accountability for more than 1,680 complaints against Israeli interrogators.",
-     "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "طيران الاتحاد تلغي جميع رحلاتها بين أبوظبي والرياض والدمام حتى 31 ديسمبر، وفلاي دبي تشغل رحلات الدمام بجدول مخفض وتلغي رحلات الرياض وأبها حتى 30 ديسمبر.",
-     "src_ar": "جلف نيوز والإمارات اليوم",
-     "en": "Etihad cancels all flights between Abu Dhabi and Riyadh and Dammam until 31 December, while flydubai runs Dammam flights on a reduced schedule and cancels Riyadh and Abha flights until 30 December.",
-     "src_en": "Gulf News and Emarat Al Youm"
-    },
-    {
-     "ar": "وزارة العمل البريطانية تعلق بعض خدماتها عبر الإنترنت كإجراء احترازي بعد رصد هجوم سيبراني يستهدفها.",
+     "ar": "مصدر خاص لسكاي نيوز عربية: الغارة الإسرائيلية على حي الرمال في غزة استهدفت نجل خليل الحية، ومراسلها يتحدث عن ترجيحات بنجاته.",
      "src_ar": "سكاي نيوز عربية",
-     "en": "Britain's labour ministry suspends some of its online services as a precaution after detecting a cyberattack targeting it.",
+     "en": "A private source tells Sky News Arabia the Israeli strike on the Rimal neighbourhood in Gaza targeted the son of Khalil al-Hayya, and its correspondent reports indications that he survived.",
      "src_en": "Sky News Arabia"
     },
     {
-     "ar": "مسؤولون يقولون لرويترز إن الحركة الطلابية في صربيا قد لا تشكل حكومة قبل العام الجديد، ما يزيد خطر عدم إقرار الموازنة في موعدها.",
-     "src_ar": "رويترز",
-     "en": "Serbian officials say the student-led movement may not form a government until the new year, raising the risk that the budget will not pass on time.",
-     "src_en": "Reuters"
+     "ar": "رئيس الكنيست: نتنياهو يحاول كسب الوقت وجرنا إلى انتخابات جديدة، وأريد حكومة وحدة لكن ليس بأي ثمن.",
+     "src_ar": "سكاي نيوز عربية",
+     "en": "Knesset speaker says Netanyahu is trying to buy time and has dragged Israel into new elections, adding he wants a unity government but not at any price.",
+     "src_en": "Sky News Arabia"
+    },
+    {
+     "ar": "منصور بن زايد يترأس في إكسبو دبي اجتماع المجلس الوزاري للذكاء الاصطناعي والتنمية لاستعراض المشاريع والمبادرات الوطنية ومناقشة جاهزية الأمن السيبراني.",
+     "src_ar": "وام",
+     "en": "Mansour bin Zayed chairs the ministerial council for AI and development at Expo Dubai to review national projects and initiatives and discuss cybersecurity readiness.",
+     "src_en": "WAM"
     }
    ]
   },
@@ -58,21 +46,47 @@
    },
    "items": [
     {
-     "ar": "الاقتصاد الفرنسي ينكمش 0.2% في الربع الثالث بحسب البيانات النهائية، وهو أكبر من التقدير الأولي البالغ 0.1% وأسوأ من توقعات المحللين.",
-     "src_ar": "رويترز والعربية بزنس",
-     "en": "France's economy shrank 0.2% in the third quarter according to final data, more than the initial 0.1% estimate and worse than analysts expected.",
-     "src_en": "Reuters and Al Arabiya Business"
+     "ar": "تعاملات العرب والأجانب في البورصة المصرية تسجل صافي شراء بقيمة 413.3 مليون جنيه الأسبوع الماضي، منها 396.1 مليون للأجانب و17.3 مليون للعرب.",
+     "src_ar": "العربية مصر",
+     "en": "Arab and foreign investors recorded net buying of 413.3 million pounds on the Egyptian stock exchange last week, including 396.1 million by foreigners and 17.3 million by Arabs.",
+     "src_en": "Al Arabiya Egypt"
     },
     {
-     "ar": "وزارة المالية الإماراتية تصدر أول سندات خزينة رقمية للحكومة الاتحادية بقيمة 180 مليون درهم، في خطوة لتطوير سوق الدين المحلي.",
-     "src_ar": "وام",
-     "en": "The UAE Ministry of Finance issues the federal government's first digital treasury bonds, worth 180 million dirhams, a step to develop the local debt market.",
-     "src_en": "WAM"
+     "ar": "9 تريليونات دولار تتبخر من القيمة السوقية للأسهم العالمية منذ ذروتها في أغسطس 2026، مع تصاعد المخاوف بشأن الذكاء الاصطناعي وعودة توقعات رفع الفائدة الأمريكية.",
+     "src_ar": "العربية بزنس",
+     "en": "$9 trillion has evaporated from the market value of global stocks since their August 2026 peak, as worries over AI and expectations of a US rate hike returned.",
+     "src_en": "Al Arabiya Business"
     },
     {
-     "ar": "إير آسيا تبلغ موظفيها بتأجيل دفع الرواتب إلى نهاية كل شهر من نوفمبر حتى مارس للحفاظ على السيولة، بحسب رسالة داخلية اطلعت عليها رويترز.",
+     "ar": "نمو أرباح الشركات الصناعية في الصين يسجل أسرع وتيرة في خمسة أشهر، بينما يظل التعافي متفاوتا.",
      "src_ar": "رويترز",
-     "en": "AirAsia tells employees it will delay salary payments to the end of each month from November through March to conserve cash, according to an internal email seen by Reuters.",
+     "en": "Growth in Chinese industrial profits is the fastest in five months, though the recovery remains uneven.",
+     "src_en": "Reuters"
+    },
+    {
+     "ar": "الأرجنتين تحظر تمويل الإنفاق الحكومي من البنك المركزي.",
+     "src_ar": "العربية بزنس",
+     "en": "Argentina bans financing government spending through the central bank.",
+     "src_en": "Al Arabiya Business"
+    },
+    {
+     "ar": "وزير هندي: الاتفاق التجاري بين الهند والولايات المتحدة يقترب من الاكتمال.",
+     "src_ar": "رويترز",
+     "en": "An Indian minister says the India-US trade deal is nearing completion.",
+     "src_en": "Reuters"
+    }
+   ]
+  },
+  {
+   "title": {
+    "ar": "رياضة",
+    "en": "Sport"
+   },
+   "items": [
+    {
+     "ar": "قادة فرنسا وبلغاريا يدينون الاشتباكات التي اندلعت بين مشجعي أولمبيك مرسيليا وليفسكي صوفيا داخل الملعب قبل انطلاق مباراتهما في الدوري الأوروبي أمس.",
+     "src_ar": "رويترز",
+     "en": "The leaders of France and Bulgaria condemn clashes between Olympique de Marseille and Levski Sofia fans inside the stadium before their Europa League match yesterday.",
      "src_en": "Reuters"
     }
    ]
