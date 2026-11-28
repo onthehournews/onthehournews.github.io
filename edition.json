@@ -1,11 +1,11 @@
 {
- "id": "2026-11-28T17:00",
+ "id": "2026-11-28T18:00",
  "date": {
   "ar": "السبت 28 نوفمبر 2026",
   "en": "Saturday 28 November 2026"
  },
- "uae": "5:00 PM",
- "cairo": "3:00 PM",
+ "uae": "6:00 PM",
+ "cairo": "4:00 PM",
  "sections": [
   {
    "title": {
@@ -14,34 +14,28 @@
    },
    "items": [
     {
-     "ar": "وزارة الصحة المصرية: تحديد هوية 30 من ضحايا حادث الوراق باستخدام البصمة الوراثية.",
+     "ar": "وزير الخارجية المصري: لا حل لأزمات المنطقة دون حل للقضية الفلسطينية، وتأثيرات الملف الإيراني على الإقليم كبيرة.",
+     "src_ar": "سكاي نيوز عربية",
+     "en": "Egypt's foreign minister says there is no solution to the region's crises without resolving the Palestinian issue, and that the Iranian file has a major impact on the region.",
+     "src_en": "Sky News Arabia"
+    },
+    {
+     "ar": "تحركات برلمانية في مصر لتعديل قانون المرور وقواعد نقل المواد البترولية بعد حادث الوراق.",
      "src_ar": "العربية مصر",
-     "en": "Egypt's health ministry says 30 victims of the Warraq crash have been identified using DNA.",
+     "en": "Egyptian lawmakers move to amend the traffic law and rules for transporting petroleum products after the Warraq crash.",
      "src_en": "Al Arabiya Egypt"
     },
     {
-     "ar": "طهران تقول إن تبادل الرسائل مع واشنطن عبر الوسطاء مستمر لكنه أصبح بوتيرة أبطأ.",
-     "src_ar": "الجزيرة",
-     "en": "Tehran says the exchange of messages with Washington through mediators continues but at a slower pace.",
-     "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "نائب قائد القوات البرية الإيرانية: جاهزون لأي هجوم محتمل على حدودنا البرية، ووفرنا أسلحة بكميات كبيرة على الحدود.",
-     "src_ar": "العربية",
-     "en": "The deputy commander of Iran's ground forces says Iran is ready for any possible attack on its land borders and has supplied large quantities of weapons there.",
-     "src_en": "Al Arabiya"
-    },
-    {
-     "ar": "زيلينسكي: العملية العسكرية التي أغرقت طرادا روسيا عند قاعدة بحرية ليبية تمت دون تنسيق مسبق مع الحلفاء الأوروبيين.",
+     "ar": "رويترز: غارة جوية للجيش في ميانمار على مدرسة في إحدى القرى تقتل 30 شخصا على الأقل، بحسب المعارضة.",
      "src_ar": "رويترز",
-     "en": "Zelensky says the military operation that sank a Russian cruiser at a Libyan naval base was carried out without prior coordination with European allies.",
+     "en": "A Myanmar military airstrike on a village school kills at least 30 people, the opposition says, Reuters reports.",
      "src_en": "Reuters"
     },
     {
-     "ar": "ستة قتلى على الأقل في غارة جوية في ميانمار استهدفت منزلا يقام فيه حفل زفاف.",
-     "src_ar": "جلف نيوز",
-     "en": "At least six people are dead after an airstrike in Myanmar hit a house where a wedding was being held.",
-     "src_en": "Gulf News"
+     "ar": "زلزال بقوة 6.7 درجة يضرب منطقة يليزوفو في روسيا.",
+     "src_ar": "سكاي نيوز عربية",
+     "en": "A magnitude 6.7 earthquake strikes the Yelizovo area in Russia.",
+     "src_en": "Sky News Arabia"
     }
    ]
   },
@@ -52,28 +46,28 @@
    },
    "items": [
     {
-     "ar": "رئيس هيئة اقتصادية قناة السويس: 21 قطاعا مستهدفا، 17 صناعيا و4 خدميا، مع التركيز على تعميق التصنيع المحلي.",
+     "ar": "وزير المالية المصري: نعمل على آلية لضمان مخاطر المصدرين في الأسواق الجديدة ومنها الأفريقية، وهي في مراحل متقدمة.",
      "src_ar": "الشرق بلومبرغ",
-     "en": "The head of the Suez Canal Economic Zone says it targets 21 sectors, 17 industrial and 4 services, with a focus on deepening local manufacturing.",
+     "en": "Egypt's finance minister says work is under way on a mechanism to insure exporters' risks in new markets, including Africa, and it is at an advanced stage.",
      "src_en": "Asharq Bloomberg"
     },
     {
-     "ar": "مساعد وزير الخارجية المصري: نستهدف إطلاق صندوق الاستثمار في أفريقيا التابع لصندوق مصر السيادي خلال 2027.",
+     "ar": "رئيس كليوباترا جروب: نستهدف إنشاء مصنع سيراميك جديد باستثمارات تصل إلى 60 مليون يورو.",
      "src_ar": "الشرق بلومبرغ",
-     "en": "Egypt's assistant foreign minister says the aim is to launch the Africa investment fund of Egypt's sovereign wealth fund in 2027.",
+     "en": "The chairman of Cleopatra Group says it plans a new ceramics factory with investment of up to 60 million euros.",
      "src_en": "Asharq Bloomberg"
     },
     {
-     "ar": "صناديق بتكوين الفورية الأمريكية تخسر 5.78 مليار دولار في نوفمبر، وهو أسوأ شهر لها منذ إطلاقها، بحسب Bull Theory.",
-     "src_ar": "CNBC عربية",
-     "en": "US spot bitcoin funds lose $5.78 billion in November, their worst month since launch, according to Bull Theory.",
-     "src_en": "CNBC Arabia"
+     "ar": "مصادر: نائب محافظ البنك المركزي المصري مرشح لمنصب قيادي في صندوق النقد الدولي.",
+     "src_ar": "العربية Business",
+     "en": "Sources say the deputy governor of Egypt's central bank is a candidate for a senior post at the International Monetary Fund.",
+     "src_en": "Al Arabiya Business"
     },
     {
-     "ar": "كوبيسي ليتر: عملة WLFI التابعة لعائلة ترامب تهبط أكثر من 50% في دقائق، والعملة المستقرة التابعة لها تفقد ربطها بالدولار.",
-     "src_ar": "كوبيسي ليتر",
-     "en": "The Kobeissi Letter says the Trump family's WLFI token fell more than 50% within minutes and its stablecoin lost its peg to the dollar.",
-     "src_en": "The Kobeissi Letter"
+     "ar": "فرنسا على حافة الركود: الاقتصاد ينكمش 0.1% في الربع الثالث وتراجع النشاط الخاص إلى أدنى مستوى في ستة أشهر.",
+     "src_ar": "العربية Business",
+     "en": "France is on the edge of recession: the economy shrank 0.1% in the third quarter and private-sector activity fell to a six-month low.",
+     "src_en": "Al Arabiya Business"
     }
    ]
   },
@@ -84,9 +78,15 @@
    },
    "items": [
     {
-     "ar": "المنتخب الأمريكي للسيدات يحجز بطاقة التأهل إلى كأس العالم 2027 بعد فوزه 8-0 على السلفادور في كونكاكاف، وجامايكا تضمن تأهلها أيضا.",
+     "ar": "النصر يسجل في 100 مباراة متتالية بدوري المحترفين السعودي، في رقم قياسي غير مسبوق.",
+     "src_ar": "فيلجول",
+     "en": "Al Nassr score in 100 consecutive Saudi Pro League games, an unprecedented record.",
+     "src_en": "FilGoal"
+    },
+    {
+     "ar": "سبيرز يتغلب على ليكرز ويتأهل إلى الأدوار الإقصائية لكأس الدوري الأمريكي للمحترفين.",
      "src_ar": "رويترز",
-     "en": "The US women's team qualifies for the 2027 World Cup after beating El Salvador 8-0 in Concacaf, and Jamaica also secures a place.",
+     "en": "The Spurs edge the Lakers and reach the NBA Cup knockout stage.",
      "src_en": "Reuters"
     }
    ]
