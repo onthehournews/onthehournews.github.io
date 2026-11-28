@@ -1,11 +1,11 @@
 {
- "id": "2026-11-28T13:00",
+ "id": "2026-11-28T14:00",
  "date": {
   "ar": "السبت 28 نوفمبر 2026",
   "en": "Saturday 28 November 2026"
  },
- "uae": "1:00 PM",
- "cairo": "11:00 AM",
+ "uae": "2:00 PM",
+ "cairo": "12:00 PM",
  "sections": [
   {
    "title": {
@@ -14,33 +14,27 @@
    },
    "items": [
     {
-     "ar": "مجلس الوزراء المصري يعقد اجتماعا استثنائيا غدا لبحث إجراءات الحد من حوادث الطرق.",
-     "src_ar": "CNBC عربية",
-     "en": "Egypt's cabinet will hold an extraordinary meeting tomorrow to discuss measures to reduce road accidents.",
-     "src_en": "CNBC Arabia"
-    },
-    {
-     "ar": "المقررة الأممية فرانشيسكا ألبانيزي تعلن مغادرتها مطار كوستاريكا بعد منعها من دخول البلاد، وتشكر كل من ساعدها.",
-     "src_ar": "الجزيرة",
-     "en": "UN rapporteur Francesca Albanese says she has left the Costa Rica airport after being barred from entering the country, and thanks those who helped her.",
-     "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "روسيا تقول إنها أسقطت 1246 طائرة مسيّرة أوكرانية خلال الليل.",
-     "src_ar": "رويترز",
-     "en": "Russia says it shot down 1,246 Ukrainian drones overnight.",
-     "src_en": "Reuters"
-    },
-    {
-     "ar": "الدفاع المدني السعودي يطلق إنذارا مبكرا في منطقة جازان تحسبا لخطر محتمل، ثم يعلن زوال الخطر.",
+     "ar": "الحكومة الأفغانية: مقتل 7 أشخاص وإصابة نحو 99 آخرين في انفجار قرب مدرسة بولاية كونار شرقي البلاد.",
      "src_ar": "سكاي نيوز عربية",
-     "en": "Saudi Civil Defense issues an early warning in the Jazan region over a possible danger, then declares the danger over.",
+     "en": "The Afghan government says 7 people were killed and about 99 injured in an explosion at a school in the eastern province of Kunar.",
      "src_en": "Sky News Arabia"
     },
     {
-     "ar": "الأمن العام الأردني: إصابة 20 شخصا بضيق تنفس بعد استنشاق مبيدات حشرية داخل مصنع في منطقة الكرامة بمحافظة البلقاء.",
+     "ar": "الغارديان عن وزارة التعليم في غزة: استشهاد 16 طالبا منذ بداية نوفمبر جراء التصعيد الإسرائيلي في القطاع.",
+     "src_ar": "الجزيرة",
+     "en": "The Guardian, citing Gaza's education ministry, says 16 school students have been killed since the start of November in the Israeli escalation in the Strip.",
+     "src_en": "Al Jazeera"
+    },
+    {
+     "ar": "لجنة طوارئ الشتاء في غزة: ادعاء إسرائيل إدخال 100 ألف خيمة و9 آلاف شاحنة لمستلزمات الشتاء يتناقض مع الواقع، وتطالب الأمم المتحدة بكشف مصير الخيام.",
+     "src_ar": "الجزيرة",
+     "en": "Gaza's winter emergency committee says Israel's claim that it let in 100,000 tents and 9,000 trucks of winter supplies contradicts reality, and asks the UN to reveal where the tents went.",
+     "src_en": "Al Jazeera"
+    },
+    {
+     "ar": "التحالف: اعتراض صاروخ باليستي أطلقته ميليشيا الحوثي باتجاه المنطقة الجنوبية في السعودية.",
      "src_ar": "سكاي نيوز عربية",
-     "en": "Jordan's Public Security says 20 people suffered breathing difficulty after inhaling pesticides inside a factory in the Karama area of Balqa governorate.",
+     "en": "The coalition says it intercepted a ballistic missile fired by the Houthi militia towards Saudi Arabia's southern region.",
      "src_en": "Sky News Arabia"
     }
    ]
@@ -52,16 +46,36 @@
    },
    "items": [
     {
-     "ar": "متوسط سعر الجنيه المصري أمام الدولار يتراجع نحو 1.9% خلال الأسبوع المنتهي الخميس إلى نحو 54.77 جنيه للشراء، وفق بيانات البنك المركزي.",
+     "ar": "الأجانب يسجلون صافي بيع بنحو 592 مليون دولار في أذون الخزانة المصرية خلال أسبوع، بعد صافي شراء في أول ثلاثة أسابيع من نوفمبر.",
      "src_ar": "الشرق بلومبرغ",
-     "en": "The Egyptian pound's average rate against the dollar fell about 1.9% in the week to Thursday, to about 54.77 pounds to buy, according to central bank data.",
+     "en": "Foreign investors were net sellers of about $592 million of Egyptian treasury bills in a week, after net buying in the first three weeks of November.",
      "src_en": "Asharq Bloomberg"
     },
     {
-     "ar": "صادرات قطر تتراجع 49% في النصف الأول، والميزان التجاري يهبط 67%.",
+     "ar": "مصر لتأمينات الحياة: الطرح لحصة 15% بقيمة 9.6 مليار جنيه، وبدء التداول المتوقع يوم الخميس 3 ديسمبر.",
      "src_ar": "CNBC عربية",
-     "en": "Qatar's exports fall 49% in the first half, and its trade balance drops 67%.",
+     "en": "Misr Life Insurance's offering of a 15% stake is worth 9.6 billion pounds, and trading is expected to start on Thursday 3 December.",
      "src_en": "CNBC Arabia"
+    },
+    {
+     "ar": "وزير الخارجية المصري: استثمارات مصر في أفريقيا نحو 14 مليار دولار، وتجهيز كيان للاستثمار في القارة يركز على التعدين والزراعة.",
+     "src_ar": "الشرق بلومبرغ",
+     "en": "Egypt's foreign minister says Egypt's investments in Africa stand at about $14 billion, and a vehicle to invest in the continent focused on mining and agriculture is being finalised.",
+     "src_en": "Asharq Bloomberg"
+    }
+   ]
+  },
+  {
+   "title": {
+    "ar": "رياضة",
+    "en": "Sport"
+   },
+   "items": [
+    {
+     "ar": "إنجلترا تتغلب على أستراليا بسبعة ويكيتات في بريسبان وتتقدم 2-1 في سلسلة تي 20، بعد انهيار أسترالي قياسي.",
+     "src_ar": "جلف نيوز",
+     "en": "England beat Australia by seven wickets in Brisbane to lead the T20 series 2-1, after a record Australian collapse.",
+     "src_en": "Gulf News"
     }
    ]
   }
