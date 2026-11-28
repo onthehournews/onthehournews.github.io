@@ -1,11 +1,11 @@
 {
- "id": "2026-11-28T11:00",
+ "id": "2026-11-28T12:00",
  "date": {
   "ar": "السبت 28 نوفمبر 2026",
   "en": "Saturday 28 November 2026"
  },
- "uae": "11:00 AM",
- "cairo": "9:00 AM",
+ "uae": "12:00 PM",
+ "cairo": "10:00 AM",
  "sections": [
   {
    "title": {
@@ -14,16 +14,22 @@
    },
    "items": [
     {
-     "ar": "نائب رئيس أركان القوات المسلحة الإيرانية: أي مكان في العالم يطلق منه النار علينا سيكون هدفا مشروعا لنا.",
-     "src_ar": "الجزيرة",
-     "en": "Iran's deputy chief of the armed forces general staff says any place in the world from which fire is launched at Iran will be a legitimate target.",
-     "src_en": "Al Jazeera"
+     "ar": "وفاة مصري وفقدان اثنين وإصابة 10 في غرق سفينة شحن قبالة كوبا، والخارجية المصرية تتابع الواقعة.",
+     "src_ar": "العربية مصر",
+     "en": "One Egyptian is dead, two are missing and 10 are injured after a cargo ship sank off Cuba, and Egypt's foreign ministry is following the case.",
+     "src_en": "Al Arabiya Egypt"
     },
     {
-     "ar": "فاينانشال تايمز: أمريكا وبريطانيا لا تستبعدان وجود معدات تجسس على الطائرات المسيّرة التي حلّقت فوق قاعدة لاكنهيث.",
-     "src_ar": "العربية عن فاينانشال تايمز",
-     "en": "The Financial Times reports that the US and UK do not rule out spy equipment on the drones that flew over RAF Lakenheath.",
-     "src_en": "Al Arabiya, citing the Financial Times"
+     "ar": "هيئة بحرية بريطانية: أشخاص مسلحون صعدوا إلى سفينة شحن على بعد 64 ميلا بحريا جنوب غرب بلحاف في اليمن وسيطروا على قيادتها.",
+     "src_ar": "العربية عاجل",
+     "en": "A British maritime agency says armed people boarded a cargo ship 64 nautical miles south-west of Balhaf in Yemen and took control of it.",
+     "src_en": "Al Arabiya Breaking News"
+    },
+    {
+     "ar": "مسؤول أفغاني للجزيرة: قتلى وجرحى في انفجار داخل مدرسة في ولاية كونر شرقي البلاد.",
+     "src_ar": "الجزيرة",
+     "en": "An Afghan official tells Al Jazeera there are dead and wounded in an explosion inside a school in the eastern province of Kunar.",
+     "src_en": "Al Jazeera"
     }
    ]
   },
@@ -34,36 +40,16 @@
    },
    "items": [
     {
-     "ar": "عملة WLFI المرتبطة بعائلة ترامب تهبط نحو 46.4% عن إغلاق 27 نوفمبر إلى 0.01918 دولار، مع تصفيات لمراكز شراء بنحو 10.9 مليون دولار خلال ساعة.",
-     "src_ar": "CNBC عربية",
-     "en": "The WLFI token linked to the Trump family falls about 46.4% from its 27 November close to $0.01918, with about $10.9 million of long positions liquidated within an hour.",
-     "src_en": "CNBC Arabia"
+     "ar": "فائض الميزان التجاري للسعودية يقفز 38% خلال تسعة أشهر ليتخطى 60 مليار دولار.",
+     "src_ar": "العربية Business",
+     "en": "Saudi Arabia's trade surplus jumps 38% over nine months to more than $60 billion.",
+     "src_en": "Al Arabiya Business"
     },
     {
-     "ar": "إغلاق بنك يونايتد فيديليتي الأمريكي في أكبر انهيار مصرفي بالولايات المتحدة منذ عامين، وبنك فيرست سيتيزنز يشتري أصوله.",
-     "src_ar": "رويترز",
-     "en": "US regulators shut United Fidelity Bank in the biggest US bank failure in two years, and First Citizens buys its assets.",
-     "src_en": "Reuters"
-    }
-   ]
-  },
-  {
-   "title": {
-    "ar": "رياضة",
-    "en": "Sport"
-   },
-   "items": [
-    {
-     "ar": "وفاة حارس مرمى منتخب آيسلندا السابق إنغفار يونسون عن 37 عاما.",
-     "src_ar": "الإمارات اليوم",
-     "en": "Former Iceland goalkeeper Ingvar Jonsson has died at 37.",
-     "src_en": "Emarat Al Youm"
-    },
-    {
-     "ar": "إنتر ميامي بقيادة ميسي يودّع التصفيات الأمريكية بهدف قاتل في الوقت بدل الضائع لكولومبوس كرو.",
-     "src_ar": "جلف نيوز",
-     "en": "Lionel Messi's Inter Miami are knocked out of the MLS Cup playoffs by an injury-time goal from Columbus Crew.",
-     "src_en": "Gulf News"
+     "ar": "عملة ترمب تنهار أكثر من 98% من قمتها، فيما تواصل المحافظ الكبرى حضور حفلات المستثمرين، وفق العربية Business.",
+     "src_ar": "العربية Business",
+     "en": "The Trump coin has collapsed more than 98% from its peak, while big wallets still attend investor events, according to Al Arabiya Business.",
+     "src_en": "Al Arabiya Business"
     }
    ]
   }
