@@ -1,11 +1,11 @@
 {
- "id": "2026-11-28T04:00",
+ "id": "2026-11-28T05:00",
  "date": {
   "ar": "السبت 28 نوفمبر 2026",
   "en": "Saturday 28 November 2026"
  },
- "uae": "4:00 AM",
- "cairo": "2:00 AM",
+ "uae": "5:00 AM",
+ "cairo": "3:00 AM",
  "sections": [
   {
    "title": {
@@ -14,45 +14,33 @@
    },
    "items": [
     {
-     "ar": "وزيرة التضامن الاجتماعي المصرية مايا مرسي: بدء تسليم الدعم لأسر ضحايا حريق الوراق يوم الاثنين، والمساهمات تتجاوز 400 مليون جنيه.",
-     "src_ar": "العربية مصر",
-     "en": "Egypt's Social Solidarity Minister Maya Morsi says support payments to the families of the Warraq fire victims will start on Monday, and contributions have passed 400 million pounds.",
-     "src_en": "Al Arabiya Egypt"
+     "ar": "القيادة المركزية الأميركية: ادعاء إيران أنها استعادت ناقلتي نفط من الجيش الأميركي كاذب، وكذلك الادعاء بأن حاملة الطائرات أبراهام لينكولن تعرضت لهجوم. العربية: الحاملة أكملت مهمتها في الشرق الأوسط وعادت إلى أميركا.",
+     "src_ar": "الجزيرة والعربية",
+     "en": "US Central Command says Iran's claim that it recovered two oil tankers from the US military is false, as is the claim that the carrier Abraham Lincoln was attacked. Al Arabiya reports the carrier has finished its Middle East mission and returned to the United States.",
+     "src_en": "Al Jazeera and Al Arabiya"
     },
     {
-     "ar": "كبلر: تدفقات النفط عبر مضيق هرمز لا تزال عند 31% فقط من مستويات ما قبل الحرب بين الولايات المتحدة وإيران.",
-     "src_ar": "الجزيرة",
-     "en": "Kpler says oil flows through the Strait of Hormuz are still only 31% of their level before the US-Iran war.",
-     "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "قائد القوات البحرية في الجيش الإيراني يقول إن قواته استهدفت حاملة الطائرات الأميركية أبراهام لينكولن بصاروخ في اليوم الثاني للحرب، مؤكدا إصابتها.",
-     "src_ar": "الجزيرة",
-     "en": "The commander of the Iranian army's navy says his forces hit the US aircraft carrier Abraham Lincoln with a missile on the second day of the war, and claims it was struck.",
-     "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "الجيش الإسرائيلي يقول إنه قتل فلسطينيين اثنين في غارة بمدينة غزة كانا يعملان حارسي أمن في عيادة لأطباء بلا حدود، وإن أحدهما قاد خلية مدفعية في حماس. المنظمة تقول إن منشآتها تحمل شعارها بوضوح وإن الجيش أُبلغ بمواقعها.",
+     "ar": "القيادة المركزية الأميركية: القوات الأميركية وشركاؤها الإقليميون يسيطرون على مضيق هرمز ولا تفرض رسوما على السفن العابرة، وآلاف السفن ومليارات البراميل عبرت بأمان، ولم يعد لدى إيران قوة بحرية فعلية.",
      "src_ar": "سكاي نيوز عربية والجزيرة",
-     "en": "The Israeli army says it killed two Palestinians in a Gaza City strike who worked as security guards at a Doctors Without Borders clinic, and that one led an artillery cell for Hamas. The organisation says its facilities are clearly marked and the army was told where they are.",
+     "en": "US Central Command says US forces and regional partners control the Strait of Hormuz and charge no fees for ships passing through, that thousands of ships and billions of barrels have crossed safely, and that Iran no longer has an effective navy.",
      "src_en": "Sky News Arabia and Al Jazeera"
     },
     {
-     "ar": "رئيس لجنة الشؤون الخارجية في البرلمان الأوكراني يطالب باستبعاد المبعوث الأميركي جاريد كوشنر من مفاوضات السلام مع موسكو بعد وصفه بوتين بأنه \"أستاذ كبير في السياسة\".",
+     "ar": "مصدر رفيع بالجيش السوداني للجزيرة: مسيرات تابعة للدعم السريع تستهدف مقار عسكرية ومدنية في مدينة الدمازين.",
      "src_ar": "الجزيرة",
-     "en": "The head of the Ukrainian parliament's foreign affairs committee demands that US envoy Jared Kushner be removed from peace talks with Moscow after he called Putin a \"grand master of politics\".",
+     "en": "A senior Sudanese army source tells Al Jazeera that Rapid Support Forces drones are targeting military and civilian sites in the city of Damazin.",
      "src_en": "Al Jazeera"
     },
     {
-     "ar": "مصادر في صنعاء للعربية: دوي انفجارات في مناطق متفرقة من المدينة مع تحليق مكثف للمسيرات، فيما تقول وسائل إعلام حوثية إن قصفا يستهدف العاصمة.",
-     "src_ar": "العربية والجزيرة",
-     "en": "Sources in Sanaa tell Al Arabiya of explosions across the city and heavy drone activity, while Houthi-linked media say the capital is being bombed.",
-     "src_en": "Al Arabiya and Al Jazeera"
+     "ar": "إدارة الطيران الفيدرالية الأميركية: لا إصابات جراء حادث في مطار رونالد ريغان واشنطن الوطني، وستفتح تحقيقا.",
+     "src_ar": "الجزيرة",
+     "en": "The US Federal Aviation Administration says no injuries were reported from an incident at Ronald Reagan Washington National Airport, and that it will open an investigation.",
+     "src_en": "Al Jazeera"
     },
     {
-     "ar": "وزير الخارجية المالي للجزيرة: أوكرانيا من الدول التي تقدم دعما لوجستيا وتدريبا وطائرات مسيرة لجماعات إرهابية في مالي ومنطقة الساحل.",
+     "ar": "متحدث باسم الخارجية الأميركية للجزيرة: ندعم عراقا موحدا وفيدراليا وذا سيادة وإقليما مستقرا لكردستان ضمن العراق، وحل القضايا العالقة بين بغداد وأربيل بالحوار.",
      "src_ar": "الجزيرة",
-     "en": "Mali's foreign minister tells Al Jazeera that Ukraine is among the countries providing logistical support, training and drones to terrorist groups in Mali and the Sahel.",
+     "en": "A US State Department spokesperson tells Al Jazeera that Washington supports a united, federal and sovereign Iraq with a stable Kurdistan Region inside it, and resolving open issues between Baghdad and Erbil through dialogue.",
      "src_en": "Al Jazeera"
     }
    ]
@@ -64,15 +52,35 @@
    },
    "items": [
     {
-     "ar": "مؤشر الذعر عند 9.8 من 10، وغولدمان ساكس يرى فرصة شراء في وول ستريت لكن الاستسلام الجماعي للمستثمرين لم يحدث بعد.",
+     "ar": "ستاندرد آند بورز تعدل النظرة المستقبلية للتصنيف الائتماني لفرنسا إلى سلبية، مع ضغوط على الميزانية العامة وضعف النمو.",
+     "src_ar": "سي إن بي سي عربية",
+     "en": "S&P revises its outlook on France's credit rating to negative, citing pressure on the public budget and weak growth.",
+     "src_en": "CNBC Arabia"
+    },
+    {
+     "ar": "بتكوين تسجل سبعة أسابيع متتالية من الخسائر وتهبط إلى 55,254 دولارا قبل أن تتعافى فوق 61 ألفا، وخروج 1.8 مليار دولار من صناديقها الأميركية في أسبوع.",
      "src_ar": "العربية بزنس",
-     "en": "The panic index stands at 9.8 out of 10, and Goldman Sachs sees a buying opportunity on Wall Street, though investors have not yet capitulated en masse.",
+     "en": "Bitcoin logs seven straight weekly losses, falling to $55,254 before recovering above $61,000, while $1.8 billion left its US funds in a week.",
      "src_en": "Al Arabiya Business"
     },
     {
-     "ar": "رئيس وزراء هولندا سيبحث مع ترامب في قمة العشرين قانون ماتش للحد من صادرات معدات صناعة الرقائق.",
+     "ar": "بويغ تشتري مالكة بارفان دو مارلي من أدفنت في صفقة بقيمة 1.2 مليار يورو.",
      "src_ar": "رويترز",
-     "en": "The Dutch prime minister will discuss the MATCH Act chipmaking export controls with Trump at the G20.",
+     "en": "Puig is to buy the owner of Parfums de Marly from Advent in a 1.2 billion euro deal.",
+     "src_en": "Reuters"
+    }
+   ]
+  },
+  {
+   "title": {
+    "ar": "رياضة",
+    "en": "Sport"
+   },
+   "items": [
+    {
+     "ar": "أسعار تذاكر ستيلرز تهبط 66% بعد رحيل آرون رودجرز.",
+     "src_ar": "رويترز",
+     "en": "Steelers ticket prices plunge 66% after Aaron Rodgers' release.",
      "src_en": "Reuters"
     }
    ]
