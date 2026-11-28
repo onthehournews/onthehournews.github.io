@@ -1,11 +1,11 @@
 {
- "id": "2026-11-28T19:00",
+ "id": "2026-11-28T20:00",
  "date": {
   "ar": "السبت 28 نوفمبر 2026",
   "en": "Saturday 28 November 2026"
  },
- "uae": "7:00 PM",
- "cairo": "5:00 PM",
+ "uae": "8:00 PM",
+ "cairo": "6:00 PM",
  "sections": [
   {
    "title": {
@@ -14,33 +14,39 @@
    },
    "items": [
     {
-     "ar": "وزير الخارجية المصري: البحر الأحمر للدول المشاطئة له ونحن ضد عسكرته، ولا يمكن رهن حقوق مصر المائية بتصريحات شفهية حتى لو كانت إيجابية.",
-     "src_ar": "العربية عاجل وسكاي نيوز عربية",
-     "en": "Egypt's foreign minister says the Red Sea belongs to its coastal states and Egypt opposes its militarization, and that Egypt's water rights cannot hinge on verbal statements, even positive ones.",
-     "src_en": "Al Arabiya and Sky News Arabia"
-    },
-    {
-     "ar": "اشتباكات بين الشرطة ومتظاهرين في العاصمة الألبانية تيرانا خلال احتجاجات تطالب باستقالة رئيس الوزراء إيدي راما بسبب اتهامات بالفساد.",
+     "ar": "الجيش الإيراني: دفاعاتنا الجوية أسقطت مسيّرة استطلاع معادية فوق مضيق هرمز.",
      "src_ar": "الجزيرة",
-     "en": "Police clash with protesters in Tirana, Albania, during protests demanding the resignation of Prime Minister Edi Rama over corruption allegations.",
+     "en": "Iran's army says its air defences shot down a hostile reconnaissance drone over the Strait of Hormuz.",
      "src_en": "Al Jazeera"
     },
     {
-     "ar": "البحرين تستدعي السفير اللبناني وتسلمه مذكرة احتجاج على لقاء في بيروت تضمن تصريحات مسيئة للمملكة.",
-     "src_ar": "سكاي نيوز عربية",
-     "en": "Bahrain summons Lebanon's ambassador and hands him a formal protest note over a meeting in Beirut that included remarks offensive to the kingdom.",
-     "src_en": "Sky News Arabia"
+     "ar": "الخارجية القطرية: رئيس الوزراء بحث مع وزير الخارجية الروسي جهود خفض التصعيد في المنطقة، وأكد دعم المساعي لحل يضمن حرية الملاحة ويمهد لاتفاق شامل.",
+     "src_ar": "الجزيرة",
+     "en": "Qatar's foreign ministry says the prime minister discussed de-escalation efforts in the region with Russia's foreign minister and backed efforts for a solution that guarantees freedom of navigation and paves the way for a comprehensive deal.",
+     "src_en": "Al Jazeera"
     },
     {
-     "ar": "وزارة الدفاع الروسية: استهدفنا محطة فرعية للكهرباء ومحطة للطاقة الحرارية في كييف.",
-     "src_ar": "سكاي نيوز عربية",
-     "en": "Russia's defence ministry says it targeted an electrical substation and a thermal power plant in Kyiv.",
-     "src_en": "Sky News Arabia"
+     "ar": "الجيش الأوكراني: استهدفنا مصفاة نفط في مقاطعة روستوف ومنشآت نفطية في سامارا وباشكورتوستان.",
+     "src_ar": "العربية عاجل",
+     "en": "Ukraine's military says it hit an oil refinery in Russia's Rostov region and oil facilities in Samara and Bashkortostan.",
+     "src_en": "Al Arabiya"
     },
     {
-     "ar": "المحافظون يفوزون في انتخابات ولاية فيكتوريا الأسترالية، ويحرمون حزب أمة واحدة المناهض للهجرة من أي مكاسب كبيرة.",
+     "ar": "وزارة الصحة الفلسطينية تدين اقتحام قوات الاحتلال مستشفى دورا الحكومي في الخليل وتصفه بانتهاك للقانون الدولي الإنساني.",
+     "src_ar": "الجزيرة",
+     "en": "The Palestinian health ministry condemns an Israeli forces raid on the government hospital in Dura, Hebron, calling it a violation of international humanitarian law.",
+     "src_en": "Al Jazeera"
+    },
+    {
+     "ar": "كيم جونغ أون يصف امتلاك الأسلحة النووية بأنه خيار لا رجعة فيه، ويعتبر إنكار الوضع النووي لبلاده إعلان حرب.",
+     "src_ar": "الجزيرة",
+     "en": "Kim Jong Un calls nuclear weapons an irreversible choice and says any denial of North Korea's nuclear status is a declaration of war.",
+     "src_en": "Al Jazeera"
+    },
+    {
+     "ar": "محكمة دولية ترفض طلب الأرجنتين اتخاذ تدابير مؤقتة لوقف عمليات استكشاف النفط التي أذنت بها بريطانيا قرب جزر فوكلاند.",
      "src_ar": "رويترز",
-     "en": "Conservatives win the election in Australia's Victoria state, denying the anti-immigration One Nation party any significant gains.",
+     "en": "An international court rejects Argentina's request for provisional measures to halt oil exploration authorised by Britain near the Falkland Islands.",
      "src_en": "Reuters"
     }
    ]
@@ -52,22 +58,22 @@
    },
    "items": [
     {
-     "ar": "فاتورة واردات مصر من الغاز تقفز نحو 50% إلى 6.7 مليار دولار.",
-     "src_ar": "الشرق بلومبرغ",
-     "en": "Egypt's gas import bill jumps nearly 50% to $6.7 billion.",
-     "src_en": "Asharq Bloomberg"
+     "ar": "إنفاق قياسي في الجمعة السوداء بأمريكا: 13.1 مليار دولار تسوقا عبر الإنترنت.",
+     "src_ar": "العربية Business",
+     "en": "Record Black Friday spending in the US: $13.1 billion in online shopping.",
+     "src_en": "Al Arabiya Business"
     },
     {
-     "ar": "ميناء صحار والمنطقة الحرة في عُمان يستقطبان استثمارات بقيمة 286 مليون ريال عماني، ومناولة الحاويات ترتفع 40.6% في أول عشرة أشهر.",
+     "ar": "قيمة صادرات النفط السعودية ترتفع 11.45 مليار دولار خلال تسعة أشهر.",
+     "src_ar": "العربية Business",
+     "en": "The value of Saudi oil exports rises by $11.45 billion over nine months.",
+     "src_en": "Al Arabiya Business"
+    },
+    {
+     "ar": "أسعار المنتجين في سلطنة عُمان ترتفع 24.8% على أساس سنوي في الربع الثالث من 2026.",
      "src_ar": "CNBC عربية",
-     "en": "Oman's Sohar port and free zone attract investments of 286 million Omani rials, and container handling rose 40.6% in the first ten months.",
+     "en": "Producer prices in Oman rise 24.8% year on year in the third quarter of 2026.",
      "src_en": "CNBC Arabia"
-    },
-    {
-     "ar": "المتسوقون الصينيون يتجهون إلى السترات المبطنة الأقل سعرا، مع تراجع جاذبية العلامات الفاخرة.",
-     "src_ar": "رويترز",
-     "en": "Chinese shoppers turn to cheaper puffer jackets as luxury brands lose appeal.",
-     "src_en": "Reuters"
     }
    ]
   },
@@ -78,10 +84,10 @@
    },
    "items": [
     {
-     "ar": "إسبانيا تتأهل إلى نهائي كأس ديفيس لملاقاة إيطاليا حاملة اللقب والمستضيفة، بعد فوزها 2-0 على بريطانيا.",
-     "src_ar": "بي إن سبورتس",
-     "en": "Spain reach the Davis Cup final against hosts and holders Italy after beating Britain 2-0.",
-     "src_en": "beIN Sports"
+     "ar": "بيتزيكي يحطم الرقم القياسي للفة ويخطف قطب الانطلاق في فالنسيا من ماركيز.",
+     "src_ar": "رويترز",
+     "en": "Bezzecchi sets a lap record to snatch pole in Valencia from Marquez.",
+     "src_en": "Reuters"
     }
    ]
   }
