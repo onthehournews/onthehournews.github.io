@@ -1,11 +1,11 @@
 {
- "id": "2026-11-28T20:00",
+ "id": "2026-11-28T21:00",
  "date": {
   "ar": "السبت 28 نوفمبر 2026",
   "en": "Saturday 28 November 2026"
  },
- "uae": "8:00 PM",
- "cairo": "6:00 PM",
+ "uae": "9:00 PM",
+ "cairo": "7:00 PM",
  "sections": [
   {
    "title": {
@@ -14,40 +14,34 @@
    },
    "items": [
     {
-     "ar": "الجيش الإيراني: دفاعاتنا الجوية أسقطت مسيّرة استطلاع معادية فوق مضيق هرمز.",
-     "src_ar": "الجزيرة",
-     "en": "Iran's army says its air defences shot down a hostile reconnaissance drone over the Strait of Hormuz.",
-     "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "الخارجية القطرية: رئيس الوزراء بحث مع وزير الخارجية الروسي جهود خفض التصعيد في المنطقة، وأكد دعم المساعي لحل يضمن حرية الملاحة ويمهد لاتفاق شامل.",
-     "src_ar": "الجزيرة",
-     "en": "Qatar's foreign ministry says the prime minister discussed de-escalation efforts in the region with Russia's foreign minister and backed efforts for a solution that guarantees freedom of navigation and paves the way for a comprehensive deal.",
-     "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "الجيش الأوكراني: استهدفنا مصفاة نفط في مقاطعة روستوف ومنشآت نفطية في سامارا وباشكورتوستان.",
-     "src_ar": "العربية عاجل",
-     "en": "Ukraine's military says it hit an oil refinery in Russia's Rostov region and oil facilities in Samara and Bashkortostan.",
-     "src_en": "Al Arabiya"
-    },
-    {
-     "ar": "وزارة الصحة الفلسطينية تدين اقتحام قوات الاحتلال مستشفى دورا الحكومي في الخليل وتصفه بانتهاك للقانون الدولي الإنساني.",
-     "src_ar": "الجزيرة",
-     "en": "The Palestinian health ministry condemns an Israeli forces raid on the government hospital in Dura, Hebron, calling it a violation of international humanitarian law.",
-     "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "كيم جونغ أون يصف امتلاك الأسلحة النووية بأنه خيار لا رجعة فيه، ويعتبر إنكار الوضع النووي لبلاده إعلان حرب.",
-     "src_ar": "الجزيرة",
-     "en": "Kim Jong Un calls nuclear weapons an irreversible choice and says any denial of North Korea's nuclear status is a declaration of war.",
-     "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "محكمة دولية ترفض طلب الأرجنتين اتخاذ تدابير مؤقتة لوقف عمليات استكشاف النفط التي أذنت بها بريطانيا قرب جزر فوكلاند.",
+     "ar": "نتنياهو يعلن استعداده للسماح لزعيم المعارضة جادي آيزنكوت بتولي رئاسة الوزراء أولا ضمن تناوب في حكومة وحدة وطنية، ويقول إنه سيكون رئيس الحكومة البديل.",
      "src_ar": "رويترز",
-     "en": "An international court rejects Argentina's request for provisional measures to halt oil exploration authorised by Britain near the Falkland Islands.",
+     "en": "Netanyahu says he is ready to let opposition leader Gadi Eisenkot serve as prime minister first under a rotation in a national unity government, with himself as alternate prime minister.",
      "src_en": "Reuters"
+    },
+    {
+     "ar": "لابيد وغولان ورئيس القائمة المشتركة يرفضون مقترح نتنياهو ويصفونه بالخدعة والمناورة، بينما يقول سموتريتش إن مساعيه نحو الوحدة صادقة.",
+     "src_ar": "سكاي نيوز عربية والجزيرة",
+     "en": "Lapid, Golan and the head of the Joint List reject Netanyahu's proposal as a trick and a manoeuvre, while Smotrich says his push for unity is sincere.",
+     "src_en": "Sky News Arabia and Al Jazeera"
+    },
+    {
+     "ar": "العملة الإيرانية تتراجع إلى مستوى قياسي قرب 3 ملايين ريال للدولار وسط العقوبات والحصار الأمريكي.",
+     "src_ar": "رويترز عبر سكاي نيوز عربية",
+     "en": "Iran's currency falls to a record low near 3 million rials per dollar amid sanctions and the US blockade.",
+     "src_en": "Reuters via Sky News Arabia"
+    },
+    {
+     "ar": "الخارجية اللبنانية: المواقف المسيئة للبحرين خلال لقاء بيروت لا تعبر عن موقف الدولة، والحكومة لم تشارك في تنظيمه.",
+     "src_ar": "سكاي نيوز عربية",
+     "en": "Lebanon's foreign ministry says the remarks insulting Bahrain at the Beirut meeting do not reflect the state's position and the government took no part in organising it.",
+     "src_en": "Sky News Arabia"
+    },
+    {
+     "ar": "المديرة التنفيذية للجنة العامة لمناهضة التعذيب في إسرائيل: محققو الشاباك يحصلون على أذونات مسبقة لتعذيب المعتقلين الفلسطينيين.",
+     "src_ar": "الجزيرة",
+     "en": "The executive director of the Public Committee Against Torture in Israel says Shin Bet interrogators receive advance permission to torture Palestinian detainees.",
+     "src_en": "Al Jazeera"
     }
    ]
   },
@@ -58,22 +52,16 @@
    },
    "items": [
     {
-     "ar": "إنفاق قياسي في الجمعة السوداء بأمريكا: 13.1 مليار دولار تسوقا عبر الإنترنت.",
-     "src_ar": "العربية Business",
-     "en": "Record Black Friday spending in the US: $13.1 billion in online shopping.",
-     "src_en": "Al Arabiya Business"
+     "ar": "مدير مؤسسة التمويل الدولية في مصر: نستهدف رفع محفظتنا الاستثمارية في أفريقيا 84% إلى 35 مليار دولار خلال خمس سنوات، وحصة مصر الحالية 2.5 مليار دولار.",
+     "src_ar": "الشرق بلومبرغ",
+     "en": "The IFC's director in Egypt says it aims to raise its Africa investment portfolio 84% to $35 billion over five years, with Egypt's current share at $2.5 billion.",
+     "src_en": "Asharq Bloomberg"
     },
     {
-     "ar": "قيمة صادرات النفط السعودية ترتفع 11.45 مليار دولار خلال تسعة أشهر.",
+     "ar": "واشنطن تشدد قيود الرقائق، والبنوك تجمد صفقات تمويل بمليارات الدولارات، منها 49 مليار دولار من قروض مراكز البيانات الآسيوية.",
      "src_ar": "العربية Business",
-     "en": "The value of Saudi oil exports rises by $11.45 billion over nine months.",
+     "en": "Washington tightens chip restrictions and banks freeze multibillion-dollar financing deals, including $49 billion in Asian data-centre loans.",
      "src_en": "Al Arabiya Business"
-    },
-    {
-     "ar": "أسعار المنتجين في سلطنة عُمان ترتفع 24.8% على أساس سنوي في الربع الثالث من 2026.",
-     "src_ar": "CNBC عربية",
-     "en": "Producer prices in Oman rise 24.8% year on year in the third quarter of 2026.",
-     "src_en": "CNBC Arabia"
     }
    ]
   },
@@ -84,10 +72,16 @@
    },
    "items": [
     {
-     "ar": "بيتزيكي يحطم الرقم القياسي للفة ويخطف قطب الانطلاق في فالنسيا من ماركيز.",
-     "src_ar": "رويترز",
-     "en": "Bezzecchi sets a lap record to snatch pole in Valencia from Marquez.",
-     "src_en": "Reuters"
+     "ar": "المصرية هنا جودة تتوج بذهبية بطولة العالم لتنس الطاولة للناشئين، لتصبح أول لاعبة عربية وأفريقية تحقق اللقب.",
+     "src_ar": "العربية مصر",
+     "en": "Egypt's Hana Gouda wins gold at the world junior table tennis championships, becoming the first Arab and African player to take the title.",
+     "src_en": "Al Arabiya Egypt"
+    },
+    {
+     "ar": "برنتفورد يهزم مانشستر يونايتد 4-0 على ملعب أولد ترافورد في الدوري الإنجليزي الممتاز.",
+     "src_ar": "بي إن سبورتس",
+     "en": "Brentford beat Manchester United 4-0 at Old Trafford in the Premier League.",
+     "src_en": "beIN Sports"
     }
    ]
   }
