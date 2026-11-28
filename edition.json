@@ -1,11 +1,11 @@
 {
- "id": "2026-11-28T21:00",
+ "id": "2026-11-28T22:00",
  "date": {
   "ar": "السبت 28 نوفمبر 2026",
   "en": "Saturday 28 November 2026"
  },
- "uae": "9:00 PM",
- "cairo": "7:00 PM",
+ "uae": "10:00 PM",
+ "cairo": "8:00 PM",
  "sections": [
   {
    "title": {
@@ -14,34 +14,34 @@
    },
    "items": [
     {
-     "ar": "نتنياهو يعلن استعداده للسماح لزعيم المعارضة جادي آيزنكوت بتولي رئاسة الوزراء أولا ضمن تناوب في حكومة وحدة وطنية، ويقول إنه سيكون رئيس الحكومة البديل.",
-     "src_ar": "رويترز",
-     "en": "Netanyahu says he is ready to let opposition leader Gadi Eisenkot serve as prime minister first under a rotation in a national unity government, with himself as alternate prime minister.",
-     "src_en": "Reuters"
+     "ar": "آيزنكوت يدعو نتنياهو وفريقه إلى اجتماع الليلة لإجراء مفاوضات جادة لتشكيل حكومة وحدة، ويقول إنه يحاول منذ ثلاثة أسابيع لكنه واجه الرفض والمماطلة.",
+     "src_ar": "العربية عاجل",
+     "en": "Eisenkot invites Netanyahu and his team to a meeting tonight for serious talks on forming a unity government, saying he has been trying for three weeks but met refusal and stalling.",
+     "src_en": "Al Arabiya"
     },
     {
-     "ar": "لابيد وغولان ورئيس القائمة المشتركة يرفضون مقترح نتنياهو ويصفونه بالخدعة والمناورة، بينما يقول سموتريتش إن مساعيه نحو الوحدة صادقة.",
-     "src_ar": "سكاي نيوز عربية والجزيرة",
-     "en": "Lapid, Golan and the head of the Joint List reject Netanyahu's proposal as a trick and a manoeuvre, while Smotrich says his push for unity is sincere.",
-     "src_en": "Sky News Arabia and Al Jazeera"
+     "ar": "ثماني دول بينها فرنسا وبريطانيا تدعو إلى انتخابات في فلسطين مطلع 2027، وتعلن استعدادها لتيسير العملية عبر بعثة الاتحاد الأوروبي.",
+     "src_ar": "العربية عاجل",
+     "en": "Eight countries, including France and Britain, call for elections in Palestine in early 2027 and say they are ready to facilitate the process through an EU mission.",
+     "src_en": "Al Arabiya"
     },
     {
-     "ar": "العملة الإيرانية تتراجع إلى مستوى قياسي قرب 3 ملايين ريال للدولار وسط العقوبات والحصار الأمريكي.",
-     "src_ar": "رويترز عبر سكاي نيوز عربية",
-     "en": "Iran's currency falls to a record low near 3 million rials per dollar amid sanctions and the US blockade.",
-     "src_en": "Reuters via Sky News Arabia"
-    },
-    {
-     "ar": "الخارجية اللبنانية: المواقف المسيئة للبحرين خلال لقاء بيروت لا تعبر عن موقف الدولة، والحكومة لم تشارك في تنظيمه.",
-     "src_ar": "سكاي نيوز عربية",
-     "en": "Lebanon's foreign ministry says the remarks insulting Bahrain at the Beirut meeting do not reflect the state's position and the government took no part in organising it.",
-     "src_en": "Sky News Arabia"
-    },
-    {
-     "ar": "المديرة التنفيذية للجنة العامة لمناهضة التعذيب في إسرائيل: محققو الشاباك يحصلون على أذونات مسبقة لتعذيب المعتقلين الفلسطينيين.",
+     "ar": "مصادر ميدانية للجزيرة: الجيش السوداني والقوات المساندة له تستعيد السيطرة على منطقة سمسور في إقليم النيل الأزرق.",
      "src_ar": "الجزيرة",
-     "en": "The executive director of the Public Committee Against Torture in Israel says Shin Bet interrogators receive advance permission to torture Palestinian detainees.",
+     "en": "Field sources tell Al Jazeera that the Sudanese army and allied forces have retaken the Samsur area in Blue Nile state.",
      "src_en": "Al Jazeera"
+    },
+    {
+     "ar": "الفاو وبرنامج الأغذية العالمي يحذران من تفاقم انعدام الأمن الغذائي في 16 دولة بين ديسمبر 2026 ومايو 2027 بسبب النزاعات والاضطرابات الاقتصادية والظواهر المناخية.",
+     "src_ar": "الجزيرة",
+     "en": "The FAO and the World Food Programme warn that food insecurity will worsen in 16 countries between December 2026 and May 2027 because of conflict, economic shocks and climate events.",
+     "src_en": "Al Jazeera"
+    },
+    {
+     "ar": "شركة ساب السويدية تحصل على طلبية رادار من أوكرانيا بقيمة 492 مليون دولار.",
+     "src_ar": "رويترز",
+     "en": "Sweden's Saab lands a $492 million radar order from Ukraine.",
+     "src_en": "Reuters"
     }
    ]
   },
@@ -52,16 +52,16 @@
    },
    "items": [
     {
-     "ar": "مدير مؤسسة التمويل الدولية في مصر: نستهدف رفع محفظتنا الاستثمارية في أفريقيا 84% إلى 35 مليار دولار خلال خمس سنوات، وحصة مصر الحالية 2.5 مليار دولار.",
-     "src_ar": "الشرق بلومبرغ",
-     "en": "The IFC's director in Egypt says it aims to raise its Africa investment portfolio 84% to $35 billion over five years, with Egypt's current share at $2.5 billion.",
-     "src_en": "Asharq Bloomberg"
+     "ar": "بنك بي إن بي باريبا يتوقع تراجع الدين الحكومي المصري إلى 61% من الناتج المحلي بحلول 2029-2030 مقابل 84% في 2025-2026، وفق سيناريوه الأساسي.",
+     "src_ar": "العربية مصر",
+     "en": "BNP Paribas expects Egypt's government debt to fall to 61% of GDP by 2029-2030 from 84% in 2025-2026, in its base-case scenario.",
+     "src_en": "Al Arabiya Egypt"
     },
     {
-     "ar": "واشنطن تشدد قيود الرقائق، والبنوك تجمد صفقات تمويل بمليارات الدولارات، منها 49 مليار دولار من قروض مراكز البيانات الآسيوية.",
-     "src_ar": "العربية Business",
-     "en": "Washington tightens chip restrictions and banks freeze multibillion-dollar financing deals, including $49 billion in Asian data-centre loans.",
-     "src_en": "Al Arabiya Business"
+     "ar": "رئيس الهيئة العامة للاستثمار والمناطق الحرة في مصر: نخطط لإضافة 7 مناطق حرة جديدة إلى 9 قائمة.",
+     "src_ar": "الشرق بلومبرغ",
+     "en": "The head of Egypt's General Authority for Investment and Free Zones says it plans to add 7 new free zones to the 9 existing ones.",
+     "src_en": "Asharq Bloomberg"
     }
    ]
   },
@@ -72,16 +72,22 @@
    },
    "items": [
     {
-     "ar": "المصرية هنا جودة تتوج بذهبية بطولة العالم لتنس الطاولة للناشئين، لتصبح أول لاعبة عربية وأفريقية تحقق اللقب.",
-     "src_ar": "العربية مصر",
-     "en": "Egypt's Hana Gouda wins gold at the world junior table tennis championships, becoming the first Arab and African player to take the title.",
-     "src_en": "Al Arabiya Egypt"
+     "ar": "الزمالك يفوز على الإفريقي التونسي 1-0 بهدف شيكو بانزا في افتتاح مجموعات دوري أبطال إفريقيا.",
+     "src_ar": "بي إن سبورتس",
+     "en": "Zamalek beat Tunisia's Club Africain 1-0 with a goal from Chico Banza in the CAF Champions League group stage.",
+     "src_en": "beIN Sports"
     },
     {
-     "ar": "برنتفورد يهزم مانشستر يونايتد 4-0 على ملعب أولد ترافورد في الدوري الإنجليزي الممتاز.",
+     "ar": "بيراميدز يستهل مشواره في مجموعات دوري أبطال إفريقيا بالفوز 2-0 على المغرب الفاسي.",
      "src_ar": "بي إن سبورتس",
-     "en": "Brentford beat Manchester United 4-0 at Old Trafford in the Premier League.",
+     "en": "Pyramids open their CAF Champions League group campaign with a 2-0 win over Maghreb Fes.",
      "src_en": "beIN Sports"
+    },
+    {
+     "ar": "ويلز تكتسح اليابان بفضل ثنائية آدامز.",
+     "src_ar": "رويترز",
+     "en": "Wales overwhelm Japan thanks to a double from Adams.",
+     "src_en": "Reuters"
     }
    ]
   }
