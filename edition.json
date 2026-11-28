@@ -1,11 +1,11 @@
 {
- "id": "2026-11-28T16:00",
+ "id": "2026-11-28T17:00",
  "date": {
   "ar": "السبت 28 نوفمبر 2026",
   "en": "Saturday 28 November 2026"
  },
- "uae": "4:00 PM",
- "cairo": "2:00 PM",
+ "uae": "5:00 PM",
+ "cairo": "3:00 PM",
  "sections": [
   {
    "title": {
@@ -14,34 +14,34 @@
    },
    "items": [
     {
-     "ar": "اختتام التدريب البحري المشترك المصري الفرنسي «كليوباترا 2026» في مياه البحر المتوسط ضمن نطاق الأسطول الشمالي.",
+     "ar": "وزارة الصحة المصرية: تحديد هوية 30 من ضحايا حادث الوراق باستخدام البصمة الوراثية.",
      "src_ar": "العربية مصر",
-     "en": "Egypt and France conclude the joint naval exercise \"Cleopatra 2026\" in the Mediterranean, within the Northern Fleet's area.",
+     "en": "Egypt's health ministry says 30 victims of the Warraq crash have been identified using DNA.",
      "src_en": "Al Arabiya Egypt"
     },
     {
-     "ar": "مستشار المرشد الإيراني مجتبى خامنئي يحذر العراق من أن يصبح «أداة لترامب»، بعد تقارير عن إغلاق العراق عدة معابر حدودية إثر مساعٍ أمريكية لفرض حصار على الحدود.",
-     "src_ar": "رويترز",
-     "en": "An adviser to Iran's Supreme Leader Mojtaba Khamenei warns Iraq against becoming a \"tool for Trump\", after reports that Iraq closed several border crossings following US moves to impose a blockade on the border.",
-     "src_en": "Reuters"
-    },
-    {
-     "ar": "القوة البحرية للاتحاد الأوروبي: واقعة قرصنة تحدث حاليا مرتبطة بسفينة تجارية قبالة سواحل الصومال.",
-     "src_ar": "سكاي نيوز عربية",
-     "en": "The EU naval force says a piracy incident is under way involving a merchant ship off the coast of Somalia.",
-     "src_en": "Sky News Arabia"
-    },
-    {
-     "ar": "مصادر لرويترز: جلد السلطات الإيرانية لمغنية الأسبوع الماضي كان استعراضا للقوة من نخبة دينية تواجه ضغوطا وتسعى للحفاظ على الطاعة العامة.",
-     "src_ar": "رويترز",
-     "en": "Sources tell Reuters that Iran's flogging of a singer last week was a show of strength by a religious elite under pressure and trying to keep public obedience.",
-     "src_en": "Reuters"
-    },
-    {
-     "ar": "عودة الحياة إلى «طريق الصادرات» بين أم درمان والأبيض في السودان بعد استعادة الجيش مناطق قريبة، ما ينعش أسواق شمال كردفان.",
+     "ar": "طهران تقول إن تبادل الرسائل مع واشنطن عبر الوسطاء مستمر لكنه أصبح بوتيرة أبطأ.",
      "src_ar": "الجزيرة",
-     "en": "Life returns to Sudan's \"export road\" between Omdurman and El Obeid after the army retook nearby areas, boosting markets in North Kordofan.",
+     "en": "Tehran says the exchange of messages with Washington through mediators continues but at a slower pace.",
      "src_en": "Al Jazeera"
+    },
+    {
+     "ar": "نائب قائد القوات البرية الإيرانية: جاهزون لأي هجوم محتمل على حدودنا البرية، ووفرنا أسلحة بكميات كبيرة على الحدود.",
+     "src_ar": "العربية",
+     "en": "The deputy commander of Iran's ground forces says Iran is ready for any possible attack on its land borders and has supplied large quantities of weapons there.",
+     "src_en": "Al Arabiya"
+    },
+    {
+     "ar": "زيلينسكي: العملية العسكرية التي أغرقت طرادا روسيا عند قاعدة بحرية ليبية تمت دون تنسيق مسبق مع الحلفاء الأوروبيين.",
+     "src_ar": "رويترز",
+     "en": "Zelensky says the military operation that sank a Russian cruiser at a Libyan naval base was carried out without prior coordination with European allies.",
+     "src_en": "Reuters"
+    },
+    {
+     "ar": "ستة قتلى على الأقل في غارة جوية في ميانمار استهدفت منزلا يقام فيه حفل زفاف.",
+     "src_ar": "جلف نيوز",
+     "en": "At least six people are dead after an airstrike in Myanmar hit a house where a wedding was being held.",
+     "src_en": "Gulf News"
     }
    ]
   },
@@ -52,16 +52,28 @@
    },
    "items": [
     {
-     "ar": "وزير الصناعة المصري: إقرار تعديلات على مبادرة دعم القطاعات الصناعية ذات الأولوية لتشمل جميع الأنشطة الصناعية، مع استمرار الحوافز لخفض سعر العائد إلى 13% من 15%.",
+     "ar": "رئيس هيئة اقتصادية قناة السويس: 21 قطاعا مستهدفا، 17 صناعيا و4 خدميا، مع التركيز على تعميق التصنيع المحلي.",
      "src_ar": "الشرق بلومبرغ",
-     "en": "Egypt's industry minister says amendments were approved to the priority industrial sectors support initiative to cover all industrial activities, with financing incentives continuing to cut the interest rate to 13% from 15%.",
+     "en": "The head of the Suez Canal Economic Zone says it targets 21 sectors, 17 industrial and 4 services, with a focus on deepening local manufacturing.",
      "src_en": "Asharq Bloomberg"
     },
     {
-     "ar": "رئيس شعبة الأدوية باتحاد الغرف التجارية: مبيعات الأدوية في مصر ارتفعت نحو 14% على أساس سنوي إلى 275 مليار جنيه في أول عشرة أشهر.",
+     "ar": "مساعد وزير الخارجية المصري: نستهدف إطلاق صندوق الاستثمار في أفريقيا التابع لصندوق مصر السيادي خلال 2027.",
      "src_ar": "الشرق بلومبرغ",
-     "en": "The head of the pharmaceuticals division at Egypt's Federation of Chambers of Commerce says drug sales rose about 14% year on year to 275 billion pounds in the first ten months.",
+     "en": "Egypt's assistant foreign minister says the aim is to launch the Africa investment fund of Egypt's sovereign wealth fund in 2027.",
      "src_en": "Asharq Bloomberg"
+    },
+    {
+     "ar": "صناديق بتكوين الفورية الأمريكية تخسر 5.78 مليار دولار في نوفمبر، وهو أسوأ شهر لها منذ إطلاقها، بحسب Bull Theory.",
+     "src_ar": "CNBC عربية",
+     "en": "US spot bitcoin funds lose $5.78 billion in November, their worst month since launch, according to Bull Theory.",
+     "src_en": "CNBC Arabia"
+    },
+    {
+     "ar": "كوبيسي ليتر: عملة WLFI التابعة لعائلة ترامب تهبط أكثر من 50% في دقائق، والعملة المستقرة التابعة لها تفقد ربطها بالدولار.",
+     "src_ar": "كوبيسي ليتر",
+     "en": "The Kobeissi Letter says the Trump family's WLFI token fell more than 50% within minutes and its stablecoin lost its peg to the dollar.",
+     "src_en": "The Kobeissi Letter"
     }
    ]
   },
@@ -72,10 +84,10 @@
    },
    "items": [
     {
-     "ar": "للمرة الأولى في تاريخ مصر: هنا جودة تهزم بطلة الصين جيانج جي 4-1 وتتأهل لنهائي بطولة العالم للشباب.",
-     "src_ar": "FilGoal",
-     "en": "A first in Egypt's history: Hana Goda beats China's Jiang Ji 4-1 and reaches the final of the World Youth Championship.",
-     "src_en": "FilGoal"
+     "ar": "المنتخب الأمريكي للسيدات يحجز بطاقة التأهل إلى كأس العالم 2027 بعد فوزه 8-0 على السلفادور في كونكاكاف، وجامايكا تضمن تأهلها أيضا.",
+     "src_ar": "رويترز",
+     "en": "The US women's team qualifies for the 2027 World Cup after beating El Salvador 8-0 in Concacaf, and Jamaica also secures a place.",
+     "src_en": "Reuters"
     }
    ]
   }
