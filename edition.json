@@ -1,11 +1,11 @@
 {
- "id": "2026-11-28T15:00",
+ "id": "2026-11-28T16:00",
  "date": {
   "ar": "السبت 28 نوفمبر 2026",
   "en": "Saturday 28 November 2026"
  },
- "uae": "3:00 PM",
- "cairo": "1:00 PM",
+ "uae": "4:00 PM",
+ "cairo": "2:00 PM",
  "sections": [
   {
    "title": {
@@ -14,27 +14,33 @@
    },
    "items": [
     {
-     "ar": "النائب الأول للرئيس الإيراني: لسنا مكتوفي الأيدي أمام حصار العدو، والتدابير المتخذة منعته من تحقيق أهدافه، واستيراد السلع الأساسية مستمر عبر الموانئ والمعابر.",
+     "ar": "اختتام التدريب البحري المشترك المصري الفرنسي «كليوباترا 2026» في مياه البحر المتوسط ضمن نطاق الأسطول الشمالي.",
+     "src_ar": "العربية مصر",
+     "en": "Egypt and France conclude the joint naval exercise \"Cleopatra 2026\" in the Mediterranean, within the Northern Fleet's area.",
+     "src_en": "Al Arabiya Egypt"
+    },
+    {
+     "ar": "مستشار المرشد الإيراني مجتبى خامنئي يحذر العراق من أن يصبح «أداة لترامب»، بعد تقارير عن إغلاق العراق عدة معابر حدودية إثر مساعٍ أمريكية لفرض حصار على الحدود.",
+     "src_ar": "رويترز",
+     "en": "An adviser to Iran's Supreme Leader Mojtaba Khamenei warns Iraq against becoming a \"tool for Trump\", after reports that Iraq closed several border crossings following US moves to impose a blockade on the border.",
+     "src_en": "Reuters"
+    },
+    {
+     "ar": "القوة البحرية للاتحاد الأوروبي: واقعة قرصنة تحدث حاليا مرتبطة بسفينة تجارية قبالة سواحل الصومال.",
+     "src_ar": "سكاي نيوز عربية",
+     "en": "The EU naval force says a piracy incident is under way involving a merchant ship off the coast of Somalia.",
+     "src_en": "Sky News Arabia"
+    },
+    {
+     "ar": "مصادر لرويترز: جلد السلطات الإيرانية لمغنية الأسبوع الماضي كان استعراضا للقوة من نخبة دينية تواجه ضغوطا وتسعى للحفاظ على الطاعة العامة.",
+     "src_ar": "رويترز",
+     "en": "Sources tell Reuters that Iran's flogging of a singer last week was a show of strength by a religious elite under pressure and trying to keep public obedience.",
+     "src_en": "Reuters"
+    },
+    {
+     "ar": "عودة الحياة إلى «طريق الصادرات» بين أم درمان والأبيض في السودان بعد استعادة الجيش مناطق قريبة، ما ينعش أسواق شمال كردفان.",
      "src_ar": "الجزيرة",
-     "en": "Iran's first vice president says Iran is not idle in the face of the enemy's blockade, that the measures taken have stopped it reaching its goals, and that imports of basic goods continue through ports and border crossings.",
-     "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "مصادر العربية: الطيران يستهدف مخزونا نفطيا لميليشيا الحوثي في منطقة السحول بمحافظة إب.",
-     "src_ar": "العربية",
-     "en": "Al Arabiya's sources say aircraft targeted an oil stockpile belonging to the Houthi militia in the Al-Suhul area of Ibb governorate.",
-     "src_en": "Al Arabiya"
-    },
-    {
-     "ar": "أ.ف.ب: ارتفاع حصيلة ضحايا قارب مهاجرين عُثر عليه قبالة جزر الكناري الإسبانية إلى 14 قتيلا.",
-     "src_ar": "سكاي نيوز عربية عن أ.ف.ب",
-     "en": "AFP says the death toll from a migrant boat found off Spain's Canary Islands has risen to 14.",
-     "src_en": "Sky News Arabia, citing AFP"
-    },
-    {
-     "ar": "أزمة الغذاء في اليمن مرتبطة بالعجز عن الشراء، مع ارتفاع كلفة السلة الأساسية 7% في سبتمبر إلى أعلى مستوى سنوي.",
-     "src_ar": "الجزيرة",
-     "en": "Yemen's food crisis is tied to people's inability to buy, with the cost of the basic basket up 7% in September to the highest annual level.",
+     "en": "Life returns to Sudan's \"export road\" between Omdurman and El Obeid after the army retook nearby areas, boosting markets in North Kordofan.",
      "src_en": "Al Jazeera"
     }
    ]
@@ -46,16 +52,30 @@
    },
    "items": [
     {
-     "ar": "إدارة ترامب تستعد لزيادة الرسوم على واردات صناعية من الصين وأوروبا وأكثر من 12 اقتصادا، باستخدام المادة 301 من قانون التجارة لعام 1974، بعد إبطال المحكمة العليا رسوما سابقة.",
-     "src_ar": "العربية Business",
-     "en": "The Trump administration is preparing to raise tariffs on industrial imports from China, Europe and more than 12 economies under Section 301 of the 1974 Trade Act, after the Supreme Court struck down earlier tariffs.",
-     "src_en": "Al Arabiya Business"
+     "ar": "وزير الصناعة المصري: إقرار تعديلات على مبادرة دعم القطاعات الصناعية ذات الأولوية لتشمل جميع الأنشطة الصناعية، مع استمرار الحوافز لخفض سعر العائد إلى 13% من 15%.",
+     "src_ar": "الشرق بلومبرغ",
+     "en": "Egypt's industry minister says amendments were approved to the priority industrial sectors support initiative to cover all industrial activities, with financing incentives continuing to cut the interest rate to 13% from 15%.",
+     "src_en": "Asharq Bloomberg"
     },
     {
-     "ar": "تراجع فاتورة استيراد الهواتف في مصر يضع التصنيع المحلي أمام اختبار الأسعار.",
-     "src_ar": "العربية Business",
-     "en": "A fall in Egypt's phone import bill puts local manufacturing to a price test.",
-     "src_en": "Al Arabiya Business"
+     "ar": "رئيس شعبة الأدوية باتحاد الغرف التجارية: مبيعات الأدوية في مصر ارتفعت نحو 14% على أساس سنوي إلى 275 مليار جنيه في أول عشرة أشهر.",
+     "src_ar": "الشرق بلومبرغ",
+     "en": "The head of the pharmaceuticals division at Egypt's Federation of Chambers of Commerce says drug sales rose about 14% year on year to 275 billion pounds in the first ten months.",
+     "src_en": "Asharq Bloomberg"
+    }
+   ]
+  },
+  {
+   "title": {
+    "ar": "رياضة",
+    "en": "Sport"
+   },
+   "items": [
+    {
+     "ar": "للمرة الأولى في تاريخ مصر: هنا جودة تهزم بطلة الصين جيانج جي 4-1 وتتأهل لنهائي بطولة العالم للشباب.",
+     "src_ar": "FilGoal",
+     "en": "A first in Egypt's history: Hana Goda beats China's Jiang Ji 4-1 and reaches the final of the World Youth Championship.",
+     "src_en": "FilGoal"
     }
    ]
   }
