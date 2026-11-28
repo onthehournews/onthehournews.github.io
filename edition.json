@@ -1,11 +1,11 @@
 {
- "id": "2026-11-28T07:00",
+ "id": "2026-11-28T08:00",
  "date": {
   "ar": "السبت 28 نوفمبر 2026",
   "en": "Saturday 28 November 2026"
  },
- "uae": "7:00 AM",
- "cairo": "5:00 AM",
+ "uae": "8:00 AM",
+ "cairo": "6:00 AM",
  "sections": [
   {
    "title": {
@@ -14,27 +14,39 @@
    },
    "items": [
     {
-     "ar": "مراسل العربية: انفجار سيارة قرب محطة بنزين في المنصورة بمصر.",
+     "ar": "التحالف: اعتراض وتدمير صاروخ كروز أطلقته ميليشيا الحوثي باتجاه منطقة الرياض.",
+     "src_ar": "العربية والجزيرة",
+     "en": "The coalition says it intercepted and destroyed a cruise missile launched by the Houthi militia toward the Riyadh area.",
+     "src_en": "Al Arabiya and Al Jazeera"
+    },
+    {
+     "ar": "وزير خارجية أوكرانيا: روسيا اقترحت تعليق الهجمات على قطاع النفط ضمن هدنة، وكييف لن توقف هجماتها على النفط الروسي إلا باتفاق موسع لوقف النار.",
      "src_ar": "العربية",
-     "en": "Al Arabiya's reporter says a car exploded near a petrol station in Mansoura, Egypt.",
+     "en": "Ukraine's foreign minister says Russia proposed suspending attacks on the oil sector as part of a truce, and Kyiv will not halt its strikes on Russian oil except under a broader ceasefire deal.",
      "src_en": "Al Arabiya"
     },
     {
-     "ar": "العثور على 10 فتيات و3 موظفين فقد الاتصال بهم في مدينة بولو التركية بعد تعطل المركبة التي تقلهم.",
+     "ar": "بوتين يدشن الغواصة النووية \"بيرم\" شمال روسيا، ويعلن تسليم 5 غواصات أخرى مزودة بصواريخ إلى البحرية بحلول 2030.",
      "src_ar": "الجزيرة",
-     "en": "Ten girls and three staff members who lost contact after their vehicle broke down have been found in Turkey's city of Bolu.",
+     "en": "Putin launches the nuclear submarine Perm in northern Russia and says five more missile-armed submarines will be delivered to the navy by 2030.",
      "src_en": "Al Jazeera"
     },
     {
-     "ar": "سانشيز ونونيز فيخو يتجادلان بشأن توصيف الحرب على غزة وسياسة الهجرة في المناظرة الأخيرة قبل الانتخابات العامة الإسبانية المبكرة يوم الأحد.",
+     "ar": "وزير الخارجية التركي: صادقنا على معظم قرارات إنشاء الهيئات المدنية والقيادات العسكرية المشتركة لحلف مكة الدفاعي. وبيان ختامي للحلف يشدد على تسريع دعم السعودية في صون أمنها.",
      "src_ar": "الجزيرة",
-     "en": "Spain's Sanchez and opposition leader Nunez Feijoo clash over how to describe the war in Gaza and over migration policy in the final debate before Sunday's early general election.",
+     "en": "Turkey's foreign minister says the Mecca defence pact members approved most decisions to set up joint civilian bodies and military commands, and the pact's closing statement stresses speeding up support for Saudi Arabia's security.",
      "src_en": "Al Jazeera"
     },
     {
-     "ar": "وسائل إعلام تابعة للحوثيين: غارات تستهدف شبكات الاتصالات في محافظة البيضاء.",
+     "ar": "طائرتان تابعتان لأميركان إيرلاينز تصطدم أجنحتهما أثناء التاكسي في مطار واشنطن، وهيئة الطيران تحقق ولا إصابات، بحسب غلف نيوز.",
+     "src_ar": "غلف نيوز",
+     "en": "Two American Airlines jets clipped wings while taxiing at the Washington airport, and the FAA is investigating with no injuries, Gulf News reports.",
+     "src_en": "Gulf News"
+    },
+    {
+     "ar": "جدارية في غزة تكريما للاعب بشكتاش كاسوم واتارا الذي رفع العلم الفلسطيني خلال مباراة فريقه أمام هبوعيل بئر السبع في جورجيا.",
      "src_ar": "الجزيرة",
-     "en": "Houthi-linked media say air strikes are hitting telecommunications networks in Al-Bayda governorate.",
+     "en": "A mural in Gaza honours Besiktas player Kasim Watara, who raised the Palestinian flag during his team's match against Hapoel Beer Sheva in Georgia.",
      "src_en": "Al Jazeera"
     }
    ]
@@ -46,27 +58,35 @@
    },
    "items": [
     {
-     "ar": "الحكومة الأميركية تحظر مزود النطاق الترددي ريتن من الشبكات الأميركية.",
+     "ar": "بتكوين تخالف موجة صعود وول ستريت وتتراجع مجددا دون 60 ألف دولار.",
+     "src_ar": "الشرق بلومبرغ",
+     "en": "Bitcoin bucks Wall Street's rally and slips back below $60,000.",
+     "src_en": "Asharq Bloomberg"
+    },
+    {
+     "ar": "دراسة: أميركا الجنوبية تدرس خطة تكامل في الغاز والكهرباء بقيمة 18 مليار دولار.",
      "src_ar": "رويترز",
-     "en": "The US government bars bandwidth provider RETN from American networks.",
+     "en": "A study says South America is eyeing an $18 billion gas and power integration plan.",
+     "src_en": "Reuters"
+    }
+   ]
+  },
+  {
+   "title": {
+    "ar": "رياضة",
+    "en": "Sport"
+   },
+   "items": [
+    {
+     "ar": "آرون رودجرز يرد: قواعد دوري كرة القدم الأميركية لا \"توفر حصانة من المساءلة\".",
+     "src_ar": "رويترز",
+     "en": "Aaron Rodgers fires back, saying the NFL's code does not \"provide immunity from accountability\".",
      "src_en": "Reuters"
     },
     {
-     "ar": "اتفاقية تمويل بقيمة 1.45 مليار دولار لإنشاء أول مصنع أسمدة كبير في أنغولا، باستثمارات إجمالية تصل إلى 2.6 مليار دولار.",
-     "src_ar": "سي إن بي سي عربية",
-     "en": "A $1.45 billion financing agreement is signed to build Angola's first major fertiliser plant, with total investment of up to $2.6 billion.",
-     "src_en": "CNBC Arabia"
-    },
-    {
-     "ar": "سوق دبي المالي يتعافى من خسائر الحرب ويحقق مكسبا شهريا بنسبة 14% في نوفمبر.",
-     "src_ar": "غلف نيوز",
-     "en": "Dubai Financial Market recovers from war-induced losses with a 14% monthly gain in November.",
-     "src_en": "Gulf News"
-    },
-    {
-     "ar": "غلاس لويس تدعم مجلس إدارة فيل ريزورتس في معركة التفويض مع المستثمر الناشط أوازيس.",
+     "ar": "جاكسون كويفون، 21 عاما، يحسم لقب \"سكينز غيم\" بضربة إسفين تساوي مليوني دولار.",
      "src_ar": "رويترز",
-     "en": "Glass Lewis backs the Vail Resorts board in its proxy fight with activist investor Oasis.",
+     "en": "Jackson Koivun, 21, claims the Skins Game with a wedge shot worth $2 million.",
      "src_en": "Reuters"
     }
    ]
