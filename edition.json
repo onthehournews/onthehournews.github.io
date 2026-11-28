@@ -1,11 +1,11 @@
 {
- "id": "2026-11-28T03:00",
+ "id": "2026-11-28T04:00",
  "date": {
   "ar": "السبت 28 نوفمبر 2026",
   "en": "Saturday 28 November 2026"
  },
- "uae": "3:00 AM",
- "cairo": "1:00 AM",
+ "uae": "4:00 AM",
+ "cairo": "2:00 AM",
  "sections": [
   {
    "title": {
@@ -14,34 +14,46 @@
    },
    "items": [
     {
-     "ar": "مصدر رفيع لسكاي نيوز عربية: الاتفاق المرتقب في ليبيا يقضي بدمج حكومتي الشرق والغرب في سلطة واحدة وإعادة تشكيل المجلس الرئاسي برئاسة صدام حفتر، وتوقيعه مرهون بعدم عرقلة الترتيبات أو حدوث تدخلات خارجية.",
-     "src_ar": "سكاي نيوز عربية",
-     "en": "A senior source tells Sky News Arabia that the expected agreement in Libya would merge the eastern and western governments into one authority and reconstitute the Presidential Council under Saddam Haftar, and that signing depends on no obstruction or outside interference.",
-     "src_en": "Sky News Arabia"
+     "ar": "وزيرة التضامن الاجتماعي المصرية مايا مرسي: بدء تسليم الدعم لأسر ضحايا حريق الوراق يوم الاثنين، والمساهمات تتجاوز 400 مليون جنيه.",
+     "src_ar": "العربية مصر",
+     "en": "Egypt's Social Solidarity Minister Maya Morsi says support payments to the families of the Warraq fire victims will start on Monday, and contributions have passed 400 million pounds.",
+     "src_en": "Al Arabiya Egypt"
     },
     {
-     "ar": "مصدر رفيع لسكاي نيوز عربية: أردوغان يدعو الفريق حفتر لحضور القمة التركية الإفريقية في 8 ديسمبر.",
-     "src_ar": "سكاي نيوز عربية",
-     "en": "A senior source tells Sky News Arabia that Erdogan has invited General Haftar to the Turkey-Africa summit on December 8.",
-     "src_en": "Sky News Arabia"
+     "ar": "كبلر: تدفقات النفط عبر مضيق هرمز لا تزال عند 31% فقط من مستويات ما قبل الحرب بين الولايات المتحدة وإيران.",
+     "src_ar": "الجزيرة",
+     "en": "Kpler says oil flows through the Strait of Hormuz are still only 31% of their level before the US-Iran war.",
+     "src_en": "Al Jazeera"
     },
     {
-     "ar": "بلومبرغ: ميلوني أجرت مكالمة هاتفية غاضبة مع زيلينسكي بسبب الهجوم على سفينتين قبالة ليبيا.",
-     "src_ar": "العربية",
-     "en": "Bloomberg reports that Meloni had an angry phone call with Zelensky over the attack on two ships off Libya.",
-     "src_en": "Al Arabiya"
+     "ar": "قائد القوات البحرية في الجيش الإيراني يقول إن قواته استهدفت حاملة الطائرات الأميركية أبراهام لينكولن بصاروخ في اليوم الثاني للحرب، مؤكدا إصابتها.",
+     "src_ar": "الجزيرة",
+     "en": "The commander of the Iranian army's navy says his forces hit the US aircraft carrier Abraham Lincoln with a missile on the second day of the war, and claims it was struck.",
+     "src_en": "Al Jazeera"
     },
     {
-     "ar": "التحالف: اعتراض طائرة مسيرة أطلقتها ميليشيا الحوثي باتجاه الرياض.",
-     "src_ar": "العربية",
-     "en": "The coalition says it intercepted a drone launched by the Houthi militia toward Riyadh.",
-     "src_en": "Al Arabiya"
+     "ar": "الجيش الإسرائيلي يقول إنه قتل فلسطينيين اثنين في غارة بمدينة غزة كانا يعملان حارسي أمن في عيادة لأطباء بلا حدود، وإن أحدهما قاد خلية مدفعية في حماس. المنظمة تقول إن منشآتها تحمل شعارها بوضوح وإن الجيش أُبلغ بمواقعها.",
+     "src_ar": "سكاي نيوز عربية والجزيرة",
+     "en": "The Israeli army says it killed two Palestinians in a Gaza City strike who worked as security guards at a Doctors Without Borders clinic, and that one led an artillery cell for Hamas. The organisation says its facilities are clearly marked and the army was told where they are.",
+     "src_en": "Sky News Arabia and Al Jazeera"
     },
     {
-     "ar": "غرق سفينة شحن قبالة كوبا ومقتل شخص وفقدان ثلاثة، بحسب رويترز.",
-     "src_ar": "رويترز",
-     "en": "A cargo ship sinks off Cuba, leaving one person dead and three missing, Reuters reports.",
-     "src_en": "Reuters"
+     "ar": "رئيس لجنة الشؤون الخارجية في البرلمان الأوكراني يطالب باستبعاد المبعوث الأميركي جاريد كوشنر من مفاوضات السلام مع موسكو بعد وصفه بوتين بأنه \"أستاذ كبير في السياسة\".",
+     "src_ar": "الجزيرة",
+     "en": "The head of the Ukrainian parliament's foreign affairs committee demands that US envoy Jared Kushner be removed from peace talks with Moscow after he called Putin a \"grand master of politics\".",
+     "src_en": "Al Jazeera"
+    },
+    {
+     "ar": "مصادر في صنعاء للعربية: دوي انفجارات في مناطق متفرقة من المدينة مع تحليق مكثف للمسيرات، فيما تقول وسائل إعلام حوثية إن قصفا يستهدف العاصمة.",
+     "src_ar": "العربية والجزيرة",
+     "en": "Sources in Sanaa tell Al Arabiya of explosions across the city and heavy drone activity, while Houthi-linked media say the capital is being bombed.",
+     "src_en": "Al Arabiya and Al Jazeera"
+    },
+    {
+     "ar": "وزير الخارجية المالي للجزيرة: أوكرانيا من الدول التي تقدم دعما لوجستيا وتدريبا وطائرات مسيرة لجماعات إرهابية في مالي ومنطقة الساحل.",
+     "src_ar": "الجزيرة",
+     "en": "Mali's foreign minister tells Al Jazeera that Ukraine is among the countries providing logistical support, training and drones to terrorist groups in Mali and the Sahel.",
+     "src_en": "Al Jazeera"
     }
    ]
   },
@@ -52,36 +64,16 @@
    },
    "items": [
     {
-     "ar": "وزير النفط العراقي يعلن إعادة تشغيل الأنبوب النفطي العراقي التركي بعد توقف 12 عاما بطاقة 300 ألف برميل يوميا، ويفتتح محطة الضخ IT1.",
-     "src_ar": "سي إن بي سي عربية",
-     "en": "Iraq's oil minister announces the Iraq-Turkey oil pipeline has restarted after a 12-year halt, at 300,000 barrels a day, and opens the IT1 pumping station.",
-     "src_en": "CNBC Arabia"
+     "ar": "مؤشر الذعر عند 9.8 من 10، وغولدمان ساكس يرى فرصة شراء في وول ستريت لكن الاستسلام الجماعي للمستثمرين لم يحدث بعد.",
+     "src_ar": "العربية بزنس",
+     "en": "The panic index stands at 9.8 out of 10, and Goldman Sachs sees a buying opportunity on Wall Street, though investors have not yet capitulated en masse.",
+     "src_en": "Al Arabiya Business"
     },
     {
-     "ar": "فايننشال تايمز: فيريزون تجري محادثات بشأن صفقة بقيمة 6 مليارات دولار تخص فيديوم.",
+     "ar": "رئيس وزراء هولندا سيبحث مع ترامب في قمة العشرين قانون ماتش للحد من صادرات معدات صناعة الرقائق.",
      "src_ar": "رويترز",
-     "en": "Verizon is in talks over a $6 billion deal for Fidium, the Financial Times reports.",
+     "en": "The Dutch prime minister will discuss the MATCH Act chipmaking export controls with Trump at the G20.",
      "src_en": "Reuters"
-    },
-    {
-     "ar": "الأسواق البرازيلية ترتفع بعد اختيار لولا رئيس مجلس إدارة براديسكو لتولي المالية.",
-     "src_ar": "رويترز",
-     "en": "Brazilian markets rally after Lula taps the chairman of Bradesco to lead finance.",
-     "src_en": "Reuters"
-    }
-   ]
-  },
-  {
-   "title": {
-    "ar": "رياضة",
-    "en": "Sport"
-   },
-   "items": [
-    {
-     "ar": "الأهلي طرابلس الليبي يفتتح مشواره في مجموعات كأس الاتحاد الإفريقي بفوز 2-1 خارج الديار على عزام التنزاني.",
-     "src_ar": "بي إن سبورتس",
-     "en": "Libya's Al Ahly Tripoli open their African Confederation Cup group stage with a 2-1 away win over Tanzania's Azam.",
-     "src_en": "beIN Sports"
     }
    ]
   }
