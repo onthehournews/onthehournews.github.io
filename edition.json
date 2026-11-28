@@ -1,11 +1,11 @@
 {
- "id": "2026-11-28T12:00",
+ "id": "2026-11-28T13:00",
  "date": {
   "ar": "السبت 28 نوفمبر 2026",
   "en": "Saturday 28 November 2026"
  },
- "uae": "12:00 PM",
- "cairo": "10:00 AM",
+ "uae": "1:00 PM",
+ "cairo": "11:00 AM",
  "sections": [
   {
    "title": {
@@ -14,22 +14,34 @@
    },
    "items": [
     {
-     "ar": "وفاة مصري وفقدان اثنين وإصابة 10 في غرق سفينة شحن قبالة كوبا، والخارجية المصرية تتابع الواقعة.",
-     "src_ar": "العربية مصر",
-     "en": "One Egyptian is dead, two are missing and 10 are injured after a cargo ship sank off Cuba, and Egypt's foreign ministry is following the case.",
-     "src_en": "Al Arabiya Egypt"
+     "ar": "مجلس الوزراء المصري يعقد اجتماعا استثنائيا غدا لبحث إجراءات الحد من حوادث الطرق.",
+     "src_ar": "CNBC عربية",
+     "en": "Egypt's cabinet will hold an extraordinary meeting tomorrow to discuss measures to reduce road accidents.",
+     "src_en": "CNBC Arabia"
     },
     {
-     "ar": "هيئة بحرية بريطانية: أشخاص مسلحون صعدوا إلى سفينة شحن على بعد 64 ميلا بحريا جنوب غرب بلحاف في اليمن وسيطروا على قيادتها.",
-     "src_ar": "العربية عاجل",
-     "en": "A British maritime agency says armed people boarded a cargo ship 64 nautical miles south-west of Balhaf in Yemen and took control of it.",
-     "src_en": "Al Arabiya Breaking News"
-    },
-    {
-     "ar": "مسؤول أفغاني للجزيرة: قتلى وجرحى في انفجار داخل مدرسة في ولاية كونر شرقي البلاد.",
+     "ar": "المقررة الأممية فرانشيسكا ألبانيزي تعلن مغادرتها مطار كوستاريكا بعد منعها من دخول البلاد، وتشكر كل من ساعدها.",
      "src_ar": "الجزيرة",
-     "en": "An Afghan official tells Al Jazeera there are dead and wounded in an explosion inside a school in the eastern province of Kunar.",
+     "en": "UN rapporteur Francesca Albanese says she has left the Costa Rica airport after being barred from entering the country, and thanks those who helped her.",
      "src_en": "Al Jazeera"
+    },
+    {
+     "ar": "روسيا تقول إنها أسقطت 1246 طائرة مسيّرة أوكرانية خلال الليل.",
+     "src_ar": "رويترز",
+     "en": "Russia says it shot down 1,246 Ukrainian drones overnight.",
+     "src_en": "Reuters"
+    },
+    {
+     "ar": "الدفاع المدني السعودي يطلق إنذارا مبكرا في منطقة جازان تحسبا لخطر محتمل، ثم يعلن زوال الخطر.",
+     "src_ar": "سكاي نيوز عربية",
+     "en": "Saudi Civil Defense issues an early warning in the Jazan region over a possible danger, then declares the danger over.",
+     "src_en": "Sky News Arabia"
+    },
+    {
+     "ar": "الأمن العام الأردني: إصابة 20 شخصا بضيق تنفس بعد استنشاق مبيدات حشرية داخل مصنع في منطقة الكرامة بمحافظة البلقاء.",
+     "src_ar": "سكاي نيوز عربية",
+     "en": "Jordan's Public Security says 20 people suffered breathing difficulty after inhaling pesticides inside a factory in the Karama area of Balqa governorate.",
+     "src_en": "Sky News Arabia"
     }
    ]
   },
@@ -40,16 +52,16 @@
    },
    "items": [
     {
-     "ar": "فائض الميزان التجاري للسعودية يقفز 38% خلال تسعة أشهر ليتخطى 60 مليار دولار.",
-     "src_ar": "العربية Business",
-     "en": "Saudi Arabia's trade surplus jumps 38% over nine months to more than $60 billion.",
-     "src_en": "Al Arabiya Business"
+     "ar": "متوسط سعر الجنيه المصري أمام الدولار يتراجع نحو 1.9% خلال الأسبوع المنتهي الخميس إلى نحو 54.77 جنيه للشراء، وفق بيانات البنك المركزي.",
+     "src_ar": "الشرق بلومبرغ",
+     "en": "The Egyptian pound's average rate against the dollar fell about 1.9% in the week to Thursday, to about 54.77 pounds to buy, according to central bank data.",
+     "src_en": "Asharq Bloomberg"
     },
     {
-     "ar": "عملة ترمب تنهار أكثر من 98% من قمتها، فيما تواصل المحافظ الكبرى حضور حفلات المستثمرين، وفق العربية Business.",
-     "src_ar": "العربية Business",
-     "en": "The Trump coin has collapsed more than 98% from its peak, while big wallets still attend investor events, according to Al Arabiya Business.",
-     "src_en": "Al Arabiya Business"
+     "ar": "صادرات قطر تتراجع 49% في النصف الأول، والميزان التجاري يهبط 67%.",
+     "src_ar": "CNBC عربية",
+     "en": "Qatar's exports fall 49% in the first half, and its trade balance drops 67%.",
+     "src_en": "CNBC Arabia"
     }
    ]
   }
