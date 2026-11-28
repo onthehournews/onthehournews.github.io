@@ -1,11 +1,11 @@
 {
- "id": "2026-11-28T14:00",
+ "id": "2026-11-28T15:00",
  "date": {
   "ar": "السبت 28 نوفمبر 2026",
   "en": "Saturday 28 November 2026"
  },
- "uae": "2:00 PM",
- "cairo": "12:00 PM",
+ "uae": "3:00 PM",
+ "cairo": "1:00 PM",
  "sections": [
   {
    "title": {
@@ -14,28 +14,28 @@
    },
    "items": [
     {
-     "ar": "الحكومة الأفغانية: مقتل 7 أشخاص وإصابة نحو 99 آخرين في انفجار قرب مدرسة بولاية كونار شرقي البلاد.",
-     "src_ar": "سكاي نيوز عربية",
-     "en": "The Afghan government says 7 people were killed and about 99 injured in an explosion at a school in the eastern province of Kunar.",
-     "src_en": "Sky News Arabia"
-    },
-    {
-     "ar": "الغارديان عن وزارة التعليم في غزة: استشهاد 16 طالبا منذ بداية نوفمبر جراء التصعيد الإسرائيلي في القطاع.",
+     "ar": "النائب الأول للرئيس الإيراني: لسنا مكتوفي الأيدي أمام حصار العدو، والتدابير المتخذة منعته من تحقيق أهدافه، واستيراد السلع الأساسية مستمر عبر الموانئ والمعابر.",
      "src_ar": "الجزيرة",
-     "en": "The Guardian, citing Gaza's education ministry, says 16 school students have been killed since the start of November in the Israeli escalation in the Strip.",
+     "en": "Iran's first vice president says Iran is not idle in the face of the enemy's blockade, that the measures taken have stopped it reaching its goals, and that imports of basic goods continue through ports and border crossings.",
      "src_en": "Al Jazeera"
     },
     {
-     "ar": "لجنة طوارئ الشتاء في غزة: ادعاء إسرائيل إدخال 100 ألف خيمة و9 آلاف شاحنة لمستلزمات الشتاء يتناقض مع الواقع، وتطالب الأمم المتحدة بكشف مصير الخيام.",
-     "src_ar": "الجزيرة",
-     "en": "Gaza's winter emergency committee says Israel's claim that it let in 100,000 tents and 9,000 trucks of winter supplies contradicts reality, and asks the UN to reveal where the tents went.",
-     "src_en": "Al Jazeera"
+     "ar": "مصادر العربية: الطيران يستهدف مخزونا نفطيا لميليشيا الحوثي في منطقة السحول بمحافظة إب.",
+     "src_ar": "العربية",
+     "en": "Al Arabiya's sources say aircraft targeted an oil stockpile belonging to the Houthi militia in the Al-Suhul area of Ibb governorate.",
+     "src_en": "Al Arabiya"
     },
     {
-     "ar": "التحالف: اعتراض صاروخ باليستي أطلقته ميليشيا الحوثي باتجاه المنطقة الجنوبية في السعودية.",
-     "src_ar": "سكاي نيوز عربية",
-     "en": "The coalition says it intercepted a ballistic missile fired by the Houthi militia towards Saudi Arabia's southern region.",
-     "src_en": "Sky News Arabia"
+     "ar": "أ.ف.ب: ارتفاع حصيلة ضحايا قارب مهاجرين عُثر عليه قبالة جزر الكناري الإسبانية إلى 14 قتيلا.",
+     "src_ar": "سكاي نيوز عربية عن أ.ف.ب",
+     "en": "AFP says the death toll from a migrant boat found off Spain's Canary Islands has risen to 14.",
+     "src_en": "Sky News Arabia, citing AFP"
+    },
+    {
+     "ar": "أزمة الغذاء في اليمن مرتبطة بالعجز عن الشراء، مع ارتفاع كلفة السلة الأساسية 7% في سبتمبر إلى أعلى مستوى سنوي.",
+     "src_ar": "الجزيرة",
+     "en": "Yemen's food crisis is tied to people's inability to buy, with the cost of the basic basket up 7% in September to the highest annual level.",
+     "src_en": "Al Jazeera"
     }
    ]
   },
@@ -46,36 +46,16 @@
    },
    "items": [
     {
-     "ar": "الأجانب يسجلون صافي بيع بنحو 592 مليون دولار في أذون الخزانة المصرية خلال أسبوع، بعد صافي شراء في أول ثلاثة أسابيع من نوفمبر.",
-     "src_ar": "الشرق بلومبرغ",
-     "en": "Foreign investors were net sellers of about $592 million of Egyptian treasury bills in a week, after net buying in the first three weeks of November.",
-     "src_en": "Asharq Bloomberg"
+     "ar": "إدارة ترامب تستعد لزيادة الرسوم على واردات صناعية من الصين وأوروبا وأكثر من 12 اقتصادا، باستخدام المادة 301 من قانون التجارة لعام 1974، بعد إبطال المحكمة العليا رسوما سابقة.",
+     "src_ar": "العربية Business",
+     "en": "The Trump administration is preparing to raise tariffs on industrial imports from China, Europe and more than 12 economies under Section 301 of the 1974 Trade Act, after the Supreme Court struck down earlier tariffs.",
+     "src_en": "Al Arabiya Business"
     },
     {
-     "ar": "مصر لتأمينات الحياة: الطرح لحصة 15% بقيمة 9.6 مليار جنيه، وبدء التداول المتوقع يوم الخميس 3 ديسمبر.",
-     "src_ar": "CNBC عربية",
-     "en": "Misr Life Insurance's offering of a 15% stake is worth 9.6 billion pounds, and trading is expected to start on Thursday 3 December.",
-     "src_en": "CNBC Arabia"
-    },
-    {
-     "ar": "وزير الخارجية المصري: استثمارات مصر في أفريقيا نحو 14 مليار دولار، وتجهيز كيان للاستثمار في القارة يركز على التعدين والزراعة.",
-     "src_ar": "الشرق بلومبرغ",
-     "en": "Egypt's foreign minister says Egypt's investments in Africa stand at about $14 billion, and a vehicle to invest in the continent focused on mining and agriculture is being finalised.",
-     "src_en": "Asharq Bloomberg"
-    }
-   ]
-  },
-  {
-   "title": {
-    "ar": "رياضة",
-    "en": "Sport"
-   },
-   "items": [
-    {
-     "ar": "إنجلترا تتغلب على أستراليا بسبعة ويكيتات في بريسبان وتتقدم 2-1 في سلسلة تي 20، بعد انهيار أسترالي قياسي.",
-     "src_ar": "جلف نيوز",
-     "en": "England beat Australia by seven wickets in Brisbane to lead the T20 series 2-1, after a record Australian collapse.",
-     "src_en": "Gulf News"
+     "ar": "تراجع فاتورة استيراد الهواتف في مصر يضع التصنيع المحلي أمام اختبار الأسعار.",
+     "src_ar": "العربية Business",
+     "en": "A fall in Egypt's phone import bill puts local manufacturing to a price test.",
+     "src_en": "Al Arabiya Business"
     }
    ]
   }
