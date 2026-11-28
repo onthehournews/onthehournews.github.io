@@ -1,11 +1,11 @@
 {
- "id": "2026-11-28T10:00",
+ "id": "2026-11-28T11:00",
  "date": {
   "ar": "السبت 28 نوفمبر 2026",
   "en": "Saturday 28 November 2026"
  },
- "uae": "10:00 AM",
- "cairo": "8:00 AM",
+ "uae": "11:00 AM",
+ "cairo": "9:00 AM",
  "sections": [
   {
    "title": {
@@ -14,22 +14,16 @@
    },
    "items": [
     {
-     "ar": "مقتل 8 في تحطم مروحية عسكرية في البيرو خلال مهمة إنقاذ.",
-     "src_ar": "الإمارات اليوم",
-     "en": "Eight people are killed when a military helicopter crashes in Peru during a rescue mission.",
-     "src_en": "Emarat Al Youm"
+     "ar": "نائب رئيس أركان القوات المسلحة الإيرانية: أي مكان في العالم يطلق منه النار علينا سيكون هدفا مشروعا لنا.",
+     "src_ar": "الجزيرة",
+     "en": "Iran's deputy chief of the armed forces general staff says any place in the world from which fire is launched at Iran will be a legitimate target.",
+     "src_en": "Al Jazeera"
     },
     {
-     "ar": "تايوان تصوّت اليوم لاختيار رؤساء البلديات والمقاطعات، وسط تحليق صيني متزايد للطائرات الحربية حول الجزيرة.",
-     "src_ar": "رويترز",
-     "en": "Taiwan votes today for mayors and county heads, as China steps up warplane flights around the island.",
-     "src_en": "Reuters"
-    },
-    {
-     "ar": "فاينانشال تايمز نقلا عن مصادر: الجيش الأمريكي صدّ نحو ست طائرات مسيّرة حامت حول قاعدة لاكنهيث الجوية البريطانية في وقت سابق من الشهر.",
-     "src_ar": "رويترز نقلا عن فاينانشال تايمز",
-     "en": "The Financial Times, citing sources, says the US military repelled about six drones hovering over RAF Lakenheath earlier this month.",
-     "src_en": "Reuters, citing the Financial Times"
+     "ar": "فاينانشال تايمز: أمريكا وبريطانيا لا تستبعدان وجود معدات تجسس على الطائرات المسيّرة التي حلّقت فوق قاعدة لاكنهيث.",
+     "src_ar": "العربية عن فاينانشال تايمز",
+     "en": "The Financial Times reports that the US and UK do not rule out spy equipment on the drones that flew over RAF Lakenheath.",
+     "src_en": "Al Arabiya, citing the Financial Times"
     }
    ]
   },
@@ -40,10 +34,36 @@
    },
    "items": [
     {
-     "ar": "المركزي التركي يلوّح باستخدام الذهب لتعزيز مركزه من العملات الأجنبية، بعد تراجع الاحتياطيات من نحو 210 مليارات دولار إلى 159 ملياراً، والذهب يشكل أكثر من 60% منها.",
-     "src_ar": "العربية Business",
-     "en": "Turkey's central bank signals it may use gold to bolster its foreign-currency position, after reserves fell from about $210 billion to $159 billion, with gold making up more than 60% of them.",
-     "src_en": "Al Arabiya Business"
+     "ar": "عملة WLFI المرتبطة بعائلة ترامب تهبط نحو 46.4% عن إغلاق 27 نوفمبر إلى 0.01918 دولار، مع تصفيات لمراكز شراء بنحو 10.9 مليون دولار خلال ساعة.",
+     "src_ar": "CNBC عربية",
+     "en": "The WLFI token linked to the Trump family falls about 46.4% from its 27 November close to $0.01918, with about $10.9 million of long positions liquidated within an hour.",
+     "src_en": "CNBC Arabia"
+    },
+    {
+     "ar": "إغلاق بنك يونايتد فيديليتي الأمريكي في أكبر انهيار مصرفي بالولايات المتحدة منذ عامين، وبنك فيرست سيتيزنز يشتري أصوله.",
+     "src_ar": "رويترز",
+     "en": "US regulators shut United Fidelity Bank in the biggest US bank failure in two years, and First Citizens buys its assets.",
+     "src_en": "Reuters"
+    }
+   ]
+  },
+  {
+   "title": {
+    "ar": "رياضة",
+    "en": "Sport"
+   },
+   "items": [
+    {
+     "ar": "وفاة حارس مرمى منتخب آيسلندا السابق إنغفار يونسون عن 37 عاما.",
+     "src_ar": "الإمارات اليوم",
+     "en": "Former Iceland goalkeeper Ingvar Jonsson has died at 37.",
+     "src_en": "Emarat Al Youm"
+    },
+    {
+     "ar": "إنتر ميامي بقيادة ميسي يودّع التصفيات الأمريكية بهدف قاتل في الوقت بدل الضائع لكولومبوس كرو.",
+     "src_ar": "جلف نيوز",
+     "en": "Lionel Messi's Inter Miami are knocked out of the MLS Cup playoffs by an injury-time goal from Columbus Crew.",
+     "src_en": "Gulf News"
     }
    ]
   }
