@@ -1,11 +1,11 @@
 {
- "id": "2026-11-28T06:00",
+ "id": "2026-11-28T07:00",
  "date": {
   "ar": "السبت 28 نوفمبر 2026",
   "en": "Saturday 28 November 2026"
  },
- "uae": "6:00 AM",
- "cairo": "4:00 AM",
+ "uae": "7:00 AM",
+ "cairo": "5:00 AM",
  "sections": [
   {
    "title": {
@@ -14,34 +14,28 @@
    },
    "items": [
     {
-     "ar": "مدير منظمة الصحة العالمية يصف الهجمات على المرافق الصحية في غزة بأنها \"أمر مشين وغير مقبول\"، بعد إعلان أطباء بلا حدود مقتل اثنين من العاملين لديها كحارسي أمن في غارة إسرائيلية.",
-     "src_ar": "الجزيرة",
-     "en": "The head of the World Health Organization calls attacks on health facilities in Gaza \"outrageous and unacceptable\", after Doctors Without Borders said two of its guards were killed in an Israeli strike.",
-     "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "رصد طائرة مسيرة يعطل حركة الطيران في مطار كولونيا الألماني أكثر من ساعتين، بحسب وكالة الأنباء الألمانية.",
-     "src_ar": "الجزيرة والعربية",
-     "en": "A drone sighting disrupted flights at Germany's Cologne airport for more than two hours, German news agency DPA reports.",
-     "src_en": "Al Jazeera and Al Arabiya"
-    },
-    {
-     "ar": "المجلس العسكري في غينيا بيساو يعلن تأجيل الانتخابات الرئاسية والتشريعية إلى نهاية نوفمبر 2028 بسبب عدم اكتمال الظروف التقنية والمادية.",
-     "src_ar": "الجزيرة",
-     "en": "Guinea-Bissau's military council postpones presidential and legislative elections until the end of November 2028, citing incomplete technical and material conditions.",
-     "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "رئيس البرلمان السنغالي يدعو الرئيس إلى الاستقالة أو حل البرلمان وإجراء انتخابات تشريعية جديدة، وسط تصاعد الخلاف بشأن قانون الميزانية.",
-     "src_ar": "الجزيرة",
-     "en": "Senegal's parliament speaker calls on the president to resign or dissolve parliament and hold new legislative elections, amid a growing dispute over the budget law.",
-     "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "تلغراف: هيئة الاتصالات البريطانية تلغي ترخيص قناة تلفزيونية بعد بثها دعاية للحرس الثوري الإيراني.",
+     "ar": "مراسل العربية: انفجار سيارة قرب محطة بنزين في المنصورة بمصر.",
      "src_ar": "العربية",
-     "en": "The Telegraph reports that Britain's communications regulator has revoked a TV channel's licence after it broadcast propaganda for Iran's Revolutionary Guards.",
+     "en": "Al Arabiya's reporter says a car exploded near a petrol station in Mansoura, Egypt.",
      "src_en": "Al Arabiya"
+    },
+    {
+     "ar": "العثور على 10 فتيات و3 موظفين فقد الاتصال بهم في مدينة بولو التركية بعد تعطل المركبة التي تقلهم.",
+     "src_ar": "الجزيرة",
+     "en": "Ten girls and three staff members who lost contact after their vehicle broke down have been found in Turkey's city of Bolu.",
+     "src_en": "Al Jazeera"
+    },
+    {
+     "ar": "سانشيز ونونيز فيخو يتجادلان بشأن توصيف الحرب على غزة وسياسة الهجرة في المناظرة الأخيرة قبل الانتخابات العامة الإسبانية المبكرة يوم الأحد.",
+     "src_ar": "الجزيرة",
+     "en": "Spain's Sanchez and opposition leader Nunez Feijoo clash over how to describe the war in Gaza and over migration policy in the final debate before Sunday's early general election.",
+     "src_en": "Al Jazeera"
+    },
+    {
+     "ar": "وسائل إعلام تابعة للحوثيين: غارات تستهدف شبكات الاتصالات في محافظة البيضاء.",
+     "src_ar": "الجزيرة",
+     "en": "Houthi-linked media say air strikes are hitting telecommunications networks in Al-Bayda governorate.",
+     "src_en": "Al Jazeera"
     }
    ]
   },
@@ -52,21 +46,27 @@
    },
    "items": [
     {
-     "ar": "ترامب يتدخل لإعادة جنسن هوانغ إلى رئاسة إنفيديا، والسهم يقفز 31% في جلسة، بعد اتصالات وضغوط منه ومن دون تشاور مسبق مع كبار التنفيذيين.",
-     "src_ar": "العربية بزنس",
-     "en": "Trump steps in to bring Jensen Huang back as Nvidia chairman and the stock jumps 31% in one session, after calls and pressure from him and without prior consultation with senior executives.",
-     "src_en": "Al Arabiya Business"
+     "ar": "الحكومة الأميركية تحظر مزود النطاق الترددي ريتن من الشبكات الأميركية.",
+     "src_ar": "رويترز",
+     "en": "The US government bars bandwidth provider RETN from American networks.",
+     "src_en": "Reuters"
     },
     {
-     "ar": "عجز متوقع في سوق الديزل العالمية خلال الربع الثاني من 2027 بفعل صيانة المصافي وتراجع الصادرات واستمرار تأثير صراعات الشرق الأوسط وأوكرانيا.",
+     "ar": "اتفاقية تمويل بقيمة 1.45 مليار دولار لإنشاء أول مصنع أسمدة كبير في أنغولا، باستثمارات إجمالية تصل إلى 2.6 مليار دولار.",
      "src_ar": "سي إن بي سي عربية",
-     "en": "A shortfall is expected in the global diesel market in the second quarter of 2027, driven by refinery maintenance, lower exports and the continuing effects of conflicts in the Middle East and Ukraine.",
+     "en": "A $1.45 billion financing agreement is signed to build Angola's first major fertiliser plant, with total investment of up to $2.6 billion.",
      "src_en": "CNBC Arabia"
     },
     {
-     "ar": "ستاندرد آند بورز ترفع تصنيف جنوب أفريقيا مع تحسن وضعها المالي.",
+     "ar": "سوق دبي المالي يتعافى من خسائر الحرب ويحقق مكسبا شهريا بنسبة 14% في نوفمبر.",
+     "src_ar": "غلف نيوز",
+     "en": "Dubai Financial Market recovers from war-induced losses with a 14% monthly gain in November.",
+     "src_en": "Gulf News"
+    },
+    {
+     "ar": "غلاس لويس تدعم مجلس إدارة فيل ريزورتس في معركة التفويض مع المستثمر الناشط أوازيس.",
      "src_ar": "رويترز",
-     "en": "S&P raises South Africa's ratings on an improving fiscal position.",
+     "en": "Glass Lewis backs the Vail Resorts board in its proxy fight with activist investor Oasis.",
      "src_en": "Reuters"
     }
    ]
