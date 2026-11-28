@@ -1,11 +1,11 @@
 {
- "id": "2026-11-28T09:00",
+ "id": "2026-11-28T10:00",
  "date": {
   "ar": "السبت 28 نوفمبر 2026",
   "en": "Saturday 28 November 2026"
  },
- "uae": "9:00 AM",
- "cairo": "7:00 AM",
+ "uae": "10:00 AM",
+ "cairo": "8:00 AM",
  "sections": [
   {
    "title": {
@@ -14,34 +14,22 @@
    },
    "items": [
     {
-     "ar": "العربية مصر: ارتفاع عدد ضحايا حادث الوراق إلى 32 قتيلا.",
-     "src_ar": "العربية مصر",
-     "en": "Al Arabiya Egypt reports the death toll from the Warraq crash has risen to 32.",
-     "src_en": "Al Arabiya Egypt"
+     "ar": "مقتل 8 في تحطم مروحية عسكرية في البيرو خلال مهمة إنقاذ.",
+     "src_ar": "الإمارات اليوم",
+     "en": "Eight people are killed when a military helicopter crashes in Peru during a rescue mission.",
+     "src_en": "Emarat Al Youm"
     },
     {
-     "ar": "المقررة الأممية فرانشيسكا ألبانيزي تقول إن شرطة الهجرة في كوستاريكا لا تسمح لها بمغادرة المطار رغم أمر من المحكمة الدستورية يتيح لها الذهاب إلى فندق للراحة.",
-     "src_ar": "الجزيرة",
-     "en": "UN rapporteur Francesca Albanese says Costa Rican immigration police are not letting her leave the airport despite a Constitutional Court order allowing her to go to a hotel to rest.",
-     "src_en": "Al Jazeera"
+     "ar": "تايوان تصوّت اليوم لاختيار رؤساء البلديات والمقاطعات، وسط تحليق صيني متزايد للطائرات الحربية حول الجزيرة.",
+     "src_ar": "رويترز",
+     "en": "Taiwan votes today for mayors and county heads, as China steps up warplane flights around the island.",
+     "src_en": "Reuters"
     },
     {
-     "ar": "استشهاد 8 فلسطينيين في غارات إسرائيلية على مناطق عدة في قطاع غزة.",
-     "src_ar": "الجزيرة",
-     "en": "Eight Palestinians are killed in Israeli strikes across several areas of the Gaza Strip.",
-     "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "وسائل إعلام تابعة للحوثيين: هجوم يستهدف ناقلات غاز في مثلث السحول بمديرية إب.",
-     "src_ar": "الجزيرة",
-     "en": "Houthi-linked media say an attack has hit gas tankers at the Al-Suhul junction in Ibb district.",
-     "src_en": "Al Jazeera"
-    },
-    {
-     "ar": "فيضانات شديدة تضرب منطقة بيورا شمالي بيرو إثر أمطار غزيرة وتغمر الشوارع والمنازل، والسلطات تحذر من مزيد من الأمطار.",
-     "src_ar": "الجزيرة",
-     "en": "Severe floods hit Peru's northern Piura region after heavy rain, swamping streets and homes, and authorities warn of more rain.",
-     "src_en": "Al Jazeera"
+     "ar": "فاينانشال تايمز نقلا عن مصادر: الجيش الأمريكي صدّ نحو ست طائرات مسيّرة حامت حول قاعدة لاكنهيث الجوية البريطانية في وقت سابق من الشهر.",
+     "src_ar": "رويترز نقلا عن فاينانشال تايمز",
+     "en": "The Financial Times, citing sources, says the US military repelled about six drones hovering over RAF Lakenheath earlier this month.",
+     "src_en": "Reuters, citing the Financial Times"
     }
    ]
   },
@@ -52,24 +40,10 @@
    },
    "items": [
     {
-     "ar": "مؤشر إس آند بي 500 يدخل رسميا مرحلة التصحيح بعد تراجعه 11.6% عن قمته في أكتوبر، وسط مخاوف بشأن الإنفاق على الذكاء الاصطناعي وتقييمات شركات التكنولوجيا.",
-     "src_ar": "سي إن بي سي عربية",
-     "en": "The S&P 500 officially enters correction territory after falling 11.6% from its October peak, as investors worry about AI spending and big tech valuations.",
-     "src_en": "CNBC Arabia"
-    }
-   ]
-  },
-  {
-   "title": {
-    "ar": "رياضة",
-    "en": "Sport"
-   },
-   "items": [
-    {
-     "ar": "وفاة نجم المصارعة الأسترالي برونسون ريد عن 38 عاما لأسباب طبية بحسب إعلان WWE، وكان قد أصيب في نزال أمام أوبا فيمي في وقت سابق من الشهر.",
-     "src_ar": "إعلان WWE وأسوشيتد برس",
-     "en": "WWE says Australian wrestler Bronson Reed has died at 38 due to medical complications. He had been injured in a match against Oba Femi earlier this month.",
-     "src_en": "WWE statement and AP"
+     "ar": "المركزي التركي يلوّح باستخدام الذهب لتعزيز مركزه من العملات الأجنبية، بعد تراجع الاحتياطيات من نحو 210 مليارات دولار إلى 159 ملياراً، والذهب يشكل أكثر من 60% منها.",
+     "src_ar": "العربية Business",
+     "en": "Turkey's central bank signals it may use gold to bolster its foreign-currency position, after reserves fell from about $210 billion to $159 billion, with gold making up more than 60% of them.",
+     "src_en": "Al Arabiya Business"
     }
    ]
   }
