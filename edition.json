@@ -1,11 +1,11 @@
 {
- "id": "2026-11-28T18:00",
+ "id": "2026-11-28T19:00",
  "date": {
   "ar": "السبت 28 نوفمبر 2026",
   "en": "Saturday 28 November 2026"
  },
- "uae": "6:00 PM",
- "cairo": "4:00 PM",
+ "uae": "7:00 PM",
+ "cairo": "5:00 PM",
  "sections": [
   {
    "title": {
@@ -14,28 +14,34 @@
    },
    "items": [
     {
-     "ar": "وزير الخارجية المصري: لا حل لأزمات المنطقة دون حل للقضية الفلسطينية، وتأثيرات الملف الإيراني على الإقليم كبيرة.",
+     "ar": "وزير الخارجية المصري: البحر الأحمر للدول المشاطئة له ونحن ضد عسكرته، ولا يمكن رهن حقوق مصر المائية بتصريحات شفهية حتى لو كانت إيجابية.",
+     "src_ar": "العربية عاجل وسكاي نيوز عربية",
+     "en": "Egypt's foreign minister says the Red Sea belongs to its coastal states and Egypt opposes its militarization, and that Egypt's water rights cannot hinge on verbal statements, even positive ones.",
+     "src_en": "Al Arabiya and Sky News Arabia"
+    },
+    {
+     "ar": "اشتباكات بين الشرطة ومتظاهرين في العاصمة الألبانية تيرانا خلال احتجاجات تطالب باستقالة رئيس الوزراء إيدي راما بسبب اتهامات بالفساد.",
+     "src_ar": "الجزيرة",
+     "en": "Police clash with protesters in Tirana, Albania, during protests demanding the resignation of Prime Minister Edi Rama over corruption allegations.",
+     "src_en": "Al Jazeera"
+    },
+    {
+     "ar": "البحرين تستدعي السفير اللبناني وتسلمه مذكرة احتجاج على لقاء في بيروت تضمن تصريحات مسيئة للمملكة.",
      "src_ar": "سكاي نيوز عربية",
-     "en": "Egypt's foreign minister says there is no solution to the region's crises without resolving the Palestinian issue, and that the Iranian file has a major impact on the region.",
+     "en": "Bahrain summons Lebanon's ambassador and hands him a formal protest note over a meeting in Beirut that included remarks offensive to the kingdom.",
      "src_en": "Sky News Arabia"
     },
     {
-     "ar": "تحركات برلمانية في مصر لتعديل قانون المرور وقواعد نقل المواد البترولية بعد حادث الوراق.",
-     "src_ar": "العربية مصر",
-     "en": "Egyptian lawmakers move to amend the traffic law and rules for transporting petroleum products after the Warraq crash.",
-     "src_en": "Al Arabiya Egypt"
+     "ar": "وزارة الدفاع الروسية: استهدفنا محطة فرعية للكهرباء ومحطة للطاقة الحرارية في كييف.",
+     "src_ar": "سكاي نيوز عربية",
+     "en": "Russia's defence ministry says it targeted an electrical substation and a thermal power plant in Kyiv.",
+     "src_en": "Sky News Arabia"
     },
     {
-     "ar": "رويترز: غارة جوية للجيش في ميانمار على مدرسة في إحدى القرى تقتل 30 شخصا على الأقل، بحسب المعارضة.",
+     "ar": "المحافظون يفوزون في انتخابات ولاية فيكتوريا الأسترالية، ويحرمون حزب أمة واحدة المناهض للهجرة من أي مكاسب كبيرة.",
      "src_ar": "رويترز",
-     "en": "A Myanmar military airstrike on a village school kills at least 30 people, the opposition says, Reuters reports.",
+     "en": "Conservatives win the election in Australia's Victoria state, denying the anti-immigration One Nation party any significant gains.",
      "src_en": "Reuters"
-    },
-    {
-     "ar": "زلزال بقوة 6.7 درجة يضرب منطقة يليزوفو في روسيا.",
-     "src_ar": "سكاي نيوز عربية",
-     "en": "A magnitude 6.7 earthquake strikes the Yelizovo area in Russia.",
-     "src_en": "Sky News Arabia"
     }
    ]
   },
@@ -46,28 +52,22 @@
    },
    "items": [
     {
-     "ar": "وزير المالية المصري: نعمل على آلية لضمان مخاطر المصدرين في الأسواق الجديدة ومنها الأفريقية، وهي في مراحل متقدمة.",
+     "ar": "فاتورة واردات مصر من الغاز تقفز نحو 50% إلى 6.7 مليار دولار.",
      "src_ar": "الشرق بلومبرغ",
-     "en": "Egypt's finance minister says work is under way on a mechanism to insure exporters' risks in new markets, including Africa, and it is at an advanced stage.",
+     "en": "Egypt's gas import bill jumps nearly 50% to $6.7 billion.",
      "src_en": "Asharq Bloomberg"
     },
     {
-     "ar": "رئيس كليوباترا جروب: نستهدف إنشاء مصنع سيراميك جديد باستثمارات تصل إلى 60 مليون يورو.",
-     "src_ar": "الشرق بلومبرغ",
-     "en": "The chairman of Cleopatra Group says it plans a new ceramics factory with investment of up to 60 million euros.",
-     "src_en": "Asharq Bloomberg"
+     "ar": "ميناء صحار والمنطقة الحرة في عُمان يستقطبان استثمارات بقيمة 286 مليون ريال عماني، ومناولة الحاويات ترتفع 40.6% في أول عشرة أشهر.",
+     "src_ar": "CNBC عربية",
+     "en": "Oman's Sohar port and free zone attract investments of 286 million Omani rials, and container handling rose 40.6% in the first ten months.",
+     "src_en": "CNBC Arabia"
     },
     {
-     "ar": "مصادر: نائب محافظ البنك المركزي المصري مرشح لمنصب قيادي في صندوق النقد الدولي.",
-     "src_ar": "العربية Business",
-     "en": "Sources say the deputy governor of Egypt's central bank is a candidate for a senior post at the International Monetary Fund.",
-     "src_en": "Al Arabiya Business"
-    },
-    {
-     "ar": "فرنسا على حافة الركود: الاقتصاد ينكمش 0.1% في الربع الثالث وتراجع النشاط الخاص إلى أدنى مستوى في ستة أشهر.",
-     "src_ar": "العربية Business",
-     "en": "France is on the edge of recession: the economy shrank 0.1% in the third quarter and private-sector activity fell to a six-month low.",
-     "src_en": "Al Arabiya Business"
+     "ar": "المتسوقون الصينيون يتجهون إلى السترات المبطنة الأقل سعرا، مع تراجع جاذبية العلامات الفاخرة.",
+     "src_ar": "رويترز",
+     "en": "Chinese shoppers turn to cheaper puffer jackets as luxury brands lose appeal.",
+     "src_en": "Reuters"
     }
    ]
   },
@@ -78,16 +78,10 @@
    },
    "items": [
     {
-     "ar": "النصر يسجل في 100 مباراة متتالية بدوري المحترفين السعودي، في رقم قياسي غير مسبوق.",
-     "src_ar": "فيلجول",
-     "en": "Al Nassr score in 100 consecutive Saudi Pro League games, an unprecedented record.",
-     "src_en": "FilGoal"
-    },
-    {
-     "ar": "سبيرز يتغلب على ليكرز ويتأهل إلى الأدوار الإقصائية لكأس الدوري الأمريكي للمحترفين.",
-     "src_ar": "رويترز",
-     "en": "The Spurs edge the Lakers and reach the NBA Cup knockout stage.",
-     "src_en": "Reuters"
+     "ar": "إسبانيا تتأهل إلى نهائي كأس ديفيس لملاقاة إيطاليا حاملة اللقب والمستضيفة، بعد فوزها 2-0 على بريطانيا.",
+     "src_ar": "بي إن سبورتس",
+     "en": "Spain reach the Davis Cup final against hosts and holders Italy after beating Britain 2-0.",
+     "src_en": "beIN Sports"
     }
    ]
   }
