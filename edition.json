@@ -1,11 +1,11 @@
 {
- "id": "2026-11-28T05:00",
+ "id": "2026-11-28T06:00",
  "date": {
   "ar": "السبت 28 نوفمبر 2026",
   "en": "Saturday 28 November 2026"
  },
- "uae": "5:00 AM",
- "cairo": "3:00 AM",
+ "uae": "6:00 AM",
+ "cairo": "4:00 AM",
  "sections": [
   {
    "title": {
@@ -14,34 +14,34 @@
    },
    "items": [
     {
-     "ar": "القيادة المركزية الأميركية: ادعاء إيران أنها استعادت ناقلتي نفط من الجيش الأميركي كاذب، وكذلك الادعاء بأن حاملة الطائرات أبراهام لينكولن تعرضت لهجوم. العربية: الحاملة أكملت مهمتها في الشرق الأوسط وعادت إلى أميركا.",
+     "ar": "مدير منظمة الصحة العالمية يصف الهجمات على المرافق الصحية في غزة بأنها \"أمر مشين وغير مقبول\"، بعد إعلان أطباء بلا حدود مقتل اثنين من العاملين لديها كحارسي أمن في غارة إسرائيلية.",
+     "src_ar": "الجزيرة",
+     "en": "The head of the World Health Organization calls attacks on health facilities in Gaza \"outrageous and unacceptable\", after Doctors Without Borders said two of its guards were killed in an Israeli strike.",
+     "src_en": "Al Jazeera"
+    },
+    {
+     "ar": "رصد طائرة مسيرة يعطل حركة الطيران في مطار كولونيا الألماني أكثر من ساعتين، بحسب وكالة الأنباء الألمانية.",
      "src_ar": "الجزيرة والعربية",
-     "en": "US Central Command says Iran's claim that it recovered two oil tankers from the US military is false, as is the claim that the carrier Abraham Lincoln was attacked. Al Arabiya reports the carrier has finished its Middle East mission and returned to the United States.",
+     "en": "A drone sighting disrupted flights at Germany's Cologne airport for more than two hours, German news agency DPA reports.",
      "src_en": "Al Jazeera and Al Arabiya"
     },
     {
-     "ar": "القيادة المركزية الأميركية: القوات الأميركية وشركاؤها الإقليميون يسيطرون على مضيق هرمز ولا تفرض رسوما على السفن العابرة، وآلاف السفن ومليارات البراميل عبرت بأمان، ولم يعد لدى إيران قوة بحرية فعلية.",
-     "src_ar": "سكاي نيوز عربية والجزيرة",
-     "en": "US Central Command says US forces and regional partners control the Strait of Hormuz and charge no fees for ships passing through, that thousands of ships and billions of barrels have crossed safely, and that Iran no longer has an effective navy.",
-     "src_en": "Sky News Arabia and Al Jazeera"
-    },
-    {
-     "ar": "مصدر رفيع بالجيش السوداني للجزيرة: مسيرات تابعة للدعم السريع تستهدف مقار عسكرية ومدنية في مدينة الدمازين.",
+     "ar": "المجلس العسكري في غينيا بيساو يعلن تأجيل الانتخابات الرئاسية والتشريعية إلى نهاية نوفمبر 2028 بسبب عدم اكتمال الظروف التقنية والمادية.",
      "src_ar": "الجزيرة",
-     "en": "A senior Sudanese army source tells Al Jazeera that Rapid Support Forces drones are targeting military and civilian sites in the city of Damazin.",
+     "en": "Guinea-Bissau's military council postpones presidential and legislative elections until the end of November 2028, citing incomplete technical and material conditions.",
      "src_en": "Al Jazeera"
     },
     {
-     "ar": "إدارة الطيران الفيدرالية الأميركية: لا إصابات جراء حادث في مطار رونالد ريغان واشنطن الوطني، وستفتح تحقيقا.",
+     "ar": "رئيس البرلمان السنغالي يدعو الرئيس إلى الاستقالة أو حل البرلمان وإجراء انتخابات تشريعية جديدة، وسط تصاعد الخلاف بشأن قانون الميزانية.",
      "src_ar": "الجزيرة",
-     "en": "The US Federal Aviation Administration says no injuries were reported from an incident at Ronald Reagan Washington National Airport, and that it will open an investigation.",
+     "en": "Senegal's parliament speaker calls on the president to resign or dissolve parliament and hold new legislative elections, amid a growing dispute over the budget law.",
      "src_en": "Al Jazeera"
     },
     {
-     "ar": "متحدث باسم الخارجية الأميركية للجزيرة: ندعم عراقا موحدا وفيدراليا وذا سيادة وإقليما مستقرا لكردستان ضمن العراق، وحل القضايا العالقة بين بغداد وأربيل بالحوار.",
-     "src_ar": "الجزيرة",
-     "en": "A US State Department spokesperson tells Al Jazeera that Washington supports a united, federal and sovereign Iraq with a stable Kurdistan Region inside it, and resolving open issues between Baghdad and Erbil through dialogue.",
-     "src_en": "Al Jazeera"
+     "ar": "تلغراف: هيئة الاتصالات البريطانية تلغي ترخيص قناة تلفزيونية بعد بثها دعاية للحرس الثوري الإيراني.",
+     "src_ar": "العربية",
+     "en": "The Telegraph reports that Britain's communications regulator has revoked a TV channel's licence after it broadcast propaganda for Iran's Revolutionary Guards.",
+     "src_en": "Al Arabiya"
     }
    ]
   },
@@ -52,35 +52,21 @@
    },
    "items": [
     {
-     "ar": "ستاندرد آند بورز تعدل النظرة المستقبلية للتصنيف الائتماني لفرنسا إلى سلبية، مع ضغوط على الميزانية العامة وضعف النمو.",
-     "src_ar": "سي إن بي سي عربية",
-     "en": "S&P revises its outlook on France's credit rating to negative, citing pressure on the public budget and weak growth.",
-     "src_en": "CNBC Arabia"
-    },
-    {
-     "ar": "بتكوين تسجل سبعة أسابيع متتالية من الخسائر وتهبط إلى 55,254 دولارا قبل أن تتعافى فوق 61 ألفا، وخروج 1.8 مليار دولار من صناديقها الأميركية في أسبوع.",
+     "ar": "ترامب يتدخل لإعادة جنسن هوانغ إلى رئاسة إنفيديا، والسهم يقفز 31% في جلسة، بعد اتصالات وضغوط منه ومن دون تشاور مسبق مع كبار التنفيذيين.",
      "src_ar": "العربية بزنس",
-     "en": "Bitcoin logs seven straight weekly losses, falling to $55,254 before recovering above $61,000, while $1.8 billion left its US funds in a week.",
+     "en": "Trump steps in to bring Jensen Huang back as Nvidia chairman and the stock jumps 31% in one session, after calls and pressure from him and without prior consultation with senior executives.",
      "src_en": "Al Arabiya Business"
     },
     {
-     "ar": "بويغ تشتري مالكة بارفان دو مارلي من أدفنت في صفقة بقيمة 1.2 مليار يورو.",
-     "src_ar": "رويترز",
-     "en": "Puig is to buy the owner of Parfums de Marly from Advent in a 1.2 billion euro deal.",
-     "src_en": "Reuters"
-    }
-   ]
-  },
-  {
-   "title": {
-    "ar": "رياضة",
-    "en": "Sport"
-   },
-   "items": [
+     "ar": "عجز متوقع في سوق الديزل العالمية خلال الربع الثاني من 2027 بفعل صيانة المصافي وتراجع الصادرات واستمرار تأثير صراعات الشرق الأوسط وأوكرانيا.",
+     "src_ar": "سي إن بي سي عربية",
+     "en": "A shortfall is expected in the global diesel market in the second quarter of 2027, driven by refinery maintenance, lower exports and the continuing effects of conflicts in the Middle East and Ukraine.",
+     "src_en": "CNBC Arabia"
+    },
     {
-     "ar": "أسعار تذاكر ستيلرز تهبط 66% بعد رحيل آرون رودجرز.",
+     "ar": "ستاندرد آند بورز ترفع تصنيف جنوب أفريقيا مع تحسن وضعها المالي.",
      "src_ar": "رويترز",
-     "en": "Steelers ticket prices plunge 66% after Aaron Rodgers' release.",
+     "en": "S&P raises South Africa's ratings on an improving fiscal position.",
      "src_en": "Reuters"
     }
    ]
